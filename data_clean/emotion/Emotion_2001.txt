@@ -1,0 +1,3053 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Eaton, LG
+   Funder, DC
+AF Eaton, Leslie G.
+   Funder, David C.
+TI Emotional Experience in Daily Life: Valence, Variability, and Rate of
+   Change
+SO EMOTION
+LA English
+DT Article
+AB Measurements of 3 basic affective phenomena-valence of emotion, intraindividual variability, and rate of change-were derived from self-reports of emotion gathered from 123 participants (68 females, 55 males) sampled 4 times daily over 8 days. Self-reports and acquaintances' descriptions of personality were also obtained. The 3 emotion variables were not significantly intercorrelated and yielded different personality correlates. Valence of emotion positively correlated with extraversion, intraindividual variability with repression, and rate of change with fearfulness and hostility toward others, but not all results were consistent across gender. It is suggested that future research pay increased attention to patterns of emotional change over time and to the relations between gender and emotional experience.
+C1 [Eaton, Leslie G.; Funder, David C.] Univ Calif Riverside, Dept Psychol, Riverside, CA 92521 USA.
+C3 University of California System; University of California Riverside
+RP Eaton, LG (corresponding author), Univ Calif Riverside, Dept Psychol 075, Riverside Accuracy Project, Riverside, CA 92521 USA.
+EM leslie@citrus.ucr.edu
+RI Funder, David/V-8125-2019
+CR [Anonymous], 1993, Handbook of emotions, DOI DOI 10.1016/S0065-2601(08)60214-2
+   [Anonymous], 1961, Q SORT METHOD PERSON
+   AVERILL JR, 1983, AM PSYCHOL, V38, P1145, DOI 10.1037/0003-066X.38.11.1145
+   Barrett LF, 1998, J PERS SOC PSYCHOL, V74, P967, DOI 10.1037/0022-3514.74.4.967
+   BEM DJ, 1978, PSYCHOL REV, V85, P485, DOI 10.1037/0033-295X.85.6.485
+   BLOCK J, 1995, PSYCHOL BULL, V117, P187, DOI 10.1037/0033-2909.117.2.187
+   BLOCK JH, 1991, J PERS SOC PSYCHOL, V60, P726, DOI 10.1037/0022-3514.60.5.726
+   Brody L.R., 1993, HDB EMOTIONS, P447, DOI DOI 10.4135/9781483346274.N122
+   BYRNE DG, 1981, BRIT J CLIN PSYCHOL, V20, P83, DOI 10.1111/j.2044-8260.1981.tb00501.x
+   CANTOR N, 1991, J PERS, V59, P425, DOI 10.1111/j.1467-6494.1991.tb00255.x
+   CLUM GA, 1973, PSYCHOL REP, V32, P507, DOI 10.2466/pr0.1973.32.2.507
+   Costa PT., 1996, Handbook of emotion, adult development, and aging, P369, DOI [DOI 10.1016/B978-012464995-8/50021-2, 10.1016/B978-012464995-8/50021-2]
+   CSIKSZENTMIHALYI M, 1987, J NERV MENT DIS, V175, P526, DOI 10.1097/00005053-198709000-00004
+   Davidson RJ, 1998, COGNITION EMOTION, V12, P307, DOI 10.1080/026999398379628
+   Diener E, 1999, J PERS SOC PSYCHOL, V76, P803, DOI 10.1037/0022-3514.76.5.803
+   Eid M, 1999, J PERS SOC PSYCHOL, V76, P662, DOI 10.1037/0022-3514.76.4.662
+   Fahrenberg J., 2000, ENG PSYCHOL, P111
+   Fossum TA, 2000, PERS SOC PSYCHOL B, V26, P669, DOI 10.1177/0146167200268003
+   Gray J.A., 1987, COGNITIVE CHEM, P171
+   Gross JJ, 2000, PERS SOC PSYCHOL B, V26, P712, DOI 10.1177/0146167200268006
+   Kaiser RT, 1997, PERS INDIV DIFFER, V22, P371, DOI 10.1016/S0191-8869(96)00208-5
+   Kardum I, 1999, PERS INDIV DIFFER, V26, P33
+   LARSEN RJ, 1987, J PERS SOC PSYCHOL, V52, P1195, DOI 10.1037/0022-3514.52.6.1195
+   Larsen RJ, 2000, PSYCHOL INQ, V11, P129, DOI 10.1207/S15327965PLI1103_01
+   LARSEN RJ, 1990, J PERS SOC PSYCHOL, V58, P164, DOI 10.1037/0022-3514.58.1.164
+   LAZARUS RS, 1991, AM PSYCHOL, V46, P819, DOI 10.1037/0003-066X.46.8.819
+   McConville C, 1999, PERS INDIV DIFFER, V26, P65
+   Mccrae, 1985, NEO PERSONALITY INVE
+   MESQUITA B, 1992, PSYCHOL BULL, V112, P179, DOI 10.1037/0033-2909.112.2.179
+   Myrtek M, 2000, J PSYCHOPHYSIOL, V14, P106, DOI 10.1027//0269-8803.14.2.106
+   Piedmont RL, 2000, J PERS SOC PSYCHOL, V78, P582, DOI 10.1037//0022-3514.78.3.582
+   Schimmack U, 1997, J PERS SOC PSYCHOL, V73, P1313, DOI 10.1037/0022-3514.73.6.1313
+   Shewchuk RM, 1999, J APPL SOC PSYCHOL, V29, P685, DOI 10.1111/j.1559-1816.1999.tb02019.x
+   Spain JS, 2000, J PERS, V68, P837, DOI 10.1111/1467-6494.00118
+   Suhail K, 1997, SOC PSYCH PSYCH EPID, V32, P149
+   Sutton SK, 1997, PSYCHOL SCI, V8, P204, DOI 10.1111/j.1467-9280.1997.tb00413.x
+   Warner Rebecca. M., 1998, Spectral Analysis of Timeseries Data
+   Watson D, 2000, PSYCHOL INQ, V11, P205
+   Zelenski JM, 2000, J RES PERS, V34, P178, DOI 10.1006/jrpe.1999.2275
+NR 39
+TC 80
+Z9 91
+U1 0
+U2 17
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+J9 EMOTION
+JI Emotion
+PD DEC
+PY 2001
+VL 1
+IS 4
+BP 413
+EP 421
+DI 10.1037//1528-3542.1.4.413
+PG 9
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RI
+UT WOS:000208224300005
+PM 12901400
+DA 2025-05-08
+ER
+
+PT J
+AU Pine, DS
+   Grun, J
+   Zarahn, E
+   Fyer, A
+   Koda, V
+   Li, W
+   Szeszko, PR
+   Ardekani, B
+   Bilder, RM
+AF Pine, Daniel S.
+   Grun, Joseph
+   Zarahn, Eric
+   Fyer, Abby
+   Koda, Vivian
+   Li, Wei
+   Szeszko, Philip R.
+   Ardekani, Babak
+   Bilder, Robert M.
+TI Cortical Brain Regions Engaged by Masked Emotional Faces in Adolescents
+   and Adults: An fMRI Study
+SO EMOTION
+LA English
+DT Article
+AB Face-emotion processing has shown signs of developmental change during adolescence. Functional magnetic resonance imaging (fMRI) was used on 10 adolescents and 10 adults to contrast brain regions engaged by a masked emotional-face task (viewing a fixation cross and a series of masked happy and masked fearful faces), while blood oxygen level dependent signal was monitored by a 1.5-T MRI scanner. Brain regions differentially engaged in the 2 age groups were mapped by using statistical parametric mapping. Summed across groups, the contrast of masked face versus fixation-cross viewing generated activations in occipital-temporal regions previously activated in passive face-viewing tasks. Adolescents showed higher maxima for activations in posterior association cortex for 3 of the 4 statistical contrasts. Adolescents and adults differed in the degree to which posterior hemisphere brain areas were engaged by viewing masked facial displays of emotion.
+C1 [Pine, Daniel S.] NIMH, Mood & Anxiety Disorders Program, Bethesda, MD 20892 USA.
+   [Grun, Joseph; Zarahn, Eric; Fyer, Abby; Koda, Vivian; Li, Wei] New York State Psychiat Inst & Hosp, New York, NY 10032 USA.
+   [Szeszko, Philip R.; Bilder, Robert M.] N Shore Long Isl Jewish Med Ctr, Hillside Hosp Div, Garden City, NY USA.
+   [Ardekani, Babak; Bilder, Robert M.] Nathan S Kline Inst Psychiat Res, Ctr Adv Brain Imaging, Orangeburg, NY USA.
+C3 National Institutes of Health (NIH) - USA; NIH National Institute of
+   Mental Health (NIMH); New York State Psychiatry Institute; Northwell
+   Health; Nathan Kline Institute for Psychiatric Research
+RP Pine, DS (corresponding author), NIMH, Mood & Anxiety Disorders Program, Bldg 1,Room B310,Mailstop 0135, Bethesda, MD 20892 USA.
+EM daniel.pine@nih.gov
+RI Szeszko, Philip/G-9336-2013; Pine, Daniel/Z-1601-2019; Bilder,
+   Robert/A-8894-2008
+OI Bilder, Robert/0000-0001-5085-7852
+FU NIMH NIH HHS [MH-01391] Funding Source: Medline
+CR Angold A, 1999, PSYCHOL MED, V29, P1043, DOI 10.1017/S0033291799008946
+   [Anonymous], 1976, Pictures of Facial Affect
+   Baird AA, 1999, J AM ACAD CHILD PSY, V38, P195, DOI 10.1097/00004583-199902000-00019
+   Breiter HC, 1996, NEURON, V17, P875, DOI 10.1016/S0896-6273(00)80219-6
+   CASEY BJ, 1995, NEUROIMAGE, V2, P221, DOI 10.1006/nimg.1995.1029
+   Friston KJ, 1999, NEUROIMAGE, V10, P385, DOI 10.1006/nimg.1999.0484
+   Friston KJ, 1998, NEUROIMAGE, V7, P30, DOI 10.1006/nimg.1997.0306
+   Gauthier I, 1999, NAT NEUROSCI, V2, P568, DOI 10.1038/9224
+   Giedd JN, 1999, NAT NEUROSCI, V2, P861, DOI 10.1038/13158
+   Giedd JN, 1997, PROG NEURO-PSYCHOPH, V21, P1185, DOI 10.1016/S0278-5846(97)00158-9
+   Henson R, 2000, SCIENCE, V287, P1269, DOI 10.1126/science.287.5456.1269
+   Ishai A, 1999, P NATL ACAD SCI USA, V96, P9379, DOI 10.1073/pnas.96.16.9379
+   Kanwisher N, 1997, J NEUROSCI, V17, P4302
+   Karmiloff-Smith A, 1998, TRENDS COGN SCI, V2, P389, DOI 10.1016/S1364-6613(98)01230-3
+   Kayser J, 2000, INT J PSYCHOPHYSIOL, V36, P211, DOI 10.1016/S0167-8760(00)00078-7
+   McClure EB, 2000, PSYCHOL BULL, V126, P424, DOI 10.1037/0033-2909.126.3.424
+   Mogg K, 1999, BEHAV RES THER, V37, P595, DOI 10.1016/S0005-7967(98)00158-2
+   Morris JS, 1999, P NATL ACAD SCI USA, V96, P1680, DOI 10.1073/pnas.96.4.1680
+   Morris JS, 1998, NATURE, V393, P467, DOI 10.1038/30976
+   Nelson CA, 2000, DEV PSYCHOL, V36, P109, DOI 10.1037/0012-1649.36.1.109
+   OHMAN A, 1986, PSYCHOPHYSIOLOGY, V23, P123, DOI 10.1111/j.1469-8986.1986.tb00608.x
+   Ohman A, 1998, J EXP PSYCHOL GEN, V127, P69, DOI 10.1037/0096-3445.127.1.69
+   Pine DS, 1998, ARCH GEN PSYCHIAT, V55, P56, DOI 10.1001/archpsyc.55.1.56
+   Polk TA, 1998, P NATL ACAD SCI USA, V95, P847, DOI 10.1073/pnas.95.3.847
+   Quartz SR, 1997, BEHAV BRAIN SCI, V20, P537
+   Rauch SL, 2000, BIOL PSYCHIAT, V47, P769, DOI 10.1016/S0006-3223(00)00828-3
+   Spear LP, 2000, NEUROSCI BIOBEHAV R, V24, P417, DOI 10.1016/S0149-7634(00)00014-2
+   Szeszko PR, 1999, ARCH GEN PSYCHIAT, V56, P913, DOI 10.1001/archpsyc.56.10.913
+   Thomas KM, 2001, BIOL PSYCHIAT, V49, P309, DOI 10.1016/S0006-3223(00)01066-0
+   Thomas KM, 1999, NEUROIMAGE, V10, P327, DOI 10.1006/nimg.1999.0466
+   Thompson PM, 2000, NATURE, V404, P190, DOI 10.1038/35004593
+   van Turennout M, 2000, NAT NEUROSCI, V3, P1329, DOI 10.1038/81873
+   Whalen PJ, 1998, J NEUROSCI, V18, P411
+   WORSLEY KJ, 1994, ADV APPL PROBAB, V26, P13, DOI 10.2307/1427576
+NR 34
+TC 31
+Z9 34
+U1 0
+U2 8
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+J9 EMOTION
+JI Emotion
+PD JUN
+PY 2001
+VL 1
+IS 2
+BP 137
+EP 147
+DI 10.1037//1528-3542.1.2.137
+PG 11
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RG
+UT WOS:000208224100003
+PM 12899193
+DA 2025-05-08
+ER
+
+PT J
+AU Spasojevic, J
+   Alloy, LB
+AF Spasojevic, Jelena
+   Alloy, Lauren B.
+TI Rumination as a Common Mechanism Relating Depressive Risk Factors to
+   Depression
+SO EMOTION
+LA English
+DT Article
+ID PRIVATE SELF-CONSCIOUSNESS; LOW COGNITIVE RISK; RESPONSE STYLES;
+   SEX-DIFFERENCES; DEPENDENCY; CRITICISM; VULNERABILITY; PERSONALITY;
+   MOOD; DISORDERS
+AB Rumination was examined as a potential common mechanism linking risk factors with depression. Initially nondepressed individuals (N = 137) were assessed for presence of a ruminative response style and 4 other hypothesized risk factors for depression. They were followed for 2.5 years. Negative cognitive styles, self-criticism, dependency, neediness, and history of past depression were all significantly associated with rumination. Rumination mediated the predictive relationships of all risk factors except dependency with the number of prospective Diagnostic and Statistical Manual of Mental Disorders (3rd ed., rev.; American Psychiatric Association, 1987) major depressive episodes (MDEs; definite and subthreshold) during the follow-up period. In contrast, private self-consciousness did not mediate any relationships between risk factors and subsequent MDEs. Thus, rumination, as a special kind of self-focus, may act as a general proximal mechanism through which other vulnerability factors affect depression.
+C1 [Spasojevic, Jelena; Alloy, Lauren B.] Temple Univ, Dept Psychol, Philadelphia, PA 19122 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); Temple
+   University
+RP Spasojevic, J (corresponding author), Temple Univ, Dept Psychol, 1701 N 13th St, Philadelphia, PA 19122 USA.
+EM jspasoje@unix.temple.edu
+CR Abramson L.Y., 1995, EXPLANATORY STYLE, P113, DOI DOI 10.4324/9781315831497
+   Abramson L. Y., 2000, COGNITIVE STYL UNPUB
+   ABRAMSON LY, 1989, PSYCHOL REV, V96, P358, DOI 10.1037/0033-295X.96.2.358
+   Alloy L.B., 1999, J COGN PSYCHOTHER, V13, P227
+   Alloy L. B., 2000, PROSPECTIVE IN UNPUB
+   Alloy LB, 1997, COGNITION EMOTION, V11, P539, DOI 10.1080/026999397379854a
+   Alloy LB, 1999, BEHAV RES THER, V37, P503, DOI 10.1016/S0005-7967(98)00157-0
+   Alloy LB, 2000, J ABNORM PSYCHOL, V109, P403, DOI 10.1037//0021-843X.109.3.403
+   BAGBY RM, 1994, AM J PSYCHIAT, V151, P597
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   Beck A. T., 1979, Cognitive therapy of depression
+   Beck A. T., 1967, Depression: Clinical, experimental, and theoretical aspects, DOI DOI 10.1001/ARCHPSYC.1968.01740120126024
+   BECK AT, 1988, CLIN PSYCHOL REV, V8, P77, DOI 10.1016/0272-7358(88)90050-5
+   BLATT SJ, 1982, J CONSULT CLIN PSYCH, V50, P113, DOI 10.1037/0022-006X.50.1.113
+   BLATT SJ, 1995, J PERS ASSESS, V64, P319, DOI 10.1207/s15327752jpa6402_11
+   BLATT SJ, 1976, J ABNORM PSYCHOL, V85, P383, DOI 10.1037/0021-843X.85.4.383
+   BLATT SJ, 1992, CLIN PSYCHOL REV, V12, P527, DOI 10.1016/0272-7358(92)90070-O
+   Bouffard R, 2003, CAN J PSYCHIAT, V48, P546, DOI 10.1177/070674370304800806
+   BROWN JD, 1989, J ABNORM PSYCHOL, V98, P187, DOI 10.1037/0021-843X.98.2.187
+   BUTLER LD, 1994, SEX ROLES, V30, P331, DOI 10.1007/BF01420597
+   Davis RN, 2000, COGNITIVE THER RES, V24, P699, DOI 10.1023/A:1005591412406
+   DOBSON KS, 1983, J ABNORM PSYCHOL, V92, P107, DOI 10.1037/0021-843X.92.1.107
+   ENDICOTT J, 1978, ARCH GEN PSYCHIAT, V35, P837
+   FENIGSTEIN A, 1975, J CONSULT CLIN PSYCH, V43, P522, DOI 10.1037/h0076760
+   Flett GL, 1997, PSYCHOL BULL, V121, P395, DOI 10.1037/0033-2909.121.3.395
+   FRANCHE RL, 1992, COGNITIVE THER RES, V16, P419, DOI 10.1007/BF01183166
+   FRANK E, 1991, ARCH GEN PSYCHIAT, V48, P851, DOI 10.1001/archpsyc.1991.01810330075011
+   GONZALES LR, 1985, J CONSULT CLIN PSYCH, V53, P461, DOI 10.1037/0022-006X.53.4.461
+   Gross JJ, 1999, COGNITION EMOTION, V13, P551, DOI 10.1080/026999399379186
+   HAAGA DAF, 1991, PSYCHOL BULL, V110, P215, DOI 10.1037/0033-2909.110.2.215
+   HAMILTON EW, 1983, J ABNORM PSYCHOL, V92, P173, DOI 10.1037/0021-843X.92.2.173
+   HIRSCHFELD RMA, 1989, ARCH GEN PSYCHIAT, V46, P345
+   INGRAM RE, 1990, PSYCHOL BULL, V107, P156, DOI 10.1037/0033-2909.107.2.156
+   Just N, 1997, J ABNORM PSYCHOL, V106, P221, DOI 10.1037/0021-843X.106.2.221
+   Just N, 2001, CLIN PSYCHOL REV, V21, P63, DOI 10.1016/S0272-7358(99)00035-5
+   KELLER MB, 1982, ARCH GEN PSYCHIAT, V39, P905
+   Kenny D. A., 1998, Handbook of social psychology, V4th, P233
+   KLEIN DN, 1988, J ABNORM PSYCHOL, V97, P399, DOI 10.1037/0021-843X.97.4.399
+   LEWINSOHN PM, 1989, J ABNORM PSYCHOL, V98, P107, DOI 10.1037/0021-843X.98.2.107
+   Lewinsohn PM, 2000, J ABNORM PSYCHOL, V109, P345, DOI 10.1037//0021-843X.109.2.345
+   LYUBOMIRSKY S, 1993, J PERS SOC PSYCHOL, V65, P339, DOI 10.1037/0022-3514.65.2.339
+   Lyubomirsky S, 1998, J PERS SOC PSYCHOL, V75, P166, DOI 10.1037/0022-3514.75.1.166
+   LYUBOMIRSKY S, 1995, J PERS SOC PSYCHOL, V69, P176, DOI 10.1037/0022-3514.69.1.176
+   Mittal VA, 2011, PSYCHIAT RES, V189, P158, DOI 10.1016/j.psychres.2011.06.006
+   MORROW J, 1990, J PERS SOC PSYCHOL, V58, P519, DOI 10.1037/0022-3514.58.3.519
+   Musson R.F., 1988, Cognitive processes in depression, P193
+   NIETZEL MT, 1990, CLIN PSYCHOL REV, V10, P279, DOI 10.1016/0272-7358(90)90063-G
+   Nolen-Hoeksema S, 1999, J PERS SOC PSYCHOL, V77, P801, DOI 10.1037/0022-3514.77.4.801
+   Nolen-Hoeksema S, 1999, J PERS SOC PSYCHOL, V77, P1061, DOI 10.1037/0022-3514.77.5.1061
+   Nolen-Hoeksema S, 2000, J ABNORM PSYCHOL, V109, P504, DOI 10.1037/0021-843X.109.3.504
+   Nolen-Hoeksema S., 1998, Motivation and self-regulation across the life span, P237, DOI [10.1017/CBO9780511527869.011, DOI 10.1017/CBO9780511527869.011]
+   NOLENHOEKSEMA S, 1993, J ABNORM PSYCHOL, V102, P20, DOI 10.1037/0021-843X.102.1.20
+   NolenHoeksema S, 1997, J PERS SOC PSYCHOL, V72, P855, DOI 10.1037/0022-3514.72.4.855
+   NOLENHOEKSEMA S, 1991, J ABNORM PSYCHOL, V100, P569, DOI 10.1037/0021-843X.100.4.569
+   NOLENHOEKSEMA S, 1991, J PERS SOC PSYCHOL, V61, P115, DOI 10.1037/0022-3514.61.1.115
+   NOLENHOEKSEMA S, 1994, J PERS SOC PSYCHOL, V67, P92, DOI 10.1037/0022-3514.67.1.92
+   NOLENHOEKSEMA S, 1987, PSYCHOL BULL, V101, P259, DOI 10.1037/0033-2909.101.2.259
+   Priel B, 1999, J SOC CLIN PSYCHOL, V18, P240, DOI 10.1521/jscp.1999.18.2.240
+   Roberts J. E., 1998, COGNITIVE THERAPY RE, V22, P401
+   Rosenfarb IS, 1998, BRIT J CLIN PSYCHOL, V37, P409, DOI 10.1111/j.2044-8260.1998.tb01398.x
+   RUDE SS, 1995, COGNITIVE THER RES, V19, P323, DOI 10.1007/BF02230403
+   Ruscio J, 2000, J ABNORM PSYCHOL, V109, P473, DOI 10.1037//0021-843X.109.3.473
+   Schwartz JAJ, 1996, COGNITIVE THER RES, V20, P13, DOI 10.1007/BF02229241
+   Segerstrom SC, 2000, COGNITIVE THER RES, V24, P671, DOI 10.1023/A:1005587311498
+   SELIGMAN MEP, 1979, J ABNORM PSYCHOL, V88, P242, DOI 10.1037/0021-843X.88.3.242
+   SIEGLE GJ, 2000, 34 ANN CONV ASS ADV
+   Spasojevic J., 2000, WHO BECOMES RU UNPUB
+   Spitzer R.L., 1978, SCHEDULE AFFECTIVE D
+   SPITZER RL, 1978, ARCH GEN PSYCHIAT, V35, P773, DOI 10.1001/archpsyc.1978.01770300115013
+   Trapnell PD, 1999, J PERS SOC PSYCHOL, V76, P284, DOI 10.1037/0022-3514.76.2.284
+   Weissman A., 1978, DEV VALIDATION DYSFU
+   WHIFFEN VE, 1991, J SOC CLIN PSYCHOL, V10, P121, DOI 10.1521/jscp.1991.10.2.121
+   ZUROFF DC, 1990, COGNITIVE THER RES, V14, P315, DOI 10.1007/BF01183999
+   ZUROFF DC, 1983, J RES PERS, V17, P226, DOI 10.1016/0092-6566(83)90033-8
+NR 74
+TC 427
+Z9 538
+U1 2
+U2 73
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD MAR
+PY 2001
+VL 1
+IS 1
+BP 25
+EP 37
+DI 10.1037/1528-3542.1.1.25
+PG 13
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RE
+UT WOS:000208223900004
+PM 12894809
+DA 2025-05-08
+ER
+
+PT J
+AU Zeidner, M
+   Matthews, G
+   Roberts, RD
+AF Zeidner, Moshe
+   Matthews, Gerald
+   Roberts, Richard D.
+TI Slow Down, You Move Too Fast: Emotional Intelligence Remains an
+   "Elusive" Intelligence
+SO EMOTION
+LA English
+DT Article
+ID TRADITIONAL STANDARDS; PERSONALITY
+AB Commentators on the R. D. Roberts, M. Zeidner, and G. Matthews (2001) article on the measurement of emotional intelligence (EI) made various pertinent observations that confirm the growing interest in this topic. This rejoinder finds general agreement on some key issues: learning from the history of ability testing, developing more sophisticated structural models of ability, studying emotional abilities across the life span, and establishing predictive and construct validity. However, scoring methods for tests of EI remain problematic. This rejoinder acknowledges recent improvements in convergence between different scoring methods but discusses further difficulties related to (a) neglect of group differences in normative social behaviors, (b) segregation of separate domains of knowledge linked to cognitive and emotional intelligences, (c) potential confounding of competence with learned skills and cultural factors, and (d) lack of specification of adaptive functions of EI. Empirical studies have not yet established that the Multi-Factor Emotional Intelligence Scale and related tests assess a broad EI factor of real-world significance.
+C1 [Zeidner, Moshe] Univ Haifa, Ctr Interdisciplinary Res Emot, Dept Psychol, IL-31905 Har Hakarmel, Israel.
+   [Matthews, Gerald] Univ Cincinnati, Dept Psychol, Cincinnati, OH 45221 USA.
+   [Roberts, Richard D.] Univ Sydney, Dept Psychol, Sydney, NSW 2006, Australia.
+C3 University of Haifa; University System of Ohio; University of
+   Cincinnati; University of Sydney
+RP Zeidner, M (corresponding author), Univ Haifa, Ctr Interdisciplinary Res Emot, Dept Psychol, IL-31905 Har Hakarmel, Israel.
+EM m_zeidner@hotmail.com
+RI Roberts, Richard/CAE-8461-2022; Matthews, G/AAM-2968-2020
+CR Ackerman PL, 1996, INTELLIGENCE, V22, P227, DOI 10.1016/S0160-2896(96)90016-1
+   Anastasi A., 1997, Psychological testing
+   [Anonymous], 1994, Attention and emotion: A clinical perspective
+   Bellack JP, 2001, J PROF NURS, V17, P23, DOI 10.1053/jpnu.2001.20247
+   Ben-Zeev Aaron, 2000, The Subtlety of Emotions
+   Books B., 1995, Emotional intelligence
+   Carroll B J., 1993, Human cognitive abilities: A survey of factor-analytical studies
+   Carrothers RM, 2000, ACAD MED, V75, P456, DOI 10.1097/00001888-200005000-00016
+   Clore G. L., 2000, SER AFFECTIVE SCI, P24
+   Davies M, 1998, J PERS SOC PSYCHOL, V75, P989, DOI 10.1037/0022-3514.75.4.989
+   Druskat VU, 2001, HARVARD BUS REV, V79, P80
+   GUTTMAN L, 1991, INTELLIGENCE, V15, P79, DOI 10.1016/0160-2896(91)90023-7
+   Herrnstein R.J., 1994, The Bell Curve: Intelligence and Class Structure in American Life
+   Izard CE, 2001, EMOTION, V1, P249, DOI 10.1037//1528-3542.1.3.249
+   Kaufman AS, 2001, EMOTION, V1, P258, DOI 10.1037//1528-3542.1.3.258
+   KAUFMAN AS, 1976, CHILD DEV, V47, P165
+   Lazarus R. S., 1991, EMOTION ADAPTATION
+   Leventhal H., 1987, COGNITION EMOTION, V1, P3, DOI DOI 10.1080/02699938708408361
+   Mackintosh, 1998, IQ and human intelligence, DOI DOI 10.1111/jeb.12061
+   Marshall C, 2001, CHEM ENG PROG, V97, P92
+   Matthews G., 2000, Handbook of emotional intelligence, P459
+   MATTHEWS G, EMOTIONAL I IN PRESS
+   Matthews G., 1999, FUTURE LEARNING INDI, P251
+   Mayer J.D., 2000, HDB EMOTIONAL INTELL, DOI DOI 10.1017/CBO9780511807947.019
+   Mayer J.D., 2000, HDB EMOTIONAL INTELL, P320
+   Mayer JD, 1999, INTELLIGENCE, V27, P267, DOI 10.1016/S0160-2896(99)00016-1
+   Mayer JD, 2001, EMOTION, V1, P232, DOI 10.1037//1528-3542.1.3.232
+   Nunnally J. C., 1978, PSYCHOMETRIC THEORY, V2nd, DOI DOI 10.1007/978-1-4020-9173-5_8
+   Ormsbee CK, 2000, INTERV SCH CLIN, V36, P125, DOI 10.1177/105345120003600210
+   Roberts RD, 2000, LEARN INDIVID DIFFER, V12, P81, DOI 10.1016/S1041-6080(00)00035-2
+   Roberts RD, 2001, EMOTION, V1, P196, DOI 10.1037//1528-3542.1.3.196
+   Rolls E., 1999, The brain and emotion
+   Saarni C., 2000, HDB EMOTIONAL INTELL, P68
+   Schaie KW, 2001, EMOTION, V1, P243, DOI 10.1037//1528-3542.1.3.243
+   Silver MA, 1999, PSYCHOL PUBLIC POL L, V5, P1173, DOI 10.1037//1076-8971.5.4.1173
+   Spearman C., 1927, ABILITIES MAN
+   STANKOV L, 1986, INTELLIGENCE, V10, P209, DOI 10.1016/0160-2896(86)90016-4
+   Thomson GH, 1921, B J PSYCHOL-GEN SECT, V12, P201
+   Wedeck J, 1947, B J PSYCHOL-GEN SECT, V37, P133, DOI 10.1111/j.2044-8295.1947.tb01128.x
+NR 39
+TC 75
+Z9 119
+U1 0
+U2 12
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD SEP
+PY 2001
+VL 1
+IS 3
+BP 265
+EP 275
+DI 10.1037//1528-3542.1.3.265
+PG 11
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RH
+UT WOS:000208224200007
+PM 12934686
+DA 2025-05-08
+ER
+
+PT J
+AU Juslin, PN
+   Laukka, P
+AF Juslin, Patrik N.
+   Laukka, Petri
+TI Impact of Intended Emotion Intensity on Cue Utilization and Decoding
+   Accuracy in Vocal Expression of Emotion
+SO EMOTION
+LA English
+DT Article
+ID FUNDAMENTAL-FREQUENCY; PERCEPTION; STRESS; VOICE; COMMUNICATION;
+   RECOGNITION; SPEECH; STATE; PERFORMANCE; INTONATION
+AB Actors vocally portrayed happiness, sadness, anger, fear, and disgust with weak and strong emotion intensity while reading brief verbal phrases aloud. The portrayals were recorded and analyzed according to 20 acoustic cues. Listeners decoded each portrayal by using forced-choice or quantitative ratings. The results showed that (a) portrayals with strong emotion intensity yielded higher decoding accuracy than portrayals with weak intensity, (b) listeners were able to decode the intensity of portrayals, (c) portrayals of the same emotion with different intensity yielded different patterns of acoustic cues, and (d) certain acoustic cues (e. g., fundamental frequency, high-frequency energy) were highly predictive of listeners' ratings of emotion intensity. It is argued that lack of control for emotion intensity may account for some of the inconsistencies in cue utilization reported in the literature.
+C1 [Juslin, Patrik N.; Laukka, Petri] Uppsala Univ, Dept Psychol, SE-75142 Uppsala, Sweden.
+C3 Uppsala University
+RP Juslin, PN (corresponding author), Uppsala Univ, Dept Psychol, Box 1225, SE-75142 Uppsala, Sweden.
+EM Patrik.Juslin@psyk.uu.se
+RI Laukka, Petri/B-5259-2008
+OI Laukka, Petri/0000-0001-8771-6818
+CR [Anonymous], 1997, Affective computing
+   [Anonymous], 1969, Semiotica, DOI [10.1515/semi.1969.1.1.49, DOI 10.1515/SEMI.1969.1.1.49]
+   [Anonymous], 1980, The Phonetic Description of Voice Quality
+   Averill J.R., 1993, HDB EMOTIONS, P617
+   Bachorowski JA, 1999, CURR DIR PSYCHOL SCI, V8, P53, DOI 10.1111/1467-8721.00013
+   BACHOROWSKI JA, 1995, PSYCHOL SCI, V6, P219, DOI 10.1111/j.1467-9280.1995.tb00596.x
+   Banse R, 1996, J PERS SOC PSYCHOL, V70, P614, DOI 10.1037/0022-3514.70.3.614
+   Baum KM, 1998, J NONVERBAL BEHAV, V22, P89, DOI 10.1023/A:1022954014365
+   Boersma P., 1999, PRAAT 3 8 24  COMPUT
+   Borden G.J., 1994, SPEECH SCI PRIMER PH
+   Cohen J., 2003, APPL MULTIPLE REGRES, DOI DOI 10.4324/9780203774441
+   Cohen J., 1988, Statistical Power Analysis for the Behavioral Sciences, Vsecond, DOI DOI 10.4324/9780203771587
+   COSMIDES L, 1983, J EXP PSYCHOL HUMAN, V9, P864, DOI 10.1037/0096-1523.9.6.864
+   COSTANZO FS, 1969, J COUNS PSYCHOL, V16, P267, DOI 10.1037/h0027355
+   Cowie R, 2001, IEEE SIGNAL PROC MAG, V18, P32, DOI 10.1109/79.911197
+   Cowie R., 2000, P ISCA WORKSH SPEECH
+   Davitz J.R., 1964, COMMUNICATION EMOTIO
+   DAVITZ JR, 1959, J COMMUN, V9, P6, DOI 10.1111/j.1460-2466.1959.tb00286.x
+   EKMAN P, 1992, COGNITION EMOTION, V6, P169, DOI 10.1080/02699939208411068
+   Ekman P., 1994, The Nature of Emotion: Fundamental Questions
+   Ekman Paul., 1973, DARWIN FACIAL EXPRES
+   ELDRED SH, 1958, PSYCHIATR, V21, P115
+   Fairbanks G, 1939, SPEECH MONOGR, V6, P87, DOI 10.1080/03637753909374863
+   Fairbanks G, 1941, SPEECH MONOGR, V8, P85, DOI 10.1080/03637754109374888
+   FONAGY I, 1978, LANG SPEECH, V21, P34, DOI 10.1177/002383097802100102
+   Fonagy I., 1963, Z F R PHONETIK, V16, P293, DOI [DOI 10.1524/STUF.1963.16.14.293, 10.1524/stuf.1963.16.14.293]
+   Frank MG, 2001, J PERS SOC PSYCHOL, V80, P75, DOI 10.1037/0022-3514.80.1.75
+   FRICK RW, 1985, PSYCHOL BULL, V97, P412, DOI 10.1037/0033-2909.97.3.412
+   Fridlund AJ, 1994, Human facial expression: an evolutionary view
+   Friesen W. V., 1972, Ph.D.dissertation
+   Goldbeck T, 1988, EXPT STUDIES VOCAL A, P119
+   Goldstein U. G., 1980, Doctoral Dissertation
+   Hair J.F., 1998, Multivariate Data Analysis, P5
+   HARGREAVES WILLIAM A., 1965, J ABNORM PSYCHOL, V70, P218, DOI 10.1037/h0022151
+   HUTTAR GL, 1968, J SPEECH HEAR RES, V11, P481, DOI 10.1044/jshr.1103.481
+   Johansson S., 1993, ENGLISH PRONUNCIATIO
+   Johnstone T., 1998, LABSPEECH 1 0B SPEEC
+   Johnstone T., 2000, Handbook of Emotions, V2, P220, DOI DOI 10.1016/S0167-6393(02)00084-5
+   Juslin P. N., 2001, COMMUNICATION UNPUB
+   Juslin PN, 2000, J EXP PSYCHOL HUMAN, V26, P1797, DOI 10.1037//0096-1523.26.6.1797
+   Kaiser L., 1962, SYNTHESE, V14, P300
+   Kaiser S., 1998, Emotions in Psychopathology: Theory and Research, P81
+   Kappas A., 1995, ASPECTS ORAL COMMUNI, P169
+   KRAMER E, 1964, J ABNORM SOC PSYCH, V68, P390, DOI 10.1037/h0042473
+   KRAMER E, 1963, PSYCHOL BULL, V60, P408, DOI 10.1037/h0044890
+   LADD DR, 1985, J ACOUST SOC AM, V78, P435, DOI 10.1121/1.392466
+   Laukka P., 2001, EMOTIONAL DIME UNPUB
+   Laukkanen A.M., 1997, Logopedics, Phoniatrics, Vocology, V22, P157, DOI DOI 10.3109/14015439709075330
+   Laukkanen AM, 1996, J PHONETICS, V24, P313, DOI 10.1006/jpho.1996.0017
+   Lewis M., 2000, HDB EMOTIONS, V2nd
+   LIEBERMAN P, 1962, J ACOUST SOC AM, V34, P922, DOI 10.1121/1.1918222
+   Lieberman P., 1967, INTONATION PERCEPTIO
+   Mozziconacci S., 1998, SPEECH VARIABILITY E
+   MURRAY IR, 1993, J ACOUST SOC AM, V93, P1097, DOI 10.1121/1.405558
+   Murray IR, 1996, SPEECH COMMUN, V20, P3, DOI 10.1016/S0167-6393(96)00040-4
+   MURRAY IR, 1995, SPEECH COMMUN, V16, P369, DOI 10.1016/0167-6393(95)00005-9
+   OATLEY K, 1994, COGNITION EMOTION, V8, P369, DOI 10.1080/02699939408408947
+   Oatley Keith, 1992, Best laid schemes: The psychology of emotions
+   PAKOSZ M, 1983, J PSYCHOLINGUIST RES, V12, P311
+   Pfaff P., 1958, SPEECH MONOGR, V21, P155
+   Planalp S., 1998, HDB COMMUNICATION EM, P29
+   Plutchik R., 1994, The psychology and biology of emotion
+   POLLACK I, 1960, LANG SPEECH, V3, P121, DOI 10.1177/002383096000300301
+   Power M., 1997, COGNITION EMOTION OR
+   Protopapas A, 1997, J ACOUST SOC AM, V101, P2267, DOI 10.1121/1.418247
+   ROSENTHAL R, 1989, PSYCHOL BULL, V106, P332, DOI 10.1037/0033-2909.106.2.332
+   Russell JA, 1999, J PERS SOC PSYCHOL, V76, P805, DOI 10.1037/0022-3514.76.5.805
+   RUSSELL JA, 1994, PSYCHOL BULL, V115, P102, DOI 10.1037/0033-2909.115.1.102
+   Scherer K.R., 1977, Motivation and Emotion, V1, P331, DOI [10.1007/bf00992539, DOI 10.1007/BF00992539]
+   Scherer K.R., 1982, HDB METHODS NONVERBA, P136
+   Scherer K.R., 1984, Approaches to Emotion, V2293, P31
+   Scherer Klaus Rainer, 1979, Social Markers in Speech
+   Scherer KlausR., 1989, Handbook of social psychophysiology, P165
+   SCHERER KR, 1986, PSYCHOL BULL, V99, P143, DOI 10.1037/0033-2909.99.2.143
+   SCHERER KR, 1991, MOTIV EMOTION, V15, P123, DOI 10.1007/BF00995674
+   Shannon CE., 1949, The mathematical theory of communication
+   SIMONOV PV, 1973, AEROSPACE MED, V44, P256
+   Skinner ER, 1935, SPEECH MONOGR, V2, P81, DOI 10.1080/03637753509374833
+   SONNEMANS J, 1994, COGNITION EMOTION, V8, P329, DOI 10.1080/02699939408408945
+   TERNSTROM S, 1996, SOUNDSWELL SIGNAL WO
+   Titze I. R., 1994, Principles of Voice Production
+   TOLKMITT FJ, 1986, J EXP PSYCHOL HUMAN, V12, P302, DOI 10.1037/0096-1523.12.3.302
+   van Bezooijen R., 1984, CHARACTERISTICS RECO
+   von Bismarck G., 1974, Acustica, V30, P146
+   VOS J, 1981, PERCEPT PSYCHOPHYS, V29, P323, DOI 10.3758/BF03207341
+   WAGNER HL, 1993, J NONVERBAL BEHAV, V17, P3, DOI 10.1007/BF00987006
+   WILLIAMS CE, 1972, J ACOUST SOC AM, V52, P1238, DOI 10.1121/1.1913238
+   WILLIAMS CE, 1969, AEROSPACE MED, V40, P1369
+   WILLIAMS F, 1965, AV COMMUN REV, V13, P44
+NR 89
+TC 204
+Z9 235
+U1 0
+U2 36
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD DEC
+PY 2001
+VL 1
+IS 4
+BP 381
+EP 412
+DI 10.1037//1528-3542.1.4.381
+PG 32
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RI
+UT WOS:000208224300004
+PM 12901399
+DA 2025-05-08
+ER
+
+PT J
+AU Bradley, MM
+   Codispoti, M
+   Cuthbert, BN
+   Lang, PJ
+AF Bradley, Margaret M.
+   Codispoti, Maurizio
+   Cuthbert, Bruce N.
+   Lang, Peter J.
+TI Emotion and Motivation I: Defensive and Appetitive Reactions in Picture
+   Processing
+SO EMOTION
+LA English
+DT Article
+ID INDIVIDUAL-DIFFERENCES; AUTONOMIC RESPONSE; STARTLE REFLEX; SYSTEM;
+   ATTENTION; PATTERNS; BRAIN; FEAR
+AB Emotional reactions are organized by underlying motivational states-defensive and appetitive-that have evolved to promote the survival of individuals and species. Affective responses were measured while participants viewed pictures with varied emotional and neutral content. Consistent with the motivational hypothesis, reports of the strongest emotional arousal, largest skin conductance responses, most pronounced cardiac deceleration, and greatest modulation of the startle reflex occurred when participants viewed pictures depicting threat, violent death, and erotica. Moreover, reflex modulation and conductance change varied with arousal, whereas facial patterns were content specific. The findings suggest that affective responses serve different functions-mobilization for action, attention, and social communication-and reflect the motivational system that is engaged, its intensity of activation, and the specific emotional context.
+C1 [Bradley, Margaret M.] Univ Florida, Ctr Study Emot & Attent, Hlth Sci Ctr, Gainesville, FL 32610 USA.
+C3 State University System of Florida; University of Florida
+RP Bradley, MM (corresponding author), Univ Florida, Ctr Study Emot & Attent, Hlth Sci Ctr, POB 100165, Gainesville, FL 32610 USA.
+RI Codispoti, Maurizio/B-7672-2008
+OI Codispoti, Maurizio/0000-0002-7285-4342
+CR [Anonymous], EMOTION
+   [Anonymous], 1999, INT AFF PICT SYST DI
+   [Anonymous], PROGR NEURO PSYCHOPH
+   [Anonymous], AM PSYCHOL, DOI DOI 10.1037/0003-066X.50.5.372
+   [Anonymous], AMYGDALA
+   [Anonymous], BIOL PSYCHOL
+   [Anonymous], 1999, STARTLE MODIFICATION
+   [Anonymous], ACTIVATION VIS UNPUB
+   [Anonymous], HDB PSYCHOPHYSIOLOGY
+   [Anonymous], 1997, VPM Reference Manual (Version 12.5)
+   Bradley M.M., 1999, PSYCHOLOGY, DOI DOI 10.3758/BF03193031
+   Bradley M.M., 2000, COGNITIVE NEUROSCIEN, P242
+   BRADLEY MM, 1993, PSYCHOPHYSIOLOGY, V30, P541, DOI 10.1111/j.1469-8986.1993.tb02079.x
+   BRADLEY MM, 1993, BEHAV NEUROSCI, V107, P970, DOI 10.1037/0735-7044.107.6.970
+   BRADLEY MM, 1994, J BEHAV THER EXP PSY, V25, P49, DOI 10.1016/0005-7916(94)90063-9
+   Cacioppo JT, 1999, J PERS SOC PSYCHOL, V76, P839, DOI 10.1037/0022-3514.76.5.839
+   CACIOPPO JT, 1994, PSYCHOL BULL, V115, P401, DOI 10.1037/0033-2909.115.3.401
+   Campbell BA, 1997, ATTENTION AND ORIENTING: SENSORY AND MOTIVATIONAL PROCESSES, P41
+   Codispoti M., 1998, Psychophysiology, V35, pS25
+   Cook E.W., 1987, Psychophysiology, V24, P726, DOI [10.1111/j.1469-8986.1987, DOI 10.1111/J.1469-8986.1987.TB00361.X]
+   Cuthbert BN, 1998, PSYCHOPHYSIOLOGY, V35, P344, DOI 10.1017/S0048577298970536
+   Cuthbert BN, 1996, PSYCHOPHYSIOLOGY, V33, P103, DOI 10.1111/j.1469-8986.1996.tb02114.x
+   Darwin Charles, 1955, Expressions of the Emotions
+   Davidson RJ, 2000, PSYCHOL BULL, V126, P890, DOI [10.1037//0033-2909.126.6.890, 10.1037/0033-2909.126.6.890]
+   EKMAN P, 1990, J PERS SOC PSYCHOL, V58, P342, DOI 10.1037/0022-3514.58.2.342
+   Ekman Paul., 1973, DARWIN FACIAL EXPRES
+   FANSELOW MS, 1994, PSYCHON B REV, V1, P429, DOI 10.3758/BF03210947
+   FRIDLUND AJ, 1986, PSYCHOPHYSIOLOGY, V23, P567, DOI 10.1111/j.1469-8986.1986.tb00676.x
+   Globisch J., 1993, Psychophysiology, V30, pS30
+   GRAHAM F.K., 1979, ORIENTING REFLEX HUM
+   Greenwald M. K., 1989, Journal of Psychophysiology, V3, P51
+   Guyton AC., 1996, TXB MED PHYSL
+   Hamm AO, 1997, PSYCHOPHYSIOLOGY, V34, P97, DOI 10.1111/j.1469-8986.1997.tb02420.x
+   HARE R, 1970, PSYCHOPHYSIOLOGY, V7, P408, DOI 10.1111/j.1469-8986.1970.tb01766.x
+   Hillman CH, 2000, MOTIV EMOTION, V24, P13, DOI 10.1023/A:1005535508771
+   HODES RL, 1985, PSYCHOPHYSIOLOGY, V22, P545, DOI 10.1111/j.1469-8986.1985.tb01649.x
+   Junghöfer M, 2001, PSYCHOPHYSIOLOGY, V38, P175, DOI 10.1111/1469-8986.3820175
+   KAPP BS, 1979, PHYSIOL BEHAV, V23, P1109, DOI 10.1016/0031-9384(79)90304-4
+   KLORMAN R, 1977, PSYCHOPHYSIOLOGY, V14, P45, DOI 10.1111/j.1469-8986.1977.tb01154.x
+   Konorski J., 1967, INTEGRATIVE ACTIVITY
+   Lang P., 1980, Technology in mental health care delivery systems, V1, P119, DOI DOI 10.1111/J.1469-8986.1993.TB03352.X
+   Lang P.J., 1999, A4 U FLOR CTR RES PS
+   Lang P.J., 1971, HDB PSYCHOTHERAPY BE
+   Lang PJ, 1997, ATTENTION AND ORIENTING: SENSORY AND MOTIVATIONAL PROCESSES, P97
+   LANG PJ, 1993, PSYCHOPHYSIOLOGY, V30, P261, DOI 10.1111/j.1469-8986.1993.tb03352.x
+   LANG PJ, 1990, PSYCHOL REV, V97, P377, DOI 10.1037/0033-295X.97.3.377
+   LeDoux J.E., 1990, Learning and Computational Neuroscience, P3
+   LUNDQVIST LO, 1995, J PSYCHOPHYSIOL, V9, P203
+   MALTZMAN I, 1984, J ABNORM PSYCHOL, V93, P41, DOI 10.1037/0021-843X.93.1.41
+   MASTERSON FA, 1982, BEHAV BRAIN SCI, V5, P661, DOI 10.1017/S0140525X00014114
+   Mehrabian A., 1974, APPROACH ENV PSYCHOL, V12
+   Obrist P.A., 1981, Cardiovascular Psychophysiology: A Perspective
+   Osgood Charles, 1957, The measurement of meaning
+   Rolls ET, 2000, BEHAV BRAIN SCI, V23, P177, DOI 10.1017/S0140525X00002429
+   Schupp HT, 1997, PSYCHOPHYSIOLOGY, V34, P1, DOI 10.1111/j.1469-8986.1997.tb02409.x
+   SCHWARTZ GE, 1980, PSYCHOPHYSIOLOGY, V17, P75, DOI 10.1111/j.1469-8986.1980.tb02463.x
+   SMITH CA, 1985, J PERS SOC PSYCHOL, V48, P813, DOI 10.1037/0022-3514.48.4.813
+   Sokolov Y.N., 1963, PERCEPTION CONDITION
+   TASSINARY LG, 1989, PSYCHOPHYSIOLOGY, V26, P1, DOI 10.1111/j.1469-8986.1989.tb03125.x
+   TASSINARY LG, 1992, PSYCHOL SCI, V3, P28, DOI 10.1111/j.1467-9280.1992.tb00252.x
+   Tees RC, 2003, CAN PSYCHOL, V44, P74, DOI 10.1037/h0088061
+   TIMBERLAKE W, 1993, J EXP ANAL BEHAV, V60, P105, DOI 10.1901/jeab.1993.60-105
+   URSIN H, 1993, NEUROPSYCHOBIOLOGY, V28, P66, DOI 10.1159/000119002
+   VASEY MW, 1987, PSYCHOPHYSIOLOGY, V24, P479, DOI 10.1111/j.1469-8986.1987.tb00324.x
+   VRANA SR, 1988, J ABNORM PSYCHOL, V97, P487, DOI 10.1037/0021-843X.97.4.487
+NR 65
+TC 1817
+Z9 2121
+U1 12
+U2 330
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD SEP
+PY 2001
+VL 1
+IS 3
+BP 276
+EP 298
+DI 10.1037//1528-3542.1.3.276
+PG 23
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RH
+UT WOS:000208224200008
+PM 12934687
+DA 2025-05-08
+ER
+
+PT J
+AU Mayer, JD
+   Salovey, P
+   Caruso, DR
+   Sitarenios, G
+AF Mayer, John D.
+   Salovey, Peter
+   Caruso, David R.
+   Sitarenios, Gill
+TI Emotional Intelligence as a Standard Intelligence
+SO EMOTION
+LA English
+DT Article
+ID TRADITIONAL STANDARDS
+AB The authors have claimed that emotional intelligence (EI) meets traditional standards for an intelligence (J. D. Mayer, D. R. Caruso, & P. Salovey, 1999). R. D. Roberts, M. Zeidner, and G. Matthews (2001) questioned whether that claim was warranted. The central issue raised by Roberts et al. concerning Mayer et al. (1999) is whether there are correct answers to questions on tests purporting to measure EI as a set of abilities. To address this issue (and others), the present authors briefly restate their view of intelligence, emotion, and EI. They then present arguments for the reasonableness of measuring EI as an ability, indicate that correct answers exist, and summarize recent data suggesting that such measures are, indeed, reliable.
+C1 [Mayer, John D.] Univ New Hampshire, Dept Psychol, Durham, NH 03824 USA.
+   [Salovey, Peter] Yale Univ, Dept Psychol, New Haven, CT 06520 USA.
+   [Caruso, David R.] Work Life Strategies, New Canaan, CT USA.
+   [Sitarenios, Gill] Multihlth Syst Inc, Res & Dev, Toronto, ON, Canada.
+C3 University System Of New Hampshire; University of New Hampshire; Yale
+   University
+RP Mayer, JD (corresponding author), Univ New Hampshire, Dept Psychol, Conant Hall,10 Lib Way, Durham, NH 03824 USA.
+EM jack.mayer@unh.edu
+RI Mayer, John/D-1339-2019
+OI Mayer, John/0000-0003-1644-707X
+CR Ackerman PL, 1997, J PERS, V65, P171, DOI 10.1111/j.1467-6494.1997.tb00952.x
+   [Anonymous], 2000, HDB EMOTIONS
+   [Anonymous], 2009, EVIL INSIDE HUMAN VI
+   [Anonymous], 1991, EMOTIONS ADAPTATION
+   Averill J.R., 1991, International review of studies on emotion, V1, P269
+   BRACKETT MA, 2001, THESIS U NEW HAMPSHI
+   Cattell RB, 1943, PSYCHOL BULL, V40, P153, DOI 10.1037/h0059973
+   Cohen J., 2001, Caring classrooms/ intelligent schools: The social emotional education of young children
+   Cohen J., 1997, ED MINDS HEARTS SOCI
+   D. W, 2008, Wechsler Adult Intelligence Scale
+   Darwin Charles, 1955, Expressions of the Emotions
+   Davies M, 1998, J PERS SOC PSYCHOL, V75, P989, DOI 10.1037/0022-3514.75.4.989
+   DYER MG, 1983, COGNITIVE SCI, V7, P211, DOI 10.1207/s15516709cog0703_3
+   Ekman P., 1985, TELLING LIES
+   Ekman Paul., 1973, DARWIN FACIAL EXPRES
+   FORMICA S, 1998, THESIS U NEW HAMPSHI
+   Frijda N.H., 2000, Handbook of emotions, P59
+   Guilford J. P., 1959, Personality
+   Legree PJ, 1995, INTELLIGENCE, V21, P247, DOI 10.1016/0160-2896(95)90016-0
+   Matarazzo J.D., 1972, WECHSLERS MEASUREMEN, V5th
+   Mayer J., 1998, Advances in cognition and educational practice, V5, P43
+   Mayer J. D., 1997, Emotional development and emotional intelligence: Implications for educators, P3
+   Mayer J.D., 2000, Handbook of intelligence, V2, P396
+   Mayer J.D., 2001, EMOTIONAL INTE UNPUB
+   Mayer J.D., 2001, ROEPER REV, V23, P131, DOI [DOI 10.1080/02783190109554084, 10.1080/02783190109554084]
+   Mayer J.D., 2000, HDB EMOTIONAL INTELL, DOI DOI 10.1017/CBO9780511807947.019
+   Mayer J.D., 2000, HDB EMOTIONAL INTELL, P320
+   Mayer J.D., 2001, EMOTIONAL INTELLIGEN, P3
+   Mayer JD, 1996, INTELLIGENCE, V22, P89, DOI 10.1016/S0160-2896(96)90011-2
+   Mayer JD, 1999, INTELLIGENCE, V27, P267, DOI 10.1016/S0160-2896(99)00016-1
+   MAYER JD, 1990, J PERS ASSESS, V54, P772, DOI 10.1207/s15327752jpa5403&4_29
+   MAYER JD, 1995, APPL PREV PSYCHOL, V4, P197, DOI 10.1016/S0962-1849(05)80058-7
+   Nunnally J. C., 1978, PSYCHOMETRIC THEORY, V2nd, DOI DOI 10.1007/978-1-4020-9173-5_8
+   Roberts RD, 2001, EMOTION, V1, P196, DOI 10.1037//1528-3542.1.3.196
+   Rubin M.M., 1999, THESIS IMMACULATA CO
+   Salovey P., The handbook of positive psychology
+   Salovey P., 1990, IMAGIN COGN PERS, V9, P185, DOI DOI 10.2190/DUGG-P24E-52WK-6CDG
+   Salovey P., 2001, Blackwell Handbook of Social Psychology: Interpersonal Processes, P279
+   Shriver T.P., 1997, Ascd
+   Soloman R., 2000, Handbook of emotions, P3, DOI DOI 10.1017/CBO9780511550270
+   Sternberg RJ, 1997, AM PSYCHOL, V52, P1030, DOI 10.1037/0003-066X.52.10.1030
+   Trinidad D. R., PERSONALITY INDIVIDU
+   Tulsky D., 1997, WAIS-III WMS-III Technical Manual
+NR 43
+TC 538
+Z9 955
+U1 9
+U2 163
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD SEP
+PY 2001
+VL 1
+IS 3
+BP 232
+EP 242
+DI 10.1037//1528-3542.1.3.232
+PG 11
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RH
+UT WOS:000208224200003
+PM 12934682
+DA 2025-05-08
+ER
+
+PT J
+AU Rosenberg, EL
+   Ekman, P
+   Jiang, W
+   Babyak, M
+   Coleman, RE
+   Hanson, M
+   O'Connor, C
+   Waugh, R
+   Blumenthal, JA
+AF Rosenberg, Erika L.
+   Ekman, Paul
+   Jiang, Wei
+   Babyak, Michael
+   Coleman, R. Edward
+   Hanson, Michael
+   O'Connor, Christopher
+   Waugh, Robert
+   Blumenthal, James A.
+TI Linkages Between Facial Expressions of Anger and Transient Myocardial
+   Ischemia in Men With Coronary Artery Disease
+SO EMOTION
+LA English
+DT Article
+AB The authors examined whether facial expressions of emotion would predict changes in heart function. One hundred fifteen male patients with coronary artery disease underwent the Type A Structured Interview, during which time measures of transient myocardial ischemia (wall motion abnormality and left ventricular ejection fraction) were obtained. Facial behavior exhibited during the ischemia measurement period was videotaped and later coded by using the Facial Action Coding System (P. Ekman & W. V. Friesen, 1978). Those participants who exhibited ischemia showed significantly more anger expressions and nonenjoyment smiles than nonischemics. Cook-Medley Hostility scores did not vary with ischemic status. The findings have implications for understanding how anger and hostility differentially influence coronary heart disease risk.
+C1 [Rosenberg, Erika L.] Univ Calif San Francisco, Dept Psychiat, Human Interact Lab, San Francisco, CA 94143 USA.
+   [Rosenberg, Erika L.] Coll William & Mary, Dept Psychol, Williamsburg, VA 23187 USA.
+   [Jiang, Wei; Babyak, Michael; Blumenthal, James A.] Duke Univ, Med Ctr, Dept Psychiat & Behav Sci, Durham, NC 27706 USA.
+   [Coleman, R. Edward; Hanson, Michael] Duke Univ, Med Ctr, Dept Radiol, Durham, NC 27706 USA.
+   [O'Connor, Christopher; Waugh, Robert] Duke Univ, Med Ctr, Dept Med, Durham, NC 27706 USA.
+C3 University of California System; University of California San Francisco;
+   William & Mary; Duke University; Duke University; Duke University
+RP Rosenberg, EL (corresponding author), Univ Calif San Francisco, Dept Psychiat, Human Interact Lab, 401 Parnassus Ave, San Francisco, CA 94143 USA.
+EM jerika05@pacbell.net
+FU NHLBI NIH HHS [HL46192, HL43028] Funding Source: Medline
+CR ALGINA J, 1990, PSYCHOL BULL, V108, P308, DOI 10.1037/0033-2909.108.2.308
+   AX AF, 1953, PSYCHOSOM MED, V15, P433, DOI 10.1097/00006842-195309000-00007
+   BAREFOOT JC, 1983, PSYCHOSOM MED, V45, P59, DOI 10.1097/00006842-198303000-00008
+   BAREFOOT JC, 1989, PSYCHOSOM MED, V51, P46, DOI 10.1097/00006842-198901000-00005
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   BLUMENTHAL JA, 1987, BRIT J MED PSYCHOL, V60, P349, DOI 10.1111/j.2044-8341.1987.tb02754.x
+   BLUMENTHAL JA, 1995, CIRCULATION, V92, P2102, DOI 10.1161/01.CIR.92.8.2102
+   BLUMENTHAL JA, 1984, PSYCHOSOM MED, V46, P415, DOI 10.1097/00006842-198409000-00003
+   BRADY TJ, 1980, J NUCL MED, V21, P617
+   Brosschot JF, 1998, ANN BEHAV MED, V20, P326, DOI 10.1007/BF02886382
+   CHESNEY MA, 1990, PSYCHOSOM MED, V52, P307, DOI 10.1097/00006842-199005000-00005
+   CONTRADA RJ, 1991, J PSYCHOSOM RES, V35, P391, DOI 10.1016/0022-3999(91)90034-L
+   Cook WW, 1954, J APPL PSYCHOL, V38, P414, DOI 10.1037/h0060667
+   COSTA PT, 1986, PSYCHOSOM MED, V48, P283, DOI 10.1097/00006842-198603000-00014
+   DEMBROSKI TM, 1985, PSYCHOSOM MED, V47, P219, DOI 10.1097/00006842-198505000-00001
+   EKMAN P, 1982, J NONVERBAL BEHAV, V6, P238, DOI 10.1007/BF00987191
+   EKMAN P, 1990, J PERS SOC PSYCHOL, V58, P342, DOI 10.1037/0022-3514.58.2.342
+   EKMAN P, 1983, SCIENCE, V221, P1208, DOI 10.1126/science.6612338
+   Ekman P., 2003, Unmasking the face: A guide to recognizing emotions from facial expressions
+   Ekman P., 1984, Approach. Emot, P319
+   Ekman P., 1978, Environmental Psychology & Nonverbal Behavior
+   Gabbay FH, 1996, J AM COLL CARDIOL, V27, P585, DOI 10.1016/0735-1097(95)00510-2
+   GOTTLIEB SO, 1988, JAMA-J AM MED ASSOC, V259, P1030, DOI 10.1001/jama.259.7.1030
+   Gullette ECD, 1997, JAMA-J AM MED ASSOC, V277, P1521, DOI 10.1001/jama.277.19.1521
+   HELMERS KF, 1993, PSYCHOSOM MED, V55, P29, DOI 10.1097/00006842-199301000-00006
+   IRONSON G, 1992, AM J CARDIOL, V70, P281, DOI 10.1016/0002-9149(92)90605-X
+   KRANTZ DS, 1991, PSYCHOSOM MED, V53, P1
+   KRANTZ DS, 1983, HEALTH PSYCHOL, V2, P393, DOI DOI 10.1037/0278-6133.2.4.393
+   LANG PJ, 1994, PSYCHOL REV, V101, P211, DOI 10.1037/0033-295X.101.2.211
+   LEVENSON RW, 1990, PSYCHOPHYSIOLOGY, V27, P363, DOI 10.1111/j.1469-8986.1990.tb02330.x
+   MACDOUGALL JM, 1985, HEALTH PSYCHOL, V4, P137, DOI 10.1037/0278-6133.4.2.137
+   MITTLEMAN MA, 1995, CIRCULATION, V92, P1720, DOI 10.1161/01.CIR.92.7.1720
+   Möller J, 1999, PSYCHOSOM MED, V61, P842
+   NISBETT RE, 1977, PSYCHOL REV, V84, P231, DOI 10.1037/0033-295X.84.3.231
+   Prkachin KM, 1999, J PSYCHOSOM RES, V47, P255, DOI 10.1016/S0022-3999(99)00036-7
+   Rosenberg E.L., 1998, REV GEN PSYCHOL, V2, P247, DOI DOI 10.1037/1089-2680.2.3.247
+   Rosenberg E. L., 2004, ENCY PSYCHOL, V3, P171, DOI [10.1037/10518-064, DOI 10.1037/10518-064]
+   Rosenberg EL, 1998, HEALTH PSYCHOL, V17, P376, DOI 10.1037/0278-6133.17.4.376
+   ROSENBERG EL, 1994, COGNITION EMOTION, V8, P201, DOI 10.1080/02699939408408938
+   Rosenman R. H., 1964, JAMA-J AM MED ASSOC, V189, P113
+   ROZANSKI A, 1988, NEW ENGL J MED, V318, P1005, DOI 10.1056/NEJM198804213181601
+   Schuler JLH, 1997, PSYCHOPHYSIOLOGY, V34, P649
+   SIEGMAN AW, 1992, J BEHAV MED, V15, P257, DOI 10.1007/BF00845355
+   SMITH TW, 1985, HEALTH PSYCHOL, V4, P503, DOI 10.1037/0278-6133.4.6.503
+   SUAREZ EC, 1989, PSYCHOSOM MED, V51, P404, DOI 10.1097/00006842-198907000-00004
+   SUAREZ EC, 1993, HEALTH PSYCHOL, V12, P459, DOI 10.1037/0278-6133.12.6.459
+   Suarez EC, 1998, ANN BEHAV MED, V20, P59, DOI 10.1007/BF02884449
+   THOMAS DL, 1990, J PERS SOC PSYCHOL, V59, P291, DOI 10.1037/0022-3514.59.2.291
+   Verrier Richard L., 1996, Cardiology Clinics, V14, P289
+   Williams JE, 2000, CIRCULATION, V101, P2034, DOI 10.1161/01.CIR.101.17.2034
+   WILLIAMS RB, 1980, PSYCHOSOM MED, V42, P539, DOI 10.1097/00006842-198011000-00002
+NR 51
+TC 35
+Z9 48
+U1 0
+U2 13
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD JUN
+PY 2001
+VL 1
+IS 2
+BP 107
+EP 115
+DI 10.1037//1528-3542.1.2.107
+PG 9
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RG
+UT WOS:000208224100001
+PM 12899191
+DA 2025-05-08
+ER
+
+PT J
+AU Scherer, KR
+   Davidson, RJ
+AF Scherer, Klaus R.
+   Davidson, Richard J.
+TI Editors' Note on Debate Concerning Emotional Intelligence
+SO EMOTION
+LA English
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 2
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD SEP
+PY 2001
+VL 1
+IS 3
+BP 195
+EP 195
+DI 10.1037/1528-3542.1.3.195
+PG 1
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RH
+UT WOS:000208224200001
+DA 2025-05-08
+ER
+
+PT J
+AU Eng, W
+   Heimberg, RG
+   Hart, TA
+   Schneier, FR
+   Liebowitz, MR
+AF Eng, Winnie
+   Heimberg, Richard G.
+   Hart, Trevor A.
+   Schneier, Franklin R.
+   Liebowitz, Michael R.
+TI Attachment in Individuals With Social Anxiety Disorder: The Relationship
+   Among Adult Attachment Styles, Social Anxiety, and Depression
+SO EMOTION
+LA English
+DT Article
+ID PSYCHOMETRIC PROPERTIES; WORKING MODELS; PERSONALITY-DISORDER; MOOD
+   DISORDERS; YOUNG-ADULTS; PHOBIA; SCALE; COMORBIDITY; FEAR;
+   CLASSIFICATION
+AB Despite their apparent implications for social functioning, adult attachment styles have never been specifically explored among persons with social anxiety disorder. In the current study, a cluster analysis of the Revised Adult Attachment Scale (N. L. Collins, 1996) revealed that 118 patients with social anxiety were best represented by anxious and secure attachment style clusters. Members of the anxious attachment cluster exhibited more severe social anxiety and avoidance, greater depression, greater impairment, and lower life satisfaction than members of the secure attachment cluster. This pattern was replicated in a separate sample of 56 patients and compared with the pattern found in 36 control participants. Social anxiety mediated the association between attachment insecurity and depression. Findings are discussed in the context of their relevance to the etiology, maintenance, and cognitive-behavioral treatment of social anxiety disorder.
+C1 [Heimberg, Richard G.] Temple Univ, Dept Psychol, Adult Anxiety Clin, Philadelphia, PA 19122 USA.
+   [Schneier, Franklin R.; Liebowitz, Michael R.] New York State Psychiat Inst & Hosp, Anxiety Disorders Clin, New York, NY 10032 USA.
+   [Schneier, Franklin R.; Liebowitz, Michael R.] Columbia Univ, Dept Psychiat, New York, NY 10027 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE); Temple
+   University; New York State Psychiatry Institute; Columbia University
+RP Heimberg, RG (corresponding author), Temple Univ, Dept Psychol, Adult Anxiety Clin, Weiss Hall,1701 N 13th St, Philadelphia, PA 19122 USA.
+EM heimberg@temple.edu
+OI Hart, Trevor/0000-0001-5107-7452
+CR ABRAMSON LY, 1989, PSYCHOL REV, V96, P358, DOI 10.1037/0033-295X.96.2.358
+   Ainsworth M. D. S., 2015, PATTERNS ATTACHMENT
+   [Anonymous], 1980, CLUSTER ANAL
+   BALDWIN MW, 1995, PERS RELATIONSHIP, V2, P247, DOI 10.1111/j.1475-6811.1995.tb00090.x
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   BARTHOLOMEW K, 1991, J PERS SOC PSYCHOL, V61, P226, DOI 10.1037/0022-3514.61.2.226
+   Beck A. T., 1979, Cognitive therapy of depression
+   BECK AT, 1988, CLIN PSYCHOL REV, V8, P77, DOI 10.1016/0272-7358(88)90050-5
+   Bouffard R, 2003, CAN J PSYCHIAT, V48, P546, DOI 10.1177/070674370304800806
+   Bowlby J., 1979, MAKING BREAKING AFFE
+   Bowlby J., 1973, Attachment and Loss: II. Separation Anxiety and Anger
+   BOYCE P, 1989, AUST NZ J PSYCHIAT, V23, P341
+   Brown EJ, 1997, PSYCHOL ASSESSMENT, V9, P21, DOI 10.1037/1040-3590.9.1.21
+   BROWN EJ, 1995, BEHAV THER, V26, P467, DOI 10.1016/S0005-7894(05)80095-4
+   Brown G.W., 1978, SOCIAL ORIGINS DEPRE
+   BROWN TA, 1992, J CONSULT CLIN PSYCH, V60, P835, DOI 10.1037/0022-006X.60.6.835
+   Brown TA, 2001, J ABNORM PSYCHOL, V110, P49, DOI 10.1037//0021-843X.110.1.49
+   Cloitre M., 1995, SOCIAL PHOBIA, P163
+   COHEN J, 1960, EDUC PSYCHOL MEAS, V20, P37, DOI 10.1177/001316446002000104
+   Coles ME, 2001, DEPRESS ANXIETY, V14, P145, DOI 10.1002/da.1057
+   COLLINS NL, 1990, J PERS SOC PSYCHOL, V58, P644, DOI 10.1037/0022-3514.58.4.644
+   Collins NL, 1996, J PERS SOC PSYCHOL, V71, P810, DOI 10.1037/0022-3514.71.4.810
+   COX BJ, 1991, BRIT J PSYCHIAT, V159, P842, DOI 10.1192/bjp.159.6.842
+   Cox BJ, 1998, BEHAV MODIF, V22, P285, DOI 10.1177/01454455980223004
+   DAVIDSON JRT, 1993, PSYCHOL MED, V23, P709, DOI 10.1017/S0033291700025484
+   Davila J, 1996, COGNITIVE THER RES, V20, P465, DOI 10.1007/BF02227908
+   Di Nardo P.A., 1994, Anxiety Disorders Interview Schedule for DSM-IV
+   Dozier M., 1990, DEV PSYCHOPATHOL, V2, P47, DOI https://doi.org/10.1017/S0954579400000584
+   Dozier M., 1999, HDB ATTACHMENT, P497
+   First M. B., 1996, STRUCTURED CLIN INTE, DOI DOI 10.1037/T07827-000
+   Foa EB, 1996, J ABNORM PSYCHOL, V105, P433, DOI 10.1037/0021-843X.105.3.433
+   Fonagy P, 1996, J CONSULT CLIN PSYCH, V64, P22, DOI 10.1037/0022-006X.64.1.22
+   Fresco DM, 2001, PSYCHOL MED, V31, P1025, DOI 10.1017/S0033291701004056
+   Frisch M., 1994, QUALITY LIFE INVENTO
+   Frisch M. B., 1992, Psychological Assessment, V4, P92, DOI [10.1037/1040-3590.4.1.92, DOI 10.1037/1040-3590.4.1.92]
+   FULLER TL, 1995, PERS RELATIONSHIP, V2, P17, DOI 10.1111/j.1475-6811.1995.tb00075.x
+   George C., 1985, ADULT ATTACHMENT INT, DOI 10.1037/t02879-000
+   Hair Joseph F., 1995, Multivariate Data Analysis with Readings, V4th, P420
+   HAMILTON M, 1960, J NEUROL NEUROSUR PS, V23, P56, DOI 10.1136/jnnp.23.1.56
+   HAMMEN CL, 1995, J ABNORM PSYCHOL, V104, P436, DOI 10.1037/0021-843X.104.3.436
+   Hart TA, 1999, DEPRESS ANXIETY, V10, P28, DOI 10.1002/(SICI)1520-6394(1999)10:1<28::AID-DA5>3.0.CO;2-I
+   Hartigan John A, 1975, Clustering algorithms
+   HAZAN C, 1987, J PERS SOC PSYCHOL, V52, P511, DOI 10.1037/0022-3514.52.3.511
+   Hedlund J., 1979, Journal of Operational Psychiatry, V10, P149
+   Heimberg RG, 1999, PSYCHOL MED, V29, P199, DOI 10.1017/S0033291798007879
+   HEIMBERG RG, 1992, BEHAV THER, V23, P53, DOI 10.1016/S0005-7894(05)80308-9
+   Johnson SM, 1999, CLIN PSYCHOL-SCI PR, V6, P366, DOI 10.1093/clipsy/6.4.366
+   Kessler RC, 1999, PSYCHOL MED, V29, P555, DOI 10.1017/S0033291799008375
+   KESSLER RC, 1994, ARCH GEN PSYCHIAT, V51, P8
+   Lazarsfeld PF., 1968, Latent Structure Analysis
+   LEARY MR, 1983, PERS SOC PSYCHOL B, V9, P371, DOI 10.1177/0146167283093007
+   LEARY MR, 1988, J RES PERS, V22, P308, DOI 10.1016/0092-6566(88)90032-3
+   LEVY MB, 1988, J SOC PERS RELAT, V5, P439, DOI 10.1177/0265407588054004
+   LEWINSOHN PM, 1982, INT HDB BEHAVIOR MOD, P173
+   Liebowitz M R, 1987, Mod Probl Pharmacopsychiatry, V22, P141
+   Loranger A., 1995, INT PERSONALITY DISO
+   Loranger A.W., 1988, Personality Disorder Examination (PDE) manual
+   LORANGER AW, 1994, ARCH GEN PSYCHIAT, V51, P215
+   MARKS IM, 1979, BEHAV RES THER, V17, P263, DOI 10.1016/0005-7967(79)90041-X
+   Mattick RP, 1998, BEHAV RES THER, V36, P455, DOI 10.1016/S0005-7967(97)10031-6
+   Mickelson KD, 1997, J PERS SOC PSYCHOL, V73, P1092, DOI 10.1037/0022-3514.73.5.1092
+   Mikulincer M, 1998, J PERS SOC PSYCHOL, V74, P1209, DOI 10.1037/0022-3514.74.5.1209
+   MIKULINCER M, 1995, J PERS SOC PSYCHOL, V68, P917, DOI 10.1037/0022-3514.68.5.917
+   MILLIGAN GW, 1980, PSYCHOMETRIKA, V45, P325, DOI 10.1007/BF02293907
+   Mittal VA, 2011, PSYCHIAT RES, V189, P158, DOI 10.1016/j.psychres.2011.06.006
+   MOJENA R, 1977, COMPUT J, V20, P359, DOI 10.1093/comjnl/20.4.359
+   Morral AR, 1997, J CONSULT CLIN PSYCH, V65, P673, DOI 10.1037/0022-006X.65.4.673
+   Oei T.P. S., 1991, Psychological Assessment, V3, P391
+   Osman A, 1998, J PSYCHOPATHOL BEHAV, V20, P249, DOI 10.1023/A:1023067302227
+   OVERALL JE, 1993, J CLIN PSYCHOL, V49, P459, DOI 10.1002/1097-4679(199307)49:4<459::AID-JCLP2270490402>3.0.CO;2-P
+   Rapee RM, 1997, BEHAV RES THER, V35, P741, DOI 10.1016/S0005-7967(97)00022-3
+   Safren SA., 1997, DEPRESS ANXIETY, V4, P126, DOI 10.1002/(SICI)1520-6394(1996)4: 3<126::AID-DA5>3.0.CO;2-E
+   Scharfe E., 1994, Personal Relationships, V1, P23, DOI [DOI 10.1111/J.1475-6811.1994.TB00053.X, 10.1111/j.1475-6811.1994.tb00053.x]
+   SCHNEIER FR, 1992, ARCH GEN PSYCHIAT, V49, P282
+   SCHNEIER FR, 1994, J CLIN PSYCHIAT, V55, P322
+   Shaver P.R., 1994, EMPIRICAL PERSPECTIV, P105, DOI DOI 10.1037/11100-004
+   SIMPSON JA, 1990, J PERS SOC PSYCHOL, V59, P971, DOI 10.1037/0022-3514.59.5.971
+   SPSS, 1998, SPSS BAS US GUID
+   STEIN MB, 1990, AM J PSYCHIAT, V147, P637
+   STOPA L, 1993, BEHAV RES THER, V31, P255, DOI 10.1016/0005-7967(93)90024-O
+   TROWER P, 1989, CLIN PSYCHOL REV, V9, P19, DOI 10.1016/0272-7358(89)90044-5
+   TURNER SM, 1986, J ABNORM PSYCHOL, V95, P389, DOI 10.1037/0021-843X.95.4.389
+   VANAMERINGEN M, 1991, J AFFECT DISORDERS, V21, P93, DOI 10.1016/0165-0327(91)90055-W
+   WARD JH, 1963, J AM STAT ASSOC, V58, P236, DOI 10.2307/2282967
+   WATSON D, 1969, J CONSULT CLIN PSYCH, V33, P448, DOI 10.1037/h0027806
+   Whisman MA, 1995, COGNITIVE THER RES, V19, P633, DOI 10.1007/BF02227858
+   Wittchen HU, 1999, PSYCHOL MED, V29, P309, DOI 10.1017/S0033291798008174
+NR 87
+TC 187
+Z9 261
+U1 5
+U2 68
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD DEC
+PY 2001
+VL 1
+IS 4
+BP 365
+EP 380
+DI 10.1037//1528-3542.1.4.365
+PG 16
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RI
+UT WOS:000208224300003
+PM 12901398
+DA 2025-05-08
+ER
+
+PT J
+AU Braunstein-Bercovitz, H
+   Dimentman-Ashkenazi, I
+   Lubow, RE
+AF Braunstein-Bercovitz, Hedva
+   Dimentman-Ashkenazi, Inbal
+   Lubow, R. E.
+TI Stress Affects the Selection of Relevant From Irrelevant Stimuli
+SO EMOTION
+LA English
+DT Article
+ID LATENT INHIBITION; ATTENTIONAL BIAS; D-AMPHETAMINE; SWITCHING MODEL;
+   HEALTHY PEOPLE; ANIMAL-MODEL; THREAT CUES; LIFE EVENTS; SCHIZOPHRENIA;
+   ANXIETY
+AB Two experiments were used to examine the effects of stress on latent inhibition (LI; poorer learning with a previously exposed irrelevant stimulus rather than a novel stimulus). In Experiment 1, stress was induced in college students by threatening participants' self-esteem with a difficult number series completion test that was related to intelligence. In Experiment 2, the participants were job seekers who were either informed or not that the LI test was part of the selection process. In both experiments, LI was attenuated in high-as compared with low-stressed participants. The results suggest that stress and/or anxiety impairs the inhibition of irrelevant-preexposed stimuli. Implications for understanding the impaired selective attentional processes in schizophrenia and schizotypy are discussed.
+C1 [Braunstein-Bercovitz, Hedva; Dimentman-Ashkenazi, Inbal; Lubow, R. E.] Tel Aviv Univ, Dept Psychol, IL-69978 Tel Aviv, Israel.
+C3 Tel Aviv University
+RP Braunstein-Bercovitz, H (corresponding author), Tel Aviv Univ, Dept Psychol, IL-69978 Tel Aviv, Israel.
+EM braunh1@freud.tau.ac.il
+RI lubow, robert/E-5399-2015
+CR ANSCOMBE R, 1987, SCHIZOPHRENIA BULL, V13, P241, DOI 10.1093/schbul/13.2.241
+   BARUCH I, 1988, PERS INDIV DIFFER, V9, P777, DOI 10.1016/0191-8869(88)90067-0
+   BARUCH I, 1988, J NERV MENT DIS, V176, P598, DOI 10.1097/00005053-198810000-00004
+   Braunstein-Bercovitz H, 1998, J ABNORM PSYCHOL, V107, P659, DOI 10.1037/0021-843X.107.4.659
+   Braunstein-Bercovitz H, 2000, SCHIZOPHR RES, V46, P255, DOI 10.1016/S0920-9964(00)00021-9
+   Braunstein-Bercovitz H., SCHIZOPHREN IN PRESS
+   Braunstein-Bercovitz H., 1998, J NERV MENT DIS, V29, P261
+   Braunstein-Bercovitz H., 2001, EFFECTS STRESS UNPUB
+   Cox DR., 1984, Analysis of survival data, V21
+   DALGLEISH T, 1995, COGNITION EMOTION, V9, P341, DOI 10.1080/02699939508408971
+   Ellenbroek B., 1995, ADV NEUROBIOLOGY SCH, P89
+   ENRIGHT SJ, 1995, PERS INDIV DIFFER, V19, P535, DOI 10.1016/0191-8869(95)00069-I
+   EYSENCK HJ, 1992, PERS INDIV DIFFER, V13, P757, DOI 10.1016/0191-8869(92)90050-Y
+   EYSENCK MW, 1987, PSYCHOL RES-PSYCH FO, V49, P189, DOI 10.1007/BF00308686
+   FELDON J, 1989, PHARMACOL BIOCHEM BE, V32, P123, DOI 10.1016/0091-3057(89)90220-7
+   FOX E, 1994, COGNITION EMOTION, V8, P165, DOI 10.1080/02699939408408934
+   FOX E, 1993, BEHAV RES THER, V31, P487, DOI 10.1016/0005-7967(93)90129-I
+   FRANKE P, 1994, PSYCHIAT RES, V54, P259, DOI 10.1016/0165-1781(94)90020-5
+   FRITH CD, 1979, BRIT J PSYCHIAT, V134, P225, DOI 10.1192/bjp.134.3.225
+   GLAVIN GB, 1993, J PHYSIOLOGY-PARIS, V87, P239, DOI 10.1016/0928-4257(93)90011-H
+   Gray JA, 1998, SCHIZOPHRENIA BULL, V24, P249, DOI 10.1093/oxfordjournals.schbul.a033324
+   GRAY JA, 1991, BEHAV BRAIN SCI, V14, P1, DOI 10.1017/S0140525X00065055
+   GRAY NS, 1992, NEUROL PSYCHIAT BR, V1, P83
+   GRAY NS, 1992, PSYCHOPHARMACOLOGY, V107, P425, DOI 10.1007/BF02245170
+   GRAY NS, 1995, SCHIZOPHR RES, V17, P95, DOI 10.1016/0920-9964(95)00034-J
+   GRUZELIER JH, 1979, ORIENTING REFLEX HUM
+   HELLMAN PA, 1983, BEHAV NEUROSCI, V97, P1017, DOI 10.1037/0735-7044.97.6.1017
+   Hemsley D.R., 1987, Search for the Causes of Schizophrenia
+   HOUSTON BK, 1987, COPING NEGATIVE LIFE, P373
+   Huppert J. D., SCHIZOPHREN IN PRESS
+   Keinan G, 1999, ANXIETY STRESS COPIN, V12, P455, DOI 10.1080/10615809908249321
+   Kumari V, 1999, J PSYCHOPHARMACOL, V13, P398, DOI 10.1177/026988119901300411
+   Lacroix L, 2000, PHARMACOL BIOCHEM BE, V66, P893, DOI 10.1016/S0091-3057(00)00269-0
+   Lehmann J, 2000, BEHAV BRAIN RES, V107, P133, DOI 10.1016/S0166-4328(99)00122-9
+   Lubow R.E., 1989, LATENT INHIBITION CO
+   Lubow R.E., 1981, Conditioned Attention Theory. Psychology of Learning and Motivation, V15, P1, DOI DOI 10.1016/S0079-7421(08)60171-1
+   LUBOW RE, 1995, PSYCHOL BULL, V117, P87, DOI 10.1037/0033-2909.117.1.87
+   Lyons M J, 2000, Twin Res, V3, P28, DOI 10.1375/136905200320565661
+   MACKINTOSH NJ, 1975, PSYCHOL REV, V82, P276, DOI 10.1037/h0076778
+   MACLEOD C, 1992, BEHAV RES THER, V30, P151, DOI 10.1016/0005-7967(92)90138-7
+   MATHEWS A, 1985, BEHAV RES THER, V23, P563, DOI 10.1016/0005-7967(85)90104-4
+   MATHEWS A, 1990, J ABNORM PSYCHOL, V99, P166, DOI 10.1037/0021-843X.99.2.166
+   MOGG K, 1995, BEHAV RES THER, V33, P927, DOI 10.1016/0005-7967(95)00031-R
+   Moser PC, 2000, BRAIN RES REV, V33, P275, DOI 10.1016/S0165-0173(00)00026-6
+   NORMAN RMG, 1993, BRIT J PSYCHIAT, V162, P166, DOI 10.1192/bjp.162.2.166
+   NORMAN RMG, 1993, BRIT J PSYCHIAT, V162, P161, DOI 10.1192/bjp.162.2.161
+   NUECHTERLEIN KH, 1992, SCHIZOPHRENIA BULL, V18, P387, DOI 10.1093/schbul/18.3.387
+   NUECHTERLEIN KH, 1984, SCHIZOPHRENIA BULL, V10, P300, DOI 10.1093/schbul/10.2.300
+   PEARCE JM, 1980, PSYCHOL REV, V87, P532, DOI 10.1037/0033-295X.87.6.532
+   RAINE A, 1991, SCHIZOPHRENIA BULL, V17, P555, DOI 10.1093/schbul/17.4.555
+   Salamone JD, 1997, NEUROSCI BIOBEHAV R, V21, P341, DOI 10.1016/S0149-7634(96)00017-6
+   Shalev U, 1998, INT J DEV NEUROSCI, V16, P279, DOI 10.1016/S0736-5748(98)00031-8
+   Shalev U, 1998, INT J NEUROPSYCHOPH, V1, P103, DOI 10.1017/S1461145798001163
+   Skosnik PD, 2000, INT J PSYCHOPHYSIOL, V36, P59, DOI 10.1016/S0167-8760(99)00100-2
+   Spielberger C. D., 1970, MANUAL STATE TRAIT A
+   Swerdlow NR, 1996, SCHIZOPHR RES, V20, P91, DOI 10.1016/0920-9964(95)00097-6
+   Talalaenko A N, 1994, Neurosci Behav Physiol, V24, P284, DOI 10.1007/BF02362037
+   TEICHMAN Y, 1987, PERS INDIV DIFFER, V8, P807, DOI 10.1016/0191-8869(87)90134-6
+   Teichman Y., 1982, Series in Clinical and Community Psychology Stress and Anxiety, V8, P37
+   Thornton JC, 1996, PSYCHOPHARMACOLOGY, V127, P164, DOI 10.1007/BF02805990
+   THRASHER SM, 1994, BEHAV RES THER, V32, P247, DOI 10.1016/0005-7967(94)90119-8
+   VANDENHOUT M, 1995, BEHAV RES THER, V33, P451, DOI 10.1016/0005-7967(94)00062-O
+   VANDERPLAS JM, 1959, J EXP PSYCHOL, V57, P147, DOI 10.1037/h0048723
+   Wagner A. R., 1978, COGNITIVE PROCESS, P53
+   Walker EF, 1997, PSYCHOL REV, V104, P667, DOI 10.1037/0033-295X.104.4.667
+   Weiner I, 1997, BEHAV BRAIN RES, V88, P11, DOI 10.1016/S0166-4328(97)02314-0
+   WEINER I, 1987, PHARMACOL BIOCHEM BE, V26, P241, DOI 10.1016/0091-3057(87)90112-2
+   WEINER I, 1984, PSYCHOPHARMACOLOGY, V83, P194, DOI 10.1007/BF00429734
+   WEINER I, 1990, PSYCHOL BULL, V108, P442, DOI 10.1037/0033-2909.108.3.442
+   Williams JH, 1997, PSYCHOPHARMACOLOGY, V133, P262, DOI 10.1007/s002130050400
+   Williams JH, 1998, BRIT J PSYCHIAT, V172, P243, DOI 10.1192/bjp.172.3.243
+   Williams JH, 1996, BIOL PSYCHIAT, V40, P1135, DOI 10.1016/S0006-3223(95)00629-X
+NR 72
+TC 43
+Z9 51
+U1 1
+U2 19
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD JUN
+PY 2001
+VL 1
+IS 2
+BP 182
+EP 192
+DI 10.1037//1528-3542.1.2.182
+PG 11
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RG
+UT WOS:000208224100006
+PM 12899196
+DA 2025-05-08
+ER
+
+PT J
+AU Whalen, PJ
+   Shin, LM
+   McInerney, SC
+   Fischer, H
+   Wright, CI
+   Rauch, SL
+AF Whalen, Paul J.
+   Shin, Lisa M.
+   McInerney, Sean C.
+   Fischer, Hakan
+   Wright, Christopher I.
+   Rauch, Scott L.
+TI A Functional MRI Study of Human Amygdala Responses to Facial Expressions
+   of Fear Versus Anger
+SO EMOTION
+LA English
+DT Article
+AB Functional magnetic resonance imaging (fMRI) of the human brain was used to compare changes in amygdala activity associated with viewing facial expressions of fear and anger. Pictures of human faces bearing expressions of fear or anger, as well as faces with neutral expressions, were presented to 8 healthy participants. The blood oxygen-level dependent (BOLD) fMRI signal within the dorsal amygdala was significantly greater to Fear versus Anger, in a direct contrast. Significant BOLD signal changes in the ventral amygdala were observed in contrasts of Fear versus Neutral expressions and, in a more spatially circumscribed region, to Anger versus Neutral expressions. Thus, activity in the amygdala is greater to fearful facial expressions when contrasted with either neutral or angry faces. Furthermore, directly contrasting fear with angry faces highlighted involvement of the dorsal amygdaloid region.
+C1 [Whalen, Paul J.] Univ Wisconsin, Waisman Ctr, Dept Psychiat & Psychol, WM Keck Lab Funct Brain Imaging & Behav, Madison, WI 53705 USA.
+   [Shin, Lisa M.] Tufts Univ, Dept Psychol, Medford, MA 02155 USA.
+   [Shin, Lisa M.; McInerney, Sean C.; Wright, Christopher I.; Rauch, Scott L.] Harvard Univ, Massachusetts Gen Hosp, Sch Med, Psychiat Neuroimaging Res Grp, Cambridge, MA 02138 USA.
+   [Shin, Lisa M.; McInerney, Sean C.; Wright, Christopher I.; Rauch, Scott L.] Harvard Univ, Massachusetts Gen Hosp, Sch Med, Nucl Magnet Resonance Ctr, Cambridge, MA 02138 USA.
+   [Fischer, Hakan] Uppsala Univ, PET Ctr, Univ Hosp, Uppsala, Sweden.
+C3 University of Wisconsin System; University of Wisconsin Madison; Tufts
+   University; Harvard University; Harvard University Medical Affiliates;
+   Massachusetts General Hospital; Harvard University; Harvard University
+   Medical Affiliates; Massachusetts General Hospital; Uppsala University;
+   Uppsala University Hospital
+RP Whalen, PJ (corresponding author), Univ Wisconsin, Waisman Ctr, Dept Psychiat & Psychol, WM Keck Lab Funct Brain Imaging & Behav, 1500 Highland Ave,T113, Madison, WI 53705 USA.
+EM pwhalen@facstaff.wisc.edu
+OI Fischer, Hakan/0000-0001-6710-1744
+FU NIMH NIH HHS [MH-01866, MH-01215] Funding Source: Medline
+CR ADOLPHS R, 1995, J NEUROSCI, V15, P5879
+   ADOLPHS R, 1994, NATURE, V372, P669, DOI 10.1038/372669a0
+   Aggleton J.P., 1992, The amygdala: neurobiological aspects of emotion, memory, and mental dysfunction
+   AMARAL D G, 1992, P1
+   [Anonymous], 1996, The Emotional Brain, DOI 10.1016s0079-6123(08)61880-4
+   [Anonymous], LEARNING COMPUTATION
+   [Anonymous], 1976, Pictures of Facial Affect
+   Baxter M. G., 2001, AMYGDALA FUNCTIONAL, P545
+   Biehl M, 1997, J NONVERBAL BEHAV, V21, P3, DOI 10.1023/A:1024902500935
+   Blair RJR, 1999, BRAIN, V122, P883, DOI 10.1093/brain/122.5.883
+   Bond Nigel W., 1996, P291
+   Breiter HC, 1996, NEURON, V17, P875, DOI 10.1016/S0896-6273(00)80219-6
+   Broks P, 1998, NEUROPSYCHOLOGIA, V36, P59, DOI 10.1016/S0028-3932(97)00105-X
+   Büchel C, 1998, NEURON, V20, P947, DOI 10.1016/S0896-6273(00)80476-6
+   Calder AJ, 1996, COGNITIVE NEUROPSYCH, V13, P699, DOI 10.1080/026432996381890
+   COHEN MS, 1991, MAGN RESON IMAGING, V9, P1, DOI 10.1016/0730-725X(91)90094-3
+   Davis M, 2001, MOL PSYCHIATR, V6, P13, DOI 10.1038/sj.mp.4000812
+   Davis M, 1997, ANN NY ACAD SCI, V821, P305, DOI 10.1111/j.1749-6632.1997.tb48289.x
+   Davis M, 1998, BIOL PSYCHIAT, V44, P1239, DOI 10.1016/S0006-3223(98)00288-1
+   Davis M, 1997, J NEUROPSYCH CLIN N, V9, P382
+   de Olmos JS, 1999, ANN NY ACAD SCI, V877, P1
+   Dubois S, 1999, NEUROIMAGE, V9, P278, DOI 10.1006/nimg.1998.0409
+   EKMAN P, 1994, PSYCHOL BULL, V115, P268, DOI 10.1037/0033-2909.115.2.268
+   EKMAN P, 1987, J PERS SOC PSYCHOL, V53, P712, DOI 10.1037/0022-3514.53.4.712
+   Everitt BJ, 1997, ANNU REV PSYCHOL, V48, P649, DOI 10.1146/annurev.psych.48.1.649
+   GALLAGHER M, 1994, P NATL ACAD SCI USA, V91, P11771, DOI 10.1073/pnas.91.25.11771
+   GALLAGHER M, 1990, J NEUROSCI, V10, P1906
+   GALLAGHER M, 2001, AMYGDALA FUNCTIONAL, P311
+   Goulet S, 1998, EXP BRAIN RES, V119, P131, DOI 10.1007/s002210050326
+   Hariri AR, 2000, NEUROREPORT, V11, P43, DOI 10.1097/00001756-200001170-00009
+   Hart AJ, 2000, NEUROREPORT, V11, P2351, DOI 10.1097/00001756-200008030-00004
+   Hatfield T, 1996, J NEUROSCI, V16, P5256
+   Heimer L, 1997, NEUROSCIENCE, V76, P957, DOI 10.1016/S0306-4522(96)00405-8
+   HOLLAND PC, 1993, BEHAV NEUROSCI, V107, P235, DOI 10.1037/0735-7044.107.2.235
+   Holland PC, 2000, J NEUROSCI, V20, P6701, DOI 10.1523/JNEUROSCI.20-17-06701.2000
+   Jiang AP, 1995, HUM BRAIN MAPP, V3, P224, DOI 10.1002/hbm.460030306
+   JOHNSEN BH, 1995, J PSYCHOPHYSIOL, V9, P193
+   Jolkkonen E, 2001, J COMP NEUROL, V431, P39, DOI 10.1002/1096-9861(20010226)431:1<39::AID-CNE1054>3.0.CO;2-#
+   KAPP B S, 1992, P229
+   Kapp B.S., 1990, Learning and Computational Neuroscience: Foundations of Adaptive Networks, P53
+   KAPP BS, 1994, BEHAV NEUROSCI, V108, P81, DOI 10.1037/0735-7044.108.1.81
+   Kawashima R, 1999, BRAIN, V122, P779, DOI 10.1093/brain/122.4.779
+   Killcross S, 1997, NATURE, V388, P377, DOI 10.1038/41097
+   KRETTEK JE, 1977, J COMP NEUROL, V172, P687, DOI 10.1002/cne.901720408
+   KWONG KK, 1995, MAGN RESON QUART, V11, P1
+   KWONG KK, 1992, P NATL ACAD SCI USA, V89, P5675, DOI 10.1073/pnas.89.12.5675
+   LaBar KS, 1998, NEURON, V20, P937, DOI 10.1016/S0896-6273(00)80475-4
+   LEDOUX JE, 1990, J NEUROSCI, V10, P1062
+   Mai JRK., 1997, Atlas of the human brain
+   Matsumoto D, 1999, COGNITION EMOTION, V13, P201, DOI 10.1080/026999399379339
+   MCDONALD AJ, 1991, NEUROSCIENCE, V44, P1, DOI 10.1016/0306-4522(91)90247-L
+   METHERATE R, 1991, BRAIN RES, V559, P163, DOI 10.1016/0006-8993(91)90301-B
+   Morris JS, 1996, NATURE, V383, P812, DOI 10.1038/383812a0
+   Morris JS, 1998, BRAIN, V121, P47, DOI 10.1093/brain/121.1.47
+   Murray EA, 1996, SEMIN NEUROSCI, V8, P13, DOI 10.1006/smns.1996.0003
+   OGAWA S, 1992, P NATL ACAD SCI USA, V89, P5951, DOI 10.1073/pnas.89.13.5951
+   OLDFIELD RC, 1971, NEUROPSYCHOLOGIA, V9, P97, DOI 10.1016/0028-3932(71)90067-4
+   Phelps EA, 2000, J COGNITIVE NEUROSCI, V12, P729, DOI 10.1162/089892900562552
+   Phillips ML, 1998, P ROY SOC B-BIOL SCI, V265, P1809, DOI 10.1098/rspb.1998.0506
+   Phillips ML, 1997, NATURE, V389, P495, DOI 10.1038/39051
+   POWELL DA, 1975, PSYCHOL REC, V25, P419, DOI 10.1007/BF03394332
+   Price JL, 1987, HDB CHEM NEUROANATOM, P279
+   Rapcsak SZ, 2000, NEUROLOGY, V54, P575, DOI 10.1212/WNL.54.3.575
+   Rauch SL, 2000, BIOL PSYCHIAT, V47, P769, DOI 10.1016/S0006-3223(00)00828-3
+   Reese TG, 1995, JMRI-J MAGN RESON IM, V5, P739, DOI 10.1002/jmri.1880050621
+   RUSSCHEN FT, 1985, J COMP NEUROL, V242, P1, DOI 10.1002/cne.902420102
+   Schoenbaum G, 1999, J NEUROSCI, V19, P1876
+   SCHWABER JS, 1982, J NEUROSCI, V2, P1424, DOI 10.1523/jneurosci.02-10-01424.1982
+   SILLITO AM, 1983, BRAIN RES, V289, P143, DOI 10.1016/0006-8993(83)90015-X
+   Sprengelmeyer R, 1998, P ROY SOC B-BIOL SCI, V265, P1927, DOI 10.1098/rspb.1998.0522
+   Talairach G., 1988, Planar Stereotaxic Atlas of the Human Brain
+   Thomas KM, 2001, BIOL PSYCHIAT, V49, P309, DOI 10.1016/S0006-3223(00)01066-0
+   WHALEN PJ, 1994, J NEUROSCI, V14, P1623, DOI 10.1523/JNEUROSCI.14-03-01623.1994
+   Whalen PJ, 1998, J NEUROSCI, V18, P411
+   Whalen PJ, 1998, CURR DIR PSYCHOL SCI, V7, P177, DOI 10.1111/1467-8721.ep10836912
+   WOODS RP, 1992, J COMPUT ASSIST TOMO, V16, P620, DOI 10.1097/00004728-199207000-00024
+   YOUNG AW, 1995, BRAIN, V118, P15, DOI 10.1093/brain/118.1.15
+   Yrizarry N, 1998, MOTIV EMOTION, V22, P315, DOI 10.1023/A:1021304407227
+NR 78
+TC 499
+Z9 572
+U1 1
+U2 68
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+J9 EMOTION
+JI Emotion
+PD MAR
+PY 2001
+VL 1
+IS 1
+BP 70
+EP 83
+DI 10.1037/1528-3542.1.1.70
+PG 14
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RE
+UT WOS:000208223900007
+PM 12894812
+DA 2025-05-08
+ER
+
+PT J
+AU Davidson, RJ
+   Scherer, KR
+AF Davidson, Richard J.
+   Scherer, Klaus R.
+TI Untitled
+SO EMOTION
+LA English
+DT Editorial Material
+NR 0
+TC 8
+Z9 9
+U1 0
+U2 1
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD MAR
+PY 2001
+VL 1
+IS 1
+BP 3
+EP 4
+DI 10.1037/1528-3542.1.1.3
+PG 2
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RE
+UT WOS:000208223900001
+DA 2025-05-08
+ER
+
+PT J
+AU Voelz, ZR
+   Gencoz, F
+   Gencoz, T
+   Pettit, JW
+   Perez, M
+   Joiner, TE
+AF Voelz, Zachary R.
+   Gencoz, Faruk
+   Gencoz, Tulin
+   Pettit, Jeremy W.
+   Perez, Marisol
+   Joiner, Thomas E., Jr.
+TI Patterns of Hemispheric Perceptual Asymmetries: Left Hemispatial Biases
+   Predict Changes in Anxiety and Positive Affect in Undergraduate Women
+SO EMOTION
+LA English
+DT Article
+ID NEGATIVE AFFECT; TRIPARTITE MODEL; SELF-REPORT; DEPRESSION; INVENTORY;
+   CHILDREN; MOOD
+AB Consistent with the tripartite model of anxiety and depression, hemispheric asymmetries may be differentially associated with depressive and anxious symptoms. Indeed, research has demonstrated that asymmetries do exist when examining hemispatial biases in both anxious and depressed individuals; however, the magnitude and direction of these asymmetries has been variable. The Chimeric Faces Task was used here to measure these asymmetries, along with measures for current and future levels of anxiety and depression. Results indicated that (a) increased left hemispatial biases at Time 1 predict increased anxiety (i.e., physiological hyperarousal) at Time 2 among female undergraduate students and (b) decreased left hemispatial biases at Time 1 predict decreased positive affectivity at Time 2 among the same participants. The possibility that hemispatial biases represent a vulnerability to future anxiety and depression is discussed.
+C1 [Voelz, Zachary R.; Pettit, Jeremy W.; Perez, Marisol; Joiner, Thomas E., Jr.] Florida State Univ, Dept Psychol, Tallahassee, FL 32306 USA.
+   [Gencoz, Faruk; Gencoz, Tulin] Middle E Tech Univ, Dept Psychol, TR-06531 Ankara, Turkey.
+C3 State University System of Florida; Florida State University; Middle
+   East Technical University
+RP Joiner, TE (corresponding author), Florida State Univ, Dept Psychol, Tallahassee, FL 32306 USA.
+EM joiner@psy.fsu.edu
+RI Gencoz, Faruk/AAZ-8195-2020; Gencoz, Tulin/AAJ-1223-2020
+OI Gencoz, Tulin/0000-0002-2827-7461; Gencoz, Faruk/0000-0001-7476-1361;
+   Pettit, Jeremy/0000-0002-7426-9411
+CR [Anonymous], 1993, Neuropsychology, DOI [DOI 10.1037/0894-4105.7.4.476, 10.1037/0894-4105.7.4.476]
+   [Anonymous], 1990, Manual for the Beck anxiety inventory
+   [Anonymous], 1987, Beck depression inventory, DOI DOI 10.1007/978-1-4419-9893-4_8
+   Brown TA, 1998, J ABNORM PSYCHOL, V107, P179, DOI 10.1037/0021-843X.107.2.179
+   Chorpita BF, 1998, J ABNORM PSYCHOL, V107, P74, DOI 10.1037/0021-843X.107.1.74
+   Clark L.A., 1991, PSYCHOSOCIAL ASPECTS, V18, P39
+   CLARK LA, 1994, J ABNORM PSYCHOL, V103, P103, DOI 10.1037/0021-843X.103.1.103
+   CLARK LA, 1991, J ABNORM PSYCHOL, V100, P316, DOI 10.1037/0021-843X.100.3.316
+   Cohen J., 2003, APPL MULTIPLE REGRES, DOI DOI 10.1002/0471264385.WEI0219
+   DAVIDSON RJ, 1992, BRAIN COGNITION, V20, P125, DOI 10.1016/0278-2626(92)90065-T
+   DEPUE RA, 1989, J ABNORM PSYCHOL, V98, P117, DOI 10.1037/0021-843X.98.2.117
+   FELDMAN LA, 1993, J CONSULT CLIN PSYCH, V61, P631, DOI 10.1037/0022-006X.61.4.631
+   GARBER J, 1991, PSYCHOL BULL, V110, P129, DOI 10.1037/0033-2909.110.1.129
+   GREEN J, 1992, BRAIN COGNITION, V20, P264, DOI 10.1016/0278-2626(92)90020-M
+   HELLER W, 1995, J ABNORM PSYCHOL, V104, P327, DOI 10.1037/0021-843X.104.2.327
+   HELLER W, 1993, J AFFECT DISORDERS, V29, P129, DOI 10.1016/0165-0327(93)90028-I
+   HELLER W, 1991, DEV NEUROPSYCHOL, V7, P151, DOI 10.1080/87565649109540484
+   Heller W, 1998, COGNITION EMOTION, V12, P421
+   Heller W., 1990, Psychological and biological approaches to emotion, P167, DOI [10.4324/9780203761588-13, DOI 10.4324/9780203761588-13]
+   Joiner TE, 1996, J ABNORM PSYCHOL, V105, P401, DOI 10.1037/0021-843X.105.3.401
+   Joiner TE Jr, 1999, J ABNORM PSYCHOL, V108, P290, DOI 10.1037/0021-843X.108.2.290
+   KIM H, 1992, BRAIN COGNITION, V19, P21, DOI 10.1016/0278-2626(92)90036-L
+   LEVY J, 1983, J EXP PSYCHOL HUMAN, V9, P329, DOI 10.1037/0096-1523.9.3.329
+   LEVY J, 1983, BRAIN COGNITION, V2, P404, DOI 10.1016/0278-2626(83)90021-0
+   Ransil BJ, 1998, PERCEPT MOTOR SKILL, V86, P303, DOI 10.2466/pms.1998.86.1.303
+   Spielberger CD., 1968, Self-Evaluation Questionnaire: STAI Form X-1
+   STEER RA, 1993, J PERS ASSESS, V60, P532, DOI 10.1207/s15327752jpa6003_10
+   STEER RA, 1995, PSYCHOL REP, V76, P459, DOI 10.2466/pr0.1995.76.2.459
+   WATSON D, 1988, J PERS SOC PSYCHOL, V54, P1063, DOI 10.1037/0022-3514.54.6.1063
+NR 29
+TC 11
+Z9 12
+U1 0
+U2 10
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD DEC
+PY 2001
+VL 1
+IS 4
+BP 339
+EP 347
+DI 10.1037//1528-3542.1.4.339
+PG 9
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RI
+UT WOS:000208224300001
+PM 12901396
+DA 2025-05-08
+ER
+
+PT J
+AU Izard, CE
+AF Izard, Carroll E.
+TI Emotional Intelligence or Adaptive Emotions?
+SO EMOTION
+LA English
+DT Article
+ID TRADITIONAL STANDARDS; SOCIAL-BEHAVIOR; MECHANISMS; CHILDREN; ANGER;
+   PERSONALITY; TEMPERAMENT; COMPETENCE; PREDICTOR; APPRAISAL
+AB R. D. Roberts, M. Zeidner, and G. Matthews (2001) challenged the adequacy of the psychometric properties of the principal performance measure of emotional intelligence (EI). They raised doubt about the existence of emotion-related abilities that influence behavioral outcomes and social competence after controlling for general intelligence and personality. I agree with Roberts et al. that demonstrating the discriminant and predictive validity of a measure of EI in the context of rival predictors will require more research. I agree with the proponents of EI that emotion-related abilities do exist and show that such abilities in children account for unique variance in measures of adaptive behavior and social competence. However, evidence from developmental and clinical research suggest that these emotion-related abilities and their influence on socioemotional competence stem more from the direct effects of emotions than from a special form of intelligence.
+C1 Univ Delaware, Dept Psychol, Newark, DE 19716 USA.
+C3 University of Delaware
+RP Izard, CE (corresponding author), Univ Delaware, Dept Psychol, 220 Wolf Hall, Newark, DE 19716 USA.
+EM izard@udel.edu
+CR Abe JAA, 1999, COGNITION EMOTION, V13, P523, DOI 10.1080/026999399379177
+   Abe JAA, 1999, J PERS SOC PSYCHOL, V77, P566, DOI 10.1037/0022-3514.77.3.566
+   Ackerman BP, 1998, EMOT PERSON, P85
+   [Anonymous], 1989, G S HALL L
+   Bandura A., 1986, Social foundations of thought and action: A social cognitive theory
+   Cahill L, 1998, TRENDS NEUROSCI, V21, P294, DOI 10.1016/S0166-2236(97)01214-9
+   CARON AJ, 1988, CHILD DEV, V59, P604, DOI 10.1111/j.1467-8624.1988.tb03219.x
+   COSTA PT, 1980, J PERS SOC PSYCHOL, V38, P668, DOI 10.1037/0022-3514.38.4.668
+   Crick NR, 1996, CHILD DEV, V67, P993, DOI 10.1111/j.1467-8624.1996.tb01778.x
+   Damasio A., 2005, Descartes error
+   Davidson RJ, 2000, AM PSYCHOL, V55, P1196, DOI 10.1037/0003-066X.55.11.1196
+   Denham S.A., 1998, EMOTIONAL DEV YOUNG
+   Diener E., 1993, HDB EMOTIONS, P405
+   Eisenberg N, 1997, CHILD DEV, V68, P295, DOI 10.2307/1131851
+   Eisenberg N., 2015, Handbook of child psychology: Social, emotional, and personality development, V7th ed., P610, DOI DOI 10.1002/9780470147658.CHPSY0311
+   Fredrickson B.L., 1998, J DIVISION 1 AM PSYC, P300, DOI DOI 10.1037/1089-2680.2.3.300
+   Gardner H., 1992, Multiple Intelligences: The Theory in Practice
+   GARNER PW, 1994, CHILD DEV, V65, P622, DOI 10.2307/1131405
+   Goldsmith H.H., 1982, DEV ATTACHMENT AFFIL, P231
+   HARRIS PL, 1994, J CHILD PSYCHOL PSYC, V35, P3, DOI 10.1111/j.1469-7610.1994.tb01131.x
+   HARTER S, 1986, SOC COGNITION, V4, P119, DOI 10.1521/soco.1986.4.2.119
+   Heuer F., 1992, The Handbook of Emotion and Memory: Research and Theory, P151
+   HOBSON RP, 1993, PHILOS PSYCHOL, V6, P227, DOI 10.1080/09515089308573090
+   ISEN AM, 1987, J PERS SOC PSYCHOL, V52, P1122, DOI 10.1037/0022-3514.52.6.1122
+   Izard C, 2001, PSYCHOL SCI, V12, P18, DOI 10.1111/1467-9280.00304
+   Izard C.E., 1965, AFFECT COGNIT PERS, P2
+   IZARD CE, 1993, PSYCHOL REV, V100, P68
+   Izard CE, 1971, Century psychology series
+   Kagan J., 1994, GALENS PROPHECY TEMP
+   Lazarus R. S., 1991, EMOTION ADAPTATION
+   LeDoux J., 1996, The emotional brain: The mysterious underpinnings of emotional life
+   Lengua LJ, 1998, CHILD DEV, V69, P164, DOI 10.1111/j.1467-8624.1998.tb06141.x
+   LOCHMAN JE, 1993, CLIN PSYCHOL REV, V13, P785, DOI 10.1016/S0272-7358(05)80006-6
+   Loewenstein GF, 2001, PSYCHOL BULL, V127, P267, DOI 10.1037//0033-2909.127.2.267
+   Magai C., 1995, ROLE EMOTIONS SOCIAL
+   MALATESTA CZ, 1990, NEBR SYM MOTIV, V36, P1
+   Mayer J. D., 1997, Emotional development and emotional intelligence: Implications for educators, P3
+   Mayer JD, 1999, INTELLIGENCE, V27, P267, DOI 10.1016/S0160-2896(99)00016-1
+   MAYER JD, 1990, J PERS ASSESS, V54, P772, DOI 10.1207/s15327752jpa5403&4_29
+   McNally R J, 1996, Nebr Symp Motiv, V43, P211
+   Niedenthal P.M., 1994, The heart's eye: Emotional influences in perception and attention, P87
+   Roberts RD, 2001, EMOTION, V1, P196, DOI 10.1037//1528-3542.1.3.196
+   ROTHBART MK, 1994, MERRILL PALMER QUART, V40, P21
+   Salovey P., 1990, IMAGIN COGN PERS, V9, P185, DOI DOI 10.2190/DUGG-P24E-52WK-6CDG
+   SCHERER KR, 1993, COGNITION EMOTION, V7, P325, DOI 10.1080/02699939308409192
+   Schultz D, 2000, SOC DEV, V9, P284, DOI 10.1111/1467-9507.00126
+   SMITH CA, 1985, J PERS SOC PSYCHOL, V48, P813, DOI 10.1037/0022-3514.48.4.813
+   Sternberg RJ, 1997, AM PSYCHOL, V52, P1030, DOI 10.1037/0003-066X.52.10.1030
+   Tangney JP, 1996, J PERS SOC PSYCHOL, V70, P797, DOI 10.1037/0022-3514.70.4.797
+   Thompson WF, 2001, PSYCHOL SCI, V12, P248, DOI 10.1111/1467-9280.00345
+   TRONICK EZ, 1989, AM PSYCHOL, V44, P112, DOI 10.1037/0003-066X.44.2.112
+   WERNER EE, 1989, SCI AM, V260, P106, DOI 10.1038/scientificamerican0489-106
+   ZAJONC RB, 1980, AM PSYCHOL, V35, P151, DOI 10.1037/0003-066X.35.2.151
+   ZUCKERMAN M, 1993, J PERS SOC PSYCHOL, V65, P757, DOI 10.1037/0022-3514.65.4.757
+NR 54
+TC 136
+Z9 234
+U1 1
+U2 39
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD SEP
+PY 2001
+VL 1
+IS 3
+BP 249
+EP 257
+DI 10.1037//1528-3542.1.3.249
+PG 9
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RH
+UT WOS:000208224200005
+PM 12934684
+DA 2025-05-08
+ER
+
+PT J
+AU Schaie, KW
+AF Schaie, K. Warner
+TI Emotional Intelligence: Psychometric Status and Developmental
+   Characteristics-Comment on Roberts, Zeidner, and Matthews (2001)
+SO EMOTION
+LA English
+DT Article
+AB There is now sufficient work in the literature on emotional intelligence to suggest that this construct or series of constructs deserves serious attention, but several questions remain as to adequate construct validation as well as to the emergence and development of these constructs. There is a need to conduct convergent and divergent validity studies on a midlife sample that is likely to show the optimal level of differentiation of the new constructs. The reference domain of cognitive intelligence should be constructed in a multiple-construct manner, and the validation procedure should use confirmatory factor analysis and P. S. Dwyer's (1937) extension method. Once properly validated, there is a need to study the emergence, age differences, and age changes in the level and structure of emotional intelligence. A paradigm that investigates the invariance of factor structure across age and uses the model of differentiation-dedifferentiation would be useful for this purpose.
+C1 Penn State Univ, Gerontol Ctr, University Pk, PA 16802 USA.
+C3 Pennsylvania Commonwealth System of Higher Education (PCSHE);
+   Pennsylvania State University; Pennsylvania State University -
+   University Park; Penn State Behrend
+RP Schaie, KW (corresponding author), Penn State Univ, Gerontol Ctr, 105 Henderson S, University Pk, PA 16802 USA.
+EM kws@psu.edu
+CR Abraham Karl., 1927, SELECTED PAPERS PSYC
+   [Anonymous], GENETIC PSYCHOL MONO
+   Baltes PB, 1997, PSYCHOL AGING, V12, P12, DOI 10.1037/0882-7974.12.1.12
+   BALTES PB, 1992, PSYCHOL AGING, P123
+   Binet A., 1905, ANN PSYCHOL, V11, P102
+   Burns G.L., 1990, UNIFYING BEHAV THERA, P98
+   BUSS DM, 1986, CLIN PSYCHOL REV, V6, P387, DOI 10.1016/0272-7358(86)90028-0
+   Carroll B J., 1993, Human cognitive abilities: A survey of factor-analytical studies
+   Cattell R.B., 1970, HDB 16PF
+   CORNELIUS SW, 1983, INTELLIGENCE, V7, P253, DOI 10.1016/0160-2896(83)90017-X
+   COSTA PT, 1993, DEV STRUCTURE TEMPER
+   Dwyer PS, 1937, PSYCHOMETRIKA, V2, P173, DOI 10.1007/BF02288394
+   Ekstrom R., 1976, KIT FACTOR REFERENCE
+   Erikson Erik., 1964, INSIGHT RESPONSIBILI
+   FLAMER S, 1983, MULTIVAR BEHAV RES, V18, P275, DOI 10.1207/s15327906mbr1803_3
+   FLYNN JR, 1987, PSYCHOL BULL, V101, P171, DOI 10.1037/0033-2909.101.2.171
+   Gardner H., 1983, Frames of mind: Theory of multiple intelligences
+   Garrett HE, 1946, AM PSYCHOL, V1, P372, DOI 10.1037/h0056380
+   GOLDFRIED MR, 1972, PSYCHOL BULL, V77, P409, DOI 10.1037/h0032714
+   Guilford Joy Paul., 1967, The nature of human intelligence, DOI DOI 10.3102/00028312005002249
+   HAYNES SN, 1998, BEHAV ASSESSMENT PRA, P1
+   Horn J.L., 1992, INTELLECTUAL DEV, P44
+   HORN JL, 1992, EXP AGING RES, V18, P117, DOI 10.1080/03610739208253916
+   Hultsch D.F., 1998, Memory Changes in the Aged
+   KRAMER DA, 1983, HUM DEV, V26, P91, DOI 10.1159/000272873
+   Lewin K., 1936, DYNAMIC THEORY PERS
+   LINDENBERGER U, 1994, PSYCHOL AGING, V9, P339, DOI 10.1037/0882-7974.9.3.339
+   LOEVINGER J, 1976, EGO DEV CONCEPTION T
+   Maitland SB, 2000, AGING NEUROPSYCHOL C, V7, P32, DOI 10.1076/anec.7.1.32.807
+   Mayer J.D., 2000, Handbook of intelligence, V2, P396
+   Mayer J.D., 2000, HDB EMOTIONAL INTELL, DOI DOI 10.1017/CBO9780511807947.019
+   Mayer JD, 1999, INTELLIGENCE, V27, P267, DOI 10.1016/S0160-2896(99)00016-1
+   McCrae RR, 1999, DEV PSYCHOL, V35, P466, DOI 10.1037/0012-1649.35.2.466
+   MEREDITH W, 1993, PSYCHOMETRIKA, V58, P525, DOI 10.1007/BF02294825
+   Reinert G., 1970, LIFE SPAN DEV PSYCH, P468
+   Roberts RD, 2001, EMOTION, V1, P196, DOI 10.1037//1528-3542.1.3.196
+   Salthouse TA, 1996, J GERONTOL B-PSYCHOL, V51, pP317, DOI 10.1093/geronb/51B.6.P317
+   Schaie K.W., 1996, Intellectual development in adulthood: The Seattle longitudinal study
+   Schaie K.W., 1977, INT J AGING HUM DEV, V9, P129
+   Schaie K.W., 1975, MANUAL TEST BEHAV RI
+   Schaie K.W., 2000, The many dimensions of aging, P175
+   SCHAIE KW, 1991, PSYCHOL AGING, V6, P371, DOI 10.1037/0882-7974.6.3.371
+   SCHAIE KW, 1989, DEV PSYCHOL, V25, P652, DOI 10.1037/0012-1649.25.4.652
+   Schaie KW, 1998, PSYCHOL AGING, V13, P8, DOI 10.1037/0882-7974.13.1.8
+   SCHAIE KW, 1962, VITA HUMANA, V5, P129
+   SCHAIE KW, 1963, PSYCHOL BULL, V60, P530, DOI 10.1037/h0047902
+   Schaie KW., 1964, Color and personality
+   Sinnott J.D., 1996, PERSPECTIVES COGNITI, P358
+   Staudinger UM, 1998, EUR J PERSONALITY, V12, P1
+   Thorndike EL., 1920, Harpers Mag, V140, P227
+   TUCKER LR, 1971, PSYCHOMETRIKA, V36, P427, DOI 10.1007/BF02291367
+   Werner H., 1948, COMP PSYCHOL MENTAL
+NR 52
+TC 24
+Z9 35
+U1 0
+U2 6
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD SEP
+PY 2001
+VL 1
+IS 3
+BP 243
+EP 248
+DI 10.1037//1528-3542.1.3.243
+PG 6
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RH
+UT WOS:000208224200004
+PM 12934683
+DA 2025-05-08
+ER
+
+PT J
+AU Millis, K
+AF Millis, Keith
+TI Making Meaning Brings Pleasure: The Influence of Titles on Aesthetic
+   Experiences
+SO EMOTION
+LA English
+DT Article
+AB The extent to which titles influence aesthetic experiences was examined in 3 experiments. Participants viewed and rated illustrations and photographs on understanding and qualities of the aesthetic experience (e.g., enjoyment, interest). The presence and type of title were manipulated across conditions and experiments. Metaphorical titles led to greater aesthetic experiences than either no title or descriptive titles (the elaboration effect). The elaboration effect occurred regardless of whether participants believed the titles to be true or false. It also occurred for art-experienced participants, but only for representational and not abstract illustrations. Random titles lowered understanding but not aesthetic experiences. Overall, titles increased aesthetic experiences only when they contributed to rich and coherent representations.
+C1 No Illinois Univ, Dept Psychol, De Kalb, IL 60115 USA.
+C3 Northern Illinois University
+RP Millis, K (corresponding author), No Illinois Univ, Dept Psychol, De Kalb, IL 60115 USA.
+EM kmillis@niu.edu
+CR Berlyne Daniel E., 1971, Aesthetics and psychobiology
+   BOWER GH, 1975, MEM COGNITION, V3, P216, DOI 10.3758/BF03212900
+   BRANSFORD JD, 1972, J VERB LEARN VERB BE, V11, P717, DOI 10.1016/S0022-5371(72)80006-9
+   Bransford JD, 1973, Visual Information Processing, P383
+   Cupchik G.C., 1994, VISUAL ARTS RES, V20, P62, DOI DOI 10.2307/20715819
+   Cupchik G.C., 1992, Emerging visions of the aesthetic process: Psychology, semiology, and philosophy, P83
+   Cupchik G.C., 1988, Vis. Arts Res, V14, P38
+   DOOLING DJ, 1971, J EXP PSYCHOL, V88, P216, DOI 10.1037/h0030904
+   FRANKLIN MB, 1993, LEONARDO, V26, P103, DOI 10.2307/1575894
+   Hekkert P, 1996, ACTA PSYCHOL, V94, P117, DOI 10.1016/0001-6918(95)00055-0
+   Johnson HM, 1998, J EXP PSYCHOL LEARN, V24, P1483, DOI 10.1037/0278-7393.24.6.1483
+   Landauer TK, 1997, PSYCHOL REV, V104, P211, DOI 10.1037/0033-295X.104.2.211
+   Martindale C., 1988, Empirical Studies of the Arts, DOI DOI 10.2190/MCAJ-0GQT-DJTL-LNQD
+   Millis KK, 1999, J MEM LANG, V41, P183, DOI 10.1006/jmla.1999.2643
+   Parsons M., 1987, WE UNDERSTAND ART CO
+   Posner M.I., 1975, Information Processing and Cognition: The Loyola Symposium, P55, DOI DOI 10.1037/0096-3445.109.2.160
+   STANG DJ, 1974, PSYCHOL BULL, V81, P1014, DOI 10.1037/h0037419
+NR 17
+TC 186
+Z9 206
+U1 4
+U2 43
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+J9 EMOTION
+JI Emotion
+PD SEP
+PY 2001
+VL 1
+IS 3
+BP 320
+EP 329
+DI 10.1037//1528-3542.1.3.320
+PG 10
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RH
+UT WOS:000208224200010
+PM 12934689
+DA 2025-05-08
+ER
+
+PT J
+AU Rotteveel, M
+   de Groot, P
+   Geutskens, A
+   Phaf, RH
+AF Rotteveel, Mark
+   de Groot, Paulien
+   Geutskens, Arjen
+   Phaf, R. Hans
+TI Stronger Suboptimal Than Optimal Affective Priming?
+SO EMOTION
+LA English
+DT Article
+ID FACIAL REACTIONS; STIMULI; INFORMATION; PERCEPTION; AWARENESS; EXPOSURE;
+   EXPRESSIONS; ACTIVATION; EMOTION; ANXIETY
+AB The finding of stronger affective priming in less conscious (suboptimal) conditions than in fully conscious (optimal) conditions (S. T. Murphy & R. B. Zajonc, 1993) is theoretically important because it contradicts notions that emotions are primarily reflected by conscious states. In 2 experiments, this pattern of results was obtained. Happy and angry faces were presented both optimally and suboptimally and were masked by unknown ideographs. In Experiment 1, instructions for the conscious and less conscious affective priming conditions were matched, and affective ratings of ideographs were determined. In Experiment 2, a more implicit affective measure (facial electromyography of musculus zygomaticus major and musculus corrugator supercilii) served as the dependent variable. Stronger suboptimal than optimal affective priming was found in both experiments. It is concluded that stronger suboptimal than optimal processing is characteristic for affective processing and that it can also be found when instructions are matched and when a more implicit measure is assessed.
+C1 [Rotteveel, Mark; de Groot, Paulien; Geutskens, Arjen; Phaf, R. Hans] Univ Amsterdam, Dept Psychon, NL-1018 WB Amsterdam, Netherlands.
+C3 University of Amsterdam
+RP Rotteveel, M (corresponding author), Univ Amsterdam, Dept Psychon, Roetersstr 15, NL-1018 WB Amsterdam, Netherlands.
+EM pn_rotteveel@macmail.psy.uva.nl
+RI Phaf, R. Hans/ABC-5449-2020
+OI Rotteveel, Mark/0000-0002-6896-416X
+CR [Anonymous], 1996, The Emotional Brain, DOI 10.1016s0079-6123(08)61880-4
+   [Anonymous], 1976, Pictures of Facial Affect
+   Bargh JA, 1996, J EXP SOC PSYCHOL, V32, P104, DOI 10.1006/jesp.1996.0005
+   BORNSTEIN RF, 1992, J PERS SOC PSYCHOL, V63, P545, DOI 10.1037//0022-3514.63.4.545
+   BORNSTEIN RF, 1989, PSYCHOL BULL, V106, P265, DOI 10.1037/0033-2909.106.2.265
+   Bridgeman B, 1998, PSYCHOL SCI, V9, P232, DOI 10.1111/1467-9280.00045
+   CACIOPPO JT, 1986, J PERS SOC PSYCHOL, V50, P260, DOI 10.1037/0022-3514.50.2.260
+   CACIOPPO JT, 1992, PERS SOC PSYCHOL B, V18, P515, DOI 10.1177/0146167292185001
+   Capalbo M, 2000, J COGNITIVE NEUROSCI, P54
+   Chartrand TL, 1999, J PERS SOC PSYCHOL, V76, P893, DOI 10.1037/0022-3514.76.6.893
+   CHEESMAN J, 1984, PERCEPT PSYCHOPHYS, V36, P387, DOI 10.3758/BF03202793
+   Clore G. L., PSYCHOL EVA IN PRESS
+   Clore G. L., 2000, SER AFFECTIVE SCI, P24
+   Dimberg U, 2000, PSYCHOL SCI, V11, P86, DOI 10.1111/1467-9280.00221
+   DIMBERG U, 1990, SCAND J PSYCHOL, V31, P228, DOI 10.1111/j.1467-9450.1990.tb00835.x
+   Dimberg U., 1988, J PSYCHOPHYSIOL, V2, P277
+   Fox E, 1996, COGNITION EMOTION, V10, P449, DOI 10.1080/026999396380114
+   Fridlund A., 1983, Social psychophysiology: A sourcebook, P243
+   FRIDLUND AJ, 1986, PSYCHOPHYSIOLOGY, V23, P567, DOI 10.1111/j.1469-8986.1986.tb00676.x
+   Frijda N. H., 1986, EMOTIONS
+   GREENWALD AG, 1989, MEM COGNITION, V17, P35, DOI 10.3758/BF03199555
+   Greenwald M. K., 1989, Journal of Psychophysiology, V3, P51
+   Hall J.A., 1984, NONVERBAL SEX DIFFER
+   Hatfield Elaine., 1992, EMOTION SOCIAL BEHAV, DOI 10.1017/CBO9781139174138
+   Hess U, 1998, COGNITION EMOTION, V12, P509, DOI 10.1080/026999398379547
+   HOLENDER D, 1986, BEHAV BRAIN SCI, V9, P1, DOI 10.1017/S0140525X00021269
+   Janssen E, 2000, J SEX RES, V37, P8, DOI 10.1080/00224490009552016
+   Kemps EBF, 1996, PSYCHOL BELG, V36, P209
+   KEMPWHEELER SM, 1992, COGNITION EMOTION, V6, P113, DOI 10.1080/02699939208411062
+   KIHLSTROM JF, 1987, SCIENCE, V237, P1445, DOI 10.1126/science.3629249
+   LANG PJ, 1993, PSYCHOPHYSIOLOGY, V30, P261, DOI 10.1111/j.1469-8986.1993.tb03352.x
+   LANG PJ, 1995, AM PSYCHOL, V50, P372, DOI 10.1037/0003-066X.50.5.372
+   LAZARUS RS, 1991, AM PSYCHOL, V46, P819, DOI 10.1037/0003-066X.46.8.819
+   LEDOUX JE, 1986, INTEGRATIVE PSYCHIAT, V4, P237
+   LUNDQVIST LO, 1995, J PSYCHOPHYSIOL, V9, P203
+   MACLEOD C, 1992, BEHAV RES THER, V30, P479, DOI 10.1016/0005-7967(92)90032-C
+   MACLEOD C, 1992, BEHAV RES THER, V30, P151, DOI 10.1016/0005-7967(92)90138-7
+   Mandler G., 1985, COGNITIVE PSYCHOL ES
+   Merikle PM, 1997, CONSCIOUS COGN, V6, P219, DOI 10.1006/ccog.1997.0310
+   MERIKLE PM, 1992, AM PSYCHOL, V47, P792, DOI 10.1037/0003-066X.47.6.792
+   Morris JS, 1999, P NATL ACAD SCI USA, V96, P1680, DOI 10.1073/pnas.96.4.1680
+   Morris JS, 1998, NATURE, V393, P467, DOI 10.1038/30976
+   MURPHY ST, 1995, J PERS SOC PSYCHOL, V69, P589, DOI 10.1037/0022-3514.69.4.589
+   MURPHY ST, 1993, J PERS SOC PSYCHOL, V64, P723, DOI 10.1037/0022-3514.64.5.723
+   OHMAN A, 1986, PSYCHOPHYSIOLOGY, V23, P123, DOI 10.1111/j.1469-8986.1986.tb00608.x
+   Phaf R. H., 1999, FALSE RECOGNIT UNPUB
+   Phaf RH, 1997, PHILOS PSYCHOL, V10, P287, DOI 10.1080/09515089708573221
+   Raccuglia RA, 1997, BRIT J PSYCHOL, V88, P93, DOI 10.1111/j.2044-8295.1997.tb02623.x
+   Reber R, 1998, PSYCHOL SCI, V9, P45, DOI 10.1111/1467-9280.00008
+   RICHARDS A, 1992, BRIT J PSYCHOL, V83, P479, DOI 10.1111/j.2044-8295.1992.tb02454.x
+   RINN WE, 1984, PSYCHOL BULL, V95, P52, DOI 10.1037/0033-2909.95.1.52
+   Rotteveel M., 2001, LOADING WORKIN UNPUB
+   Rotteveel M., 1994, MASKED UNMASKE UNPUB
+   SEAMON JG, 1984, J EXP PSYCHOL LEARN, V10, P465, DOI 10.1037/0278-7393.10.3.465
+   SHANKS DR, 1994, BEHAV BRAIN SCI, V17, P367, DOI 10.1017/S0140525X00035032
+   Thunberg M, 2000, J NONVERBAL BEHAV, V24, P45, DOI 10.1023/A:1006662822224
+   Winkielman P, 1997, COGNITION EMOTION, V11, P433, DOI 10.1080/026999397379872
+   Winkielman P, 2001, J PERS SOC PSYCHOL, V81, P989, DOI 10.1037//0022-3514.81.6.989
+NR 58
+TC 94
+Z9 107
+U1 0
+U2 30
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD DEC
+PY 2001
+VL 1
+IS 4
+BP 348
+EP 364
+DI 10.1037//1528-3542.1.4.348
+PG 17
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RI
+UT WOS:000208224300002
+PM 12901397
+DA 2025-05-08
+ER
+
+PT J
+AU Gendolla, GHE
+   Abele, AE
+   Krüsken, J
+AF Gendolla, Guido H. E.
+   Abele, Andrea E.
+   Kruesken, Jan
+TI The Informational Impact of Mood on Effort Mobilization: A Study of
+   Cardiovascular and Electrodermal Responses
+SO EMOTION
+LA English
+DT Article
+ID BLOOD-PRESSURE RESPONSES; TASK-DIFFICULTY; HEART-RATE; INTENDED EFFORT;
+   DIFFERENTIATION; REACTIVITY; PERFORMANCE; HAPPINESS; EMOTION; AROUSAL
+AB The impact of mood on effort quantified as autonomic adjustments was investigated in an experiment. The authors induced positive versus negative moods with either 1 of 2 mood induction procedures (music vs. autobiographical recollection) that differed in the extent of required effort. Then participants performed an achievement task after demand appraisals were made. Results were as predicted. During the mood inductions, autonomic reactivity (systolic blood pressure [SBP], diastolic blood pressure, heart rate, skin conductance responses) was stronger in the relatively effortful recollection conditions than in the relatively effortless music conditions. Mood valence had no impact here. But in the context of task performance, the authors found (a) mood congruency effects on the demand appraisals that reflected subjectively higher demand in a negative than in a positive mood, and (b) stronger SBP reactivity in a negative mood compared with a positive mood. Furthermore, SBP reactivity during task performance was correlated with achievement.
+C1 [Gendolla, Guido H. E.; Abele, Andrea E.; Kruesken, Jan] Univ Erlangen Nurnberg, Inst Psychol, D-91054 Erlangen, Germany.
+C3 University of Erlangen Nuremberg
+RP Gendolla, GHE (corresponding author), Univ Erlangen Nurnberg, Inst Psychol, Bismarckstr 6, D-91054 Erlangen, Germany.
+EM gendolla@phil.uni-erlangen.de
+RI Abele, Andrea/AFL-3996-2022
+OI Gendolla, Guido Heinz Erich/0000-0002-8066-0951; Abele-Brehm,
+   Andrea/0000-0002-0237-8774
+CR ABELE A, 1994, EUR J SOC PSYCHOL, V24, P173, DOI 10.1002/ejsp.2420240113
+   Abele A, 1998, PERS SOC PSYCHOL B, V24, P1343, DOI 10.1177/01461672982412008
+   AlAbsi M, 1997, PSYCHOPHYSIOLOGY, V34, P266, DOI 10.1111/j.1469-8986.1997.tb02397.x
+   [Anonymous], 1996, The Emotional Brain, DOI 10.1016s0079-6123(08)61880-4
+   [Anonymous], 1991, EMOTION ADAPTION, DOI DOI 10.1097/01.psy.0000170339.06281.07
+   [Anonymous], 1960, Emotion and personality
+   [Anonymous], GET EASY
+   [Anonymous], PSYCHOPHYSI IN PRESS
+   [Anonymous], PSYCHOSOMATIC MED
+   [Anonymous], PERSONALITY SOCIAL P
+   [Anonymous], 1995, STIMMUNG LEISTUNG
+   [Anonymous], EMOTION THEORY RES E
+   [Anonymous], GET EASY
+   [Anonymous], HOUSE SPIRIT SOUNDTR
+   [Anonymous], 1993, Handbook of emotions, DOI DOI 10.1016/S0065-2601(08)60214-2
+   [Anonymous], GET EASY
+   [Anonymous], GET EASY
+   Averill JR., 1980, Theories of Emotion, P305, DOI DOI 10.1016/B978-0-12-558701-3.50018-1
+   Baron-Cohen S, 1998, NATURE, V392, P459, DOI 10.1038/33076
+   BERKOWITZ L, 1990, COGNITION EMOTION, V4, P305, DOI 10.1080/02699939008408080
+   BONGARD S, 1995, PSYCHOPHYSIOLOGY, V32, P242, DOI 10.1111/j.1469-8986.1995.tb02960.x
+   Brehm J W, 1999, Pers Soc Psychol Rev, V3, P2, DOI 10.1207/s15327957pspr0301_1
+   BREHM JW, 1989, ANNU REV PSYCHOL, V40, P109, DOI 10.1146/annurev.ps.40.020189.000545
+   Brickenkamp R., 1981, Test d2, V7th
+   Cacioppo J.T., 1993, HDB EMOTIONS, P119
+   Clore G. L., 1994, Handbook of social cognition, V1, P323
+   DAVIS D, 1975, J EXP SOC PSYCHOL, V11, P381, DOI 10.1016/0022-1031(75)90017-7
+   Dawson M. E., 2017, Handbook of Psychophysiology, V4th, P217, DOI [DOI 10.1017/9781107415782.010, 10.1017/9781107415782.010]
+   ELLIOTT R, 1969, J PERS SOC PSYCHOL, V12, P211
+   Ellis H.C., 1988, AFFECT COGNITION SOC, P25
+   Eysenck M. W., 1982, Attention and Arousal, DOI 10.1007/978-3-642-68390-9
+   FORGAS JP, 1987, J PERS SOC PSYCHOL, V53, P53, DOI 10.1037/0022-3514.53.1.53
+   FOWLES DC, 1988, PSYCHOPHYSIOLOGY, V25, P373, DOI 10.1111/j.1469-8986.1988.tb01873.x
+   FOWLES DC, 1983, J RES PERS, V17, P48, DOI 10.1016/0092-6566(83)90060-0
+   Frijda N. H., 1986, EMOTIONS
+   GELLATLY IR, 1992, J APPL PSYCHOL, V77, P694, DOI 10.1037/0021-9010.77.5.694
+   Gendolla G.H. E., 2000, Review of General Psychology, V4, P378, DOI DOI 10.1037/1089-2680.4.4.378
+   Gendolla GHE, 1999, MOTIV EMOTION, V23, P45, DOI 10.1023/A:1021331501833
+   Gendolla GHE, 1998, BASIC APPL SOC PSYCH, V20, P111, DOI 10.1207/15324839851036732
+   Gendolla GHE, 1999, PSYCHOPHYSIOLOGY, V36, pS53
+   Gendolla GHE, 2001, INT J PSYCHOPHYSIOL, V41, P169, DOI 10.1016/S0167-8760(01)00130-1
+   GERIN W, 1995, PSYCHOSOM MED, V57, P390, DOI 10.1097/00006842-199507000-00011
+   Gray Jonathan., 2019, TELEVISION STUDIES
+   Gross JJ, 1997, J ABNORM PSYCHOL, V106, P95, DOI 10.1037/0021-843X.106.1.95
+   HERTEL PT, 1990, J EXP PSYCHOL GEN, V119, P45, DOI 10.1037/0096-3445.119.1.45
+   Izard C. E., 2013, Human emotions
+   JAMES GD, 1986, PSYCHOSOM MED, V48, P502, DOI 10.1097/00006842-198609000-00005
+   Keltner D, 1999, COGNITION EMOTION, V13, P467, DOI 10.1080/026999399379140
+   Lacey J.I., 1967, PSYCHOL STRESS, P14
+   LANG PJ, 1995, AM PSYCHOL, V50, P372, DOI 10.1037/0003-066X.50.5.372
+   Lazarus R, 1984, Stress, appraisal, and coping, DOI DOI 10.1007/978-1-4419-1005-9_215
+   LEVENSON RW, 1990, PSYCHOPHYSIOLOGY, V27, P363, DOI 10.1111/j.1469-8986.1990.tb02330.x
+   LIGHT KC, 1983, PSYCHOPHYSIOLOGY, V20, P301, DOI 10.1111/j.1469-8986.1983.tb02158.x
+   LLABRE MM, 1991, PSYCHOPHYSIOLOGY, V28, P701, DOI 10.1111/j.1469-8986.1991.tb01017.x
+   LOVALLO WR, 1985, PSYCHOPHYSIOLOGY, V22, P283, DOI 10.1111/j.1469-8986.1985.tb01602.x
+   MANUCK SB, 1978, PSYCHOPHYSIOLOGY, V15, P544, DOI 10.1111/j.1469-8986.1978.tb03107.x
+   MARTIN LL, 1993, J PERS SOC PSYCHOL, V64, P317, DOI 10.1037/0022-3514.64.3.317
+   MATTHEWS G, 1990, BRIT J PSYCHOL, V81, P17, DOI 10.1111/j.2044-8295.1990.tb02343.x
+   MAYER JD, 1992, J PERS SOC PSYCHOL, V63, P119, DOI 10.1037/0022-3514.63.1.119
+   Morris W.N., 1992, EMOTION REV PERSONAL, V13, P256
+   Obrist P.A., 1981, Cardiovascular Psychophysiology: A Perspective
+   OBRIST PA, 1976, PSYCHOPHYSIOLOGY, V13, P95, DOI 10.1111/j.1469-8986.1976.tb00081.x
+   Pecchinenda A, 1996, COGNITION EMOTION, V10, P481, DOI 10.1080/026999396380123
+   Prkachin KM, 1999, J PSYCHOSOM RES, V47, P255, DOI 10.1016/S0022-3999(99)00036-7
+   PYSZCZYNSKI T, 1983, J RES PERS, V17, P412, DOI 10.1016/0092-6566(83)90069-7
+   RHODEWALT F, 1991, J RES PERS, V25, P402, DOI 10.1016/0092-6566(91)90030-T
+   RIDGEWAY D, 1987, J PERS SOC PSYCHOL, V52, P620
+   Salovey P., 1985, Review of personality and social psychology, V6, P143
+   Scherer K.R., 1984, Approaches to Emotion, V2293, P31
+   SCHWARTZ GE, 1981, PSYCHOSOM MED, V43, P343, DOI 10.1097/00006842-198108000-00007
+   SCHWARZ N, 1983, J PERS SOC PSYCHOL, V45, P513, DOI 10.1037/0022-3514.45.3.513
+   Schwarz N., 1990, HDB MOTIVATION COGNI, V2, P527, DOI DOI 10.2307/2072281
+   SHERWOOD A, 1990, PSYCHOPHYSIOLOGY, V27, P656, DOI 10.1111/j.1469-8986.1990.tb03189.x
+   SINHA R, 1992, PSYCHOSOM MED, V54, P422, DOI 10.1097/00006842-199207000-00005
+   Smith C. A., 2000, Feeling and thinking. The role of affect in social cognition
+   SMITH CA, 1989, J PERS SOC PSYCHOL, V56, P339, DOI 10.1037/0022-3514.56.3.339
+   SMITH TW, 1989, J PERS SOC PSYCHOL, V56, P209, DOI 10.1037/0022-3514.56.2.209
+   SOMMERS S, 1984, J PERS SOC PSYCHOL, V46, P207, DOI 10.1037/0022-3514.46.1.207
+   STEMMLER G, 1989, PSYCHOPHYSIOLOGY, V26, P617, DOI 10.1111/j.1469-8986.1989.tb03163.x
+   STENNETT RG, 1957, J EXP PSYCHOL, V54, P54, DOI 10.1037/h0043340
+   Storey PL, 1996, J PSYCHOPHYSIOL, V10, P228
+   STRACK F, 1985, J PERS SOC PSYCHOL, V49, P1460, DOI 10.1037/0022-3514.49.6.1460
+   Wagner H., 1989, Handbook of social psychophysiology, P77
+   WEGNER DM, 1980, J PERS SOC PSYCHOL, V38, P719, DOI 10.1037/0022-3514.38.5.719
+   WILSON TD, 1982, J EXP SOC PSYCHOL, V18, P537, DOI 10.1016/0022-1031(82)90072-5
+   Wright R.A., 1989, GOAL CONCEPTS PERSON, P169
+   Wright R.A., 1996, The psychology of action: Linking cognition and motivation to behavior, P424
+   WRIGHT RA, 1986, J PERS SOC PSYCHOL, V51, P837, DOI 10.1037/0022-3514.51.4.837
+   Wright RA, 1998, PL S SOC CL, P197
+   WRIGHT RA, 1992, PSYCHOPHYSIOLOGY, V29, P677
+   Wyer R.S., 1999, Advances in Experimental Social Psychology, V31, P1, DOI [10.1016/S0065-2601(08)60271-3, DOI 10.1016/S0065-2601(08)60271-3]
+NR 91
+TC 76
+Z9 82
+U1 1
+U2 14
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD MAR
+PY 2001
+VL 1
+IS 1
+BP 12
+EP 24
+DI 10.1037/1528-3542.1.1.12
+PG 13
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RE
+UT WOS:000208223900003
+PM 12894808
+DA 2025-05-08
+ER
+
+PT J
+AU Jakobs, E
+   Manstead, ASR
+   Fischer, AH
+AF Jakobs, Esther
+   Manstead, Antony S. R.
+   Fischer, Agneta H.
+TI Social Context Effects on Facial Activity in a Negative Emotional
+   Setting
+SO EMOTION
+LA English
+DT Article
+AB Evidence for A. J. Fridlund's (e.g., 1994) "behavioral ecology view" of human facial expression comes primarily from studies of smiling in response to positive emotional stimuli. Smiling may be a special case because it clearly can, and often does serve merely communicative functions. The present experiment was designated (a) to assess the generalizability of social context effects to facial expressions in response to negative emotional stimuli and (b) to examine whether these effects are mediated by social motives, as suggested by the behavioral ecology view. Pairs of friends or strangers viewed film clips that elicited different degrees of sad affect, in either the same or a different room; a control group participated alone. Dependent variables included facial activity, subjective emotion, and social motives. Displays of sadness were influenced by stimulus intensity and were lower in all social conditions than in the alone condition. Unexpectedly, social context effects were also found for smiling.
+C1 [Jakobs, Esther; Manstead, Antony S. R.; Fischer, Agneta H.] Univ Amsterdam, Dept Psychol, Social Psychol Program, NL-1018 WB Amsterdam, Netherlands.
+C3 University of Amsterdam
+RP Manstead, ASR (corresponding author), Univ Amsterdam, Dept Psychol, Social Psychol Program, Roetersstr 15, NL-1018 WB Amsterdam, Netherlands.
+EM sp_manstead@macmail.psy.uva.nl
+RI Manstead, Antony/D-1476-2009
+OI Manstead, Antony/0000-0001-7540-2096
+CR Alvarado N, 1996, MOTIV EMOTION, V20, P33, DOI 10.1007/BF02251006
+   [Anonymous], 1999, The social context of nonverbal behavior
+   [Anonymous], EMOTION ADULT DEV
+   [Anonymous], REV PERSONALITY SOCI
+   [Anonymous], 1969, Semiotica, DOI [10.1515/semi.1969.1.1.49, DOI 10.1515/SEMI.1969.1.1.49]
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   BAVELAS JB, 1986, J PERS SOC PSYCHOL, V50, P322, DOI 10.1037/0022-3514.50.2.322
+   BRIGHTMAN VJ, 1977, J DENT RES, V56, pB161
+   BRIGHTMAN VJ, 1975, J DENT RES, V54, pL141
+   Brown G. E., 1980, BIOL PSYCHOL, V11, P49
+   BUCK R, 1992, J PERS SOC PSYCHOL, V63, P962, DOI 10.1037/0022-3514.63.6.962
+   Buck R., 1988, HUMAN MOTIVATION EMO
+   Buck R., 1984, COMMUNICATION EMOTIO
+   CACIOPPO JT, 1992, PERS SOC PSYCHOL B, V18, P515, DOI 10.1177/0146167292185001
+   Carroll A. M., 1997, J PERS SOC PSYCHOL, V72, P164
+   CHOVIL N, 1991, J NONVERBAL BEHAV, V15, P141, DOI 10.1007/BF01672216
+   Clark M.S., 1995, Knowledge Structures in Close Relationships, P247
+   Duchenne G., 1990, MECH HUMAN FACIAL EX, DOI [10.1017/cbo9780511752841, DOI 10.1017/CBO9780511752841]
+   EKMAN P, 1994, PSYCHOL BULL, V115, P268, DOI 10.1037/0033-2909.115.2.268
+   EKMAN P, 1980, J PERS SOC PSYCHOL, V39, P1125, DOI 10.1037/h0077722
+   EKMAN P, 1971, J PERS SOC PSYCHOL, V17, P124, DOI 10.1037/h0030377
+   EKMAN P, 1993, AM PSYCHOL, V48, P384, DOI 10.1037/0003-066X.48.4.384
+   EKMAN P, 1982, J NONVERBAL BEHAV, V6, P238, DOI 10.1007/BF00987191
+   EKMAN P, 1986, MOTIV EMOTION, V10, P159, DOI 10.1007/BF00992253
+   Ekman P., 1989, Handbook of Social Psychophysiology, P143
+   Ekman P., 1978, Environmental Psychology & Nonverbal Behavior
+   Fernandez-Dols JM, 1997, J NONVERBAL BEHAV, V21, P163, DOI 10.1023/A:1024917530100
+   FERNANDEZ-DOLS JM, 1995, J PERS SOC PSYCHOL, V69, P1113, DOI 10.1037/0022-3514.69.6.1113
+   Flett G. L., 1988, BRIT J SOC PSYCHOL, V27, P61
+   FRANK MG, 1993, J PERS SOC PSYCHOL, V64, P83, DOI 10.1037/0022-3514.64.1.83
+   Frey W.H., 1985, Crying: The Mystery of Tears
+   FRIDLUND AJ, 1991, BIOL PSYCHOL, V32, P3, DOI 10.1016/0301-0511(91)90003-Y
+   FRIDLUND AJ, 1992, J NONVERBAL BEHAV, V16, P191, DOI 10.1007/BF00988034
+   FRIDLUND AJ, 1991, J PERS SOC PSYCHOL, V60, P229, DOI 10.1037/0022-3514.60.2.229
+   FRIDLUND AJ, 1990, J NONVERBAL BEHAV, V14, P113, DOI 10.1007/BF01670438
+   Fridlund AJ, 1994, Human facial expression: an evolutionary view
+   Frijda N. H., 1997, The psychology of facial expression
+   Frijda N. H., 1986, EMOTIONS
+   FRIJDA NH, 1995, COGNITION EMOTION, V9, P617, DOI 10.1080/02699939508408986
+   GROSS JJ, 1995, COGNITION EMOTION, V9, P87, DOI 10.1080/02699939508408966
+   Gump BB, 1997, J PERS SOC PSYCHOL, V72, P305, DOI 10.1037/0022-3514.72.2.305
+   HESS U, 1995, J PERS SOC PSYCHOL, V69, P280, DOI 10.1037/0022-3514.69.2.280
+   HOOVERDEMPSEY KV, 1986, PSYCHOL WOMEN QUART, V10, P19, DOI 10.1111/j.1471-6402.1986.tb00734.x
+   Jakobs E, 1999, PERS SOC PSYCHOL B, V25, P424, DOI 10.1177/0146167299025004003
+   Jakobs E., 1996, FUNDAMENTELE SOCIALE, V10, P89
+   Keltner D, 1997, PSYCHOL BULL, V122, P250, DOI 10.1037/0033-2909.122.3.250
+   KLECK RE, 1976, J PERS SOC PSYCHOL, V34, P1211, DOI 10.1037/0022-3514.34.6.1211
+   KRAUT RE, 1982, J PERS SOC PSYCHOL, V42, P853, DOI 10.1037/0022-3514.42.5.853
+   KRAUT RE, 1979, J PERS SOC PSYCHOL, V37, P1539, DOI 10.1037/0022-3514.37.9.1539
+   LAIRD JD, 1990, PERS SOC PSYCHOL B, V16, P636, DOI 10.1177/0146167290164005
+   MATSUMOTO D, 1990, MOTIV EMOTION, V14, P195, DOI 10.1007/BF00995569
+   PHILIPPOT P, 1993, COGNITION EMOTION, V7, P171, DOI 10.1080/02699939308409183
+   ROSENBERG EL, 1994, COGNITION EMOTION, V8, P201, DOI 10.1080/02699939408408938
+   Timmers M, 1998, PERS SOC PSYCHOL B, V24, P974, DOI 10.1177/0146167298249005
+   Van den Berg M., 1992, GEDRAG GEZONDHEID, V20, P23
+   Vingerhoets A.J. J. M., 1997, NON EXPRESSION EMOTI, P323
+   WAGNER HL, 1991, J NONVERBAL BEHAV, V15, P201, DOI 10.1007/BF00986922
+   YARCZOWER M, 1982, J PERS SOC PSYCHOL, V43, P831, DOI 10.1037/0022-3514.43.4.831
+NR 58
+TC 89
+Z9 105
+U1 1
+U2 19
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+J9 EMOTION
+JI Emotion
+PD MAR
+PY 2001
+VL 1
+IS 1
+BP 51
+EP 69
+DI 10.1037/1528-3542.1.1.51
+PG 19
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RE
+UT WOS:000208223900006
+PM 12894811
+DA 2025-05-08
+ER
+
+PT J
+AU Eisenberg, N
+   Liew, J
+   Pidada, SU
+AF Eisenberg, Nancy
+   Liew, Jeffrey
+   Pidada, Sri Untari
+TI The Relations of Parental Emotional Expressivity With Quality of
+   Indonesian Children's Social Functioning
+SO EMOTION
+LA English
+DT Article
+ID BEHAVIOR PROBLEMS; MARITAL CONFLICT; INHIBITORY CONTROL; UNITED-STATES;
+   AGE 3; TEMPERAMENT; FAMILY; CHILDHOOD; SELF; SOCIALIZATION
+AB In Western societies, parental expression of positive emotion has been positively related to the quality of children's social functioning, whereas their expression of negative emotion has been negatively or inconsistently related. The relations of parental expressivity to 3rd-grade Indonesian children's dispositional regulation, socially appropriate behavior, popularity, and sympathy were examined. Parents, teachers, and peers reported on children's social functioning and regulation, and parents (mostly mothers) reported on their own expression of emotion in the family. Generally, parental expression of negative emotion was negatively related to the quality of children's social functioning, and regression analyses indicated that the relations of parental negative expressivity to children's popularity and externalizing behaviors might be indirect through their effects on children's regulation. Unexpectedly, parental expression of positive emotion was unrelated to children's social functioning.
+C1 [Eisenberg, Nancy; Liew, Jeffrey] Arizona State Univ, Dept Psychol, Tempe, AZ 85287 USA.
+   [Pidada, Sri Untari] Padjadjaran State Univ, Dept Psychol, Bandung, Indonesia.
+C3 Arizona State University; Arizona State University-Tempe; Universitas
+   Padjadjaran
+RP Eisenberg, N (corresponding author), Arizona State Univ, Dept Psychol, Tempe, AZ 85287 USA.
+EM nancy.eisenberg@asu.edu
+RI Liew, Jeffrey/AAS-9125-2020
+OI Liew, Jeffrey/0000-0002-0784-8448
+CR Achenbach T. M., 1991, Manual for the child Behavior Checklist/4-18
+   Achenbach T.M., 1986, MANUAL TEACHERS REPO
+   Ahadi S.A., 1994, DEV STRUCTURE TEMPER, P189
+   [Anonymous], NATO ASI SEIES D
+   ASARNOW JR, 1994, J ABNORM CHILD PSYCH, V22, P129, DOI 10.1007/BF02167896
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   BATES JE, 1990, MERRILL PALMER QUART, V36, P193
+   Bell R.Q., 1977, CHILD EFFECTS ADULTS
+   BOYUM LA, 1995, J MARRIAGE FAM, V57, P593, DOI 10.2307/353915
+   Briggs J., 1998, Inuit Morality Play: The Emotional Education of a Three-Year-Old
+   Bronstein P., 1993, The Journal of Early Adolescence, V13, P448, DOI DOI 10.1177/0272431693013004006
+   Buck R., 1984, COMMUNICATION EMOTIO
+   Buehler C., 1997, J CHILD FAM STUD, V6, P233, DOI DOI 10.1023/A:1025006909538
+   BUGENTAL DB, 1989, DEV PSYCHOL, V25, P532, DOI 10.1037/0012-1649.25.4.532
+   CAMPOS JJ, 1989, DEV PSYCHOL, V25, P394, DOI 10.1037/0012-1649.25.3.394
+   Camras LA, 1998, DEV PSYCHOL, V34, P616, DOI 10.1037/0012-1649.34.4.616
+   CASPI A, 1995, CHILD DEV, V66, P55, DOI 10.2307/1131190
+   CASSIDY J, 1992, CHILD DEV, V63, P603, DOI 10.1111/j.1467-8624.1992.tb01649.x
+   Chambless DL, 1999, PSYCHOL ASSESSMENT, V11, P67, DOI 10.1037/1040-3590.11.1.67
+   Cole PM, 1998, DEV PSYCHOL, V34, P640, DOI 10.1037/0012-1649.34.4.640
+   Cummings EM, 1996, DEV PSYCHOPATHOL, V8, P123, DOI 10.1017/S0954579400007008
+   DAVIES PT, 1994, PSYCHOL BULL, V116, P387, DOI 10.1037/0033-2909.116.3.387
+   Denham S.A., 1998, EMOTIONAL DEV YOUNG
+   Denham SA, 2000, DEV PSYCHOPATHOL, V12, P23, DOI 10.1017/S0954579400001024
+   DENHAM SA, 1994, DEV PSYCHOL, V30, P928, DOI 10.1037/0012-1649.30.6.928
+   Derryberry D, 1997, DEV PSYCHOPATHOL, V9, P633, DOI 10.1017/S0954579497001375
+   DERRYBERRY D, 1988, J PERS SOC PSYCHOL, V55, P958, DOI 10.1037/0022-3514.55.6.958
+   DIX T, 1991, PSYCHOL BULL, V110, P3, DOI 10.1037/0033-2909.110.1.3
+   Dix T., 1992, PARENTAL BELIEF SYST, V2nd, P319, DOI [10.1207/s15566935eed1702_2, DOI 10.1207/S15566935EED1702_2]
+   DUNN J, 1991, CAMB ST SOC, P89, DOI 10.1017/CBO9780511663963.006
+   Dunsmore J C, 1997, New Dir Child Dev, P45
+   Eisenberg N, 1996, CHILD DEV, V67, P2227, DOI 10.2307/1131620
+   Eisenberg N, 1998, DEV PSYCHOL, V34, P910, DOI 10.1037/0012-1649.34.5.910
+   Eisenberg N, 1996, CHILD DEV, V67, P974, DOI 10.2307/1131874
+   Eisenberg N, 2001, DEV PSYCHOL, V37, P475, DOI 10.1037//0012-1649.37.4.475
+   EISENBERG N, 1993, CHILD DEV, V64, P1418, DOI 10.1111/j.1467-8624.1993.tb02961.x
+   Eisenberg N, 1998, PSYCHOL INQ, V9, P317, DOI 10.1207/s15327965pli0904_1
+   Eisenberg N, 1996, DEV PSYCHOPATHOL, V8, P141, DOI 10.1017/S095457940000701X
+   Eisenberg N, 1998, SCHOOL PSYCHOL REV, V27, P506
+   Eisenberg N, 1996, DEV PSYCHOL, V32, P195, DOI 10.1037/0012-1649.32.2.195
+   Eisenberg N, 2000, J PERS SOC PSYCHOL, V78, P136, DOI 10.1037/0022-3514.78.1.136
+   EISENBERG N, 1992, CHILD DEV, V63, P583, DOI 10.2307/1131348
+   EPSTEIN S, 1979, J PERS SOC PSYCHOL, V37, P1097, DOI 10.1037/0022-3514.37.7.1097
+   FABES RA, 1992, CHILD DEV, V63, P116, DOI 10.2307/1130906
+   FARVER JAM, 1995, CHILD DEV, V66, P1493, DOI 10.1111/j.1467-8624.1995.tb00947.x
+   Fredrickson Barbara L, 1998, Rev Gen Psychol, V2, P300
+   French D. C., 2000, FRIENDSHIP QUA UNPUB
+   French DC, 1999, MINN SYM CHILD PSYCH, V30, P109
+   Garner PW, 1996, CHILD DEV, V67, P1406, DOI 10.2307/1131708
+   Geertz Clifford., 1976, The Religion of Java
+   Goodman SH, 1999, J FAM PSYCHOL, V13, P33, DOI 10.1037/0893-3200.13.1.33
+   Gottman J.M., 1997, META EMOTION FAMILIE, DOI 10.4324/9780203763568
+   GRYCH JH, 1990, PSYCHOL BULL, V108, P267, DOI 10.1037/0033-2909.108.2.267
+   Halberstadt A.G., 1999, SOCIAL CONTEXT NONVE, P109
+   HALBERSTADT AG, 1995, PSYCHOL ASSESSMENT, V7, P93, DOI 10.1037/1040-3590.7.1.93
+   HARTUP WW, 1967, CHILD DEV, V38, P1017, DOI 10.2307/1127099
+   Hastings PD, 2000, DEV PSYCHOL, V36, P531, DOI [10.1037/0012-1649.36.5.531, 10.1037//0012-1649.36.5.531]
+   Hoffman M.L., 1983, SOCIAL COGNITION SOC, P236
+   Hofstede Gert Jan, 2009, European Journal of Cross-Cultural Competence and Management, V1, P14, DOI 10.1504/EJCCM.2009.026729
+   HUBBARD JA, 1994, MERRILL PALMER QUART, V40, P1
+   Isley SL, 1999, DEV PSYCHOL, V35, P547, DOI 10.1037/0012-1649.35.2.547
+   KATZ LF, 1991, CAMB ST SOC, P129, DOI 10.1017/CBO9780511663963.008
+   Katz LF, 1996, J FAM PSYCHOL, V10, P284, DOI 10.1037/0893-3200.10.3.284
+   Kochanska G, 1997, CHILD DEV, V68, P263, DOI 10.1111/j.1467-8624.1997.tb01939.x
+   Kochanska G, 1996, CHILD DEV, V67, P490, DOI 10.1111/j.1467-8624.1996.tb01747.x
+   Kochanska G, 1998, CHILD DEV, V69, P375, DOI 10.1111/j.1467-8624.1998.tb06196.x
+   Koentjaraningrat R.M., 1985, Javanese Culture
+   KOPP CB, 1982, DEV PSYCHOL, V18, P199, DOI 10.1037/0012-1649.18.2.199
+   Lengua LJ, 1998, CHILD DEV, V69, P164, DOI 10.1111/j.1467-8624.1998.tb06141.x
+   LOCHMAN JE, 1995, J CONSULT CLIN PSYCH, V63, P549, DOI 10.1037/0022-006X.63.4.549
+   Lutz CatherineA., 1988, UNNATURAL EMOTIONS
+   MACKINNON DP, 1993, EVALUATION REV, V17, P144, DOI 10.1177/0193841X9301700202
+   MARKUS HR, 1991, PSYCHOL REV, V98, P224, DOI 10.1037/0033-295X.98.2.224
+   Matsumoto D., 1996, UNMASKING JAPAN
+   Matthews KA, 1996, HEALTH PSYCHOL, V15, P30, DOI 10.1037/0278-6133.15.1.30
+   Mulder Niels., 1996, Inside Indonesian Society: Cultural Change in Java
+   Mulder Niels., 1989, Individual and Society in Java
+   Muthen L. K., 1998, MPLUS USERS GUIDE, DOI DOI 10.1016/J.EDUREV.2015.02.003
+   OYSERMAN D, 1993, J PERS SOC PSYCHOL, V65, P993, DOI 10.1037/0022-3514.65.5.993
+   Oyserman D., PSYCHOL B IN PRESS
+   Parke R., 1998, SOCIAL EMOTIONAL, V3, P463, DOI DOI 10.1002/9780470147658.chpsy0308
+   Patterson G.R., 1982, COERCIVE FAMILY PROC
+   PLOMIN R, 1989, MAC FDN MEN, P219
+   Rothbart M. K., 2006, Handbook of child psychology, V3, P99, DOI DOI 10.1002/9780470147658.CHPSY0303
+   Rothbart MK, 2000, J PERS SOC PSYCHOL, V78, P122, DOI 10.1037/0022-3514.78.1.122
+   ROTHBART MK, 1994, MERRILL PALMER QUART, V40, P21
+   RUSHTON JP, 1983, PSYCHOL BULL, V94, P18, DOI 10.1037/0033-2909.94.1.18
+   SANSON A, 1990, MERRILL PALMER QUART, V36, P179
+   SANSON AV, 1994, MERRILL PALMER QUART, V40, P233
+   STUBBE DE, 1993, J CHILD PSYCHOL PSYC, V34, P139, DOI 10.1111/j.1469-7610.1993.tb00976.x
+   Thompson R A, 1994, Monogr Soc Res Child Dev, V59, P25, DOI 10.2307/1166137
+   Triandis H. C., 1995, Individualism & collectivism
+   VAUGHN C, 1976, BRIT J SOC CLIN PSYC, V15, P157, DOI 10.1111/j.2044-8260.1976.tb00021.x
+   Walden TA, 1997, MOTIV EMOTION, V21, P7
+   WIKAN U, 1989, AM ETHNOL, V16, P294, DOI 10.1525/ae.1989.16.2.02a00070
+   Williams W., 1991, JAVANESE LIVES MEN W
+   ZahnWaxler C, 1996, CHILD DEV, V67, P2462, DOI 10.2307/1131634
+NR 97
+TC 66
+Z9 73
+U1 1
+U2 27
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD JUN
+PY 2001
+VL 1
+IS 2
+BP 116
+EP 136
+DI 10.1037//1528-3542.1.2.116
+PG 21
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RG
+UT WOS:000208224100002
+PM 12899192
+DA 2025-05-08
+ER
+
+PT J
+AU Zvolensky, MJ
+   Eifert, GH
+   Lejuez, CW
+AF Zvolensky, Michael J.
+   Eifert, Georg H.
+   Lejuez, C. W.
+TI Offset Control During Recurrent 20% Carbon Dioxide-Enriched Air
+   Induction: Relation to Individual Difference Variables
+SO EMOTION
+LA English
+DT Article
+ID ANXIETY SENSITIVITY; PANIC DISORDER; COGNITIVE APPRAISAL;
+   GENDER-DIFFERENCES; PERCEIVED CONTROL; FEAR; EMOTION; ATTACKS;
+   ADMINISTRATIONS; ORIENTATION
+AB Although control over aversive events maintains a central role in contemporary models of anxiety pathology, particularly panic disorder, there is little understanding about the emotional consequences of specific types of control processes. In the present study, offset control over 8 20% carbon dioxide-enriched air administrations was experimentally manipulated in a large nonclinical population (n = 96) varying in anxiety sensitivity (high or low) and gender. Dependent measures included self-reported anxiety, affective reports of valence, arousal, emotional control, and physiological indices of heart rate and skin conductance. High anxiety-sensitive participants who lacked offset control reported significantly greater elevations in self-reported anxiety, emotional displeasure, arousal, and dyscontrol relative to their yoked counterparts with offset control. In contrast, low anxiety-sensitive individuals responded with similar levels of cognitive and affective distress regardless of the offset control manipulation. Although the provocation procedure reliably produced bodily arousal relative to baseline, at a physiological level of analysis, no significant differences emerged across conditions. These findings are discussed in relation to offset control during recurrent interoceptive arousal, with implications for better understanding anxiety about abrupt bodily sensations.
+C1 [Zvolensky, Michael J.; Eifert, Georg H.] W Virginia Univ, Dept Behav Med, Morgantown, WV 26506 USA.
+   [Lejuez, C. W.] Brown Univ, Sch Med, Dept Psychiat & Human Behav, Providence, RI 02912 USA.
+C3 West Virginia University; Brown University
+RP Zvolensky, MJ (corresponding author), Univ Vermont, Dept Psychol, John Dewey Hall, Burlington, VT 05405 USA.
+EM m_zvolen@dewey.uvm.edu
+OI Lejuez, Carl/0000-0003-2772-7835
+CR ADLER D, 1985, PSYCHOL REP, V56, P619, DOI 10.2466/pr0.1985.56.2.619
+   ALLOY LB, 1981, J PERS SOC PSYCHOL, V41, P1129, DOI 10.1037/0022-3514.41.6.1129
+   ALLOY LB, 1990, COMORBIDITY OF MOOD AND ANXIETY DISORDERS, P499
+   [Anonymous], 1988, The cognitive structure of emotions
+   BALSWICK J, 1977, J MARRIAGE FAM, V39, P121, DOI 10.2307/351068
+   Barlow D H, 1996, Nebr Symp Motiv, V43, P251
+   Barlow D. H., 2002, ANXIETY ITS DISORDER
+   Barlow D. H., 1991, Psychological Inquiry, V2, P58, DOI [10.1207/s15327965pli020115, DOI 10.1207/S15327965PLI020115, 10.1207/s15327965pli0201_15]
+   BARON RM, 1986, J PERS SOC PSYCHOL, V51, P1173, DOI 10.1037/0022-3514.51.6.1173
+   Bekker MHJ, 1996, CLIN PSYCHOL REV, V16, P129, DOI 10.1016/0272-7358(96)00012-8
+   Berg CZ, 1998, BEHAV RES THER, V36, P3, DOI 10.1016/S0005-7967(97)10027-4
+   BONGARD S, 1995, PSYCHOPHYSIOLOGY, V32, P242, DOI 10.1111/j.1469-8986.1995.tb02960.x
+   BORDEN JW, 1991, COGNITIVE THER RES, V15, P257, DOI 10.1007/BF01205172
+   Bouton ME, 2001, PSYCHOL REV, V108, P4, DOI 10.1037//0033-295X.108.1.4
+   BRADLEY MM, 1994, J BEHAV THER EXP PSY, V25, P49, DOI 10.1016/0005-7916(94)90063-9
+   CACIOPPO JT, 1994, PSYCHOL BULL, V115, P401, DOI 10.1037/0033-2909.115.3.401
+   CAMERON OG, 1989, PSYCHIAT CLIN N AM, V12, P175
+   CARTER MM, 1995, J ABNORM PSYCHOL, V104, P156, DOI 10.1037/0021-843X.104.1.156
+   CHAMBLESS DL, 1989, COGNITIVE THER RES, V13, P9, DOI 10.1007/BF01178486
+   Chorpita BF, 1998, PSYCHOL BULL, V124, P3, DOI 10.1037/0033-2909.124.1.3
+   Chorpita BF, 1998, BEHAV THER, V29, P457, DOI 10.1016/S0005-7894(98)80043-9
+   CLARK DM, 1986, BEHAV RES THER, V24, P461, DOI 10.1016/0005-7967(86)90011-2
+   Clore G.L., 1988, Cognitive perspectives on emotion and motivation, P367, DOI 10.1007/978-94-009-2792-6_15
+   CLUM GA, 1991, CLIN PSYCHOL REV, V11, P295, DOI 10.1016/0272-7358(91)90105-4
+   Cohen J., 1988, Statistical Power Analysis for the Behavioral Sciences, Vsecond, DOI DOI 10.4324/9780203771587
+   COX BJ, 1992, BEHAV RES THER, V30, P67, DOI 10.1016/0005-7967(92)90099-3
+   Cox BJ, 1996, BEHAV RES THER, V34, P363, DOI 10.1016/0005-7967(95)00075-5
+   CRASKE MG, 1991, CLIN PSYCHOL REV, V11, P599, DOI 10.1016/0272-7358(91)90006-G
+   Davidson R., 1993, NEUROPSYCHOLOGY, V7, P464
+   DAVIDSON RJ, 1990, J PERS SOC PSYCHOL, V58, P330, DOI 10.1037/0022-3514.58.2.330
+   Eifert GH, 1999, J PSYCHOPATHOL BEHAV, V21, P293, DOI 10.1023/A:1022116731279
+   Forsyth JP, 1998, J ABNORM PSYCHOL, V107, P291, DOI 10.1037/0021-843X.107.2.291
+   FORSYTH JP, 1999, ANN M ASS ADV BEH TH
+   FRIJDA NH, 1993, COGNITION EMOTION, V7, P357, DOI 10.1080/02699939308409193
+   GROSS JJ, 1993, J PERS SOC PSYCHOL, V64, P970, DOI 10.1037/0022-3514.64.6.970
+   Gross JJ., 1998, Rev Gen Psychol, V2, P271, DOI [10.1037/1089-2680.2.3.271, DOI 10.1037/1089-2680.2.3.271]
+   Harrington PJ, 1996, AM J PSYCHIAT, V153, P823
+   Hertzog C., 1994, LIFE SPAN DEV PSYCH, P187
+   HODES RL, 1985, PSYCHOPHYSIOLOGY, V22, P545, DOI 10.1111/j.1469-8986.1985.tb01649.x
+   Huynh H., 1970, Journal of the American Statistical Association, V65, P1582, DOI [10.1080/01621459.1970.10481187, DOI 10.1080/01621459.1970.10481187]
+   Keppel G., 1991, Design and analysis: A researcher's handbook
+   KESSLER RC, 1994, ARCH GEN PSYCHIAT, V51, P8
+   Kimble G. A., 1965, PSYCHOL BULL, V40, P385
+   Lang P., 1980, Technology in mental health care delivery systems, V1, P119, DOI DOI 10.1111/J.1469-8986.1993.TB03352.X
+   Lang P.J., 1984, EMOTION COGNITION BE, P192
+   LANG PJ, 1994, EMOTIONS: ESSAYS ON EMOTION THEORY, P61
+   LANG PJ, 1990, PSYCHOL REV, V97, P377, DOI 10.1037/0033-295X.97.3.377
+   Lazarus R.S., 1988, COGNITION EMOTION, V2, P281, DOI DOI 10.1080/02699938808412701
+   LeDoux J.E., 1990, Learning and Computational Neuroscience, P3
+   Lejuez CW, 2000, J EXP PSYCHOL-APPL, V6, P349, DOI 10.1037//1076-898X.6.4.349
+   Lejuez CW, 1998, J BEHAV THER EXP PSY, V29, P239, DOI 10.1016/S0005-7916(98)00018-4
+   LILIENFELD SO, 1993, ADV BEHAV RES THER, V15, P147, DOI 10.1016/0146-6402(93)90019-X
+   MANUCK SB, 1993, CARDIOVASCULAR REACT, P83
+   Maswood S, 1998, BRAIN RES, V783, P115, DOI 10.1016/S0006-8993(97)01313-9
+   Mathews A, 2000, J ABNORM PSYCHOL, V109, P602, DOI 10.1037//0021-843X.109.4.602
+   McNally R.J., 1994, PANIC DISORDER CRITI
+   McNally RJ, 1998, COGNITION EMOTION, V12, P479, DOI 10.1080/026999398379682
+   MCNEIL DW, 1993, J ABNORM PSYCHOL, V102, P212, DOI 10.1037/0021-843X.102.2.212
+   Mineka S, 1996, Nebr Symp Motiv, V43, P135
+   Mittal VA, 2011, PSYCHIAT RES, V189, P158, DOI 10.1016/j.psychres.2011.06.006
+   Peterson R.A., 1992, ANXIETY SENSITIVITY
+   RACHMAN S, 1984, COGNITIVE THER RES, V8, P579, DOI 10.1007/BF01173255
+   Rassovsky Y, 2000, J ABNORM PSYCHOL, V109, P616, DOI 10.1037//0021-843X.109.4.616
+   REISS S, 1986, BEHAV RES THER, V24, P1, DOI 10.1016/0005-7967(86)90143-9
+   Reiss S., 1985, THEORETICAL ISSUES B, P107
+   Rodd ZA, 1997, LEARN MOTIV, V28, P43, DOI 10.1006/lmot.1997.0952
+   ROYBYRNE PP, 1986, ARCH GEN PSYCHIAT, V43, P895
+   SANDERSON WC, 1989, ARCH GEN PSYCHIAT, V46, P157
+   Schmidt NB, 1999, J ABNORM PSYCHOL, V108, P532, DOI 10.1037/0021-843X.108.3.532
+   Schmidt NB, 2000, COGNITIVE THER RES, V24, P533, DOI 10.1023/A:1005562011960
+   SMITH CA, 1985, J PERS SOC PSYCHOL, V48, P813, DOI 10.1037/0022-3514.48.4.813
+   Stein MB, 1999, AM J PSYCHIAT, V156, P246
+   Stephenson D., 1983, ORIENTING HABITUATIO, P183
+   Stewart SH, 1997, J ANXIETY DISORD, V11, P179, DOI 10.1016/S0887-6185(97)00005-4
+   Stewart SH, 1998, COGNITION EMOTION, V12, P105, DOI 10.1080/026999398379808
+   STONE AA, 1985, J BEHAV MED, V8, P115, DOI 10.1007/BF00845515
+   Telch MJ, 1996, J ANXIETY DISORD, V10, P21, DOI 10.1016/0887-6185(95)00032-1
+   TELCH MJ, 1993, BEHAV RES THER, V31, P279, DOI 10.1016/0005-7967(93)90026-Q
+   TELCH MJ, 1989, BEHAV RES THER, V27, P373, DOI 10.1016/0005-7967(89)90007-7
+   VANDENHOUT MA, 1987, AM J PSYCHIAT, V144, P788
+   Watt MC, 1998, BEHAV RES THER, V36, P505, DOI 10.1016/S0005-7967(97)10029-8
+   Wolpe J., 1958, PSYCHOTHERAPY RECIPR
+   ZANDER JR, 1988, BEHAV RES THER, V26, P421, DOI 10.1016/0005-7967(88)90077-0
+   Zinbarg RE, 1999, LEA SER PER CLIN PSY, P83
+   Zvolensky MJ, 2000, BEHAV RES THER, V38, P653, DOI 10.1016/S0005-7967(99)00090-X
+   Zvolensky MJ, 1999, ANXIETY STRESS COPIN, V12, P351, DOI 10.1080/10615809908249316
+   Zvolensky MJ, 2001, BEHAV RES THER, V39, P477, DOI 10.1016/S0005-7967(00)00010-3
+   Zvolensky MJ, 2001, CLIN PSYCHOL REV, V21, P375, DOI 10.1016/S0272-7358(99)00053-7
+   Zvolensky MJ, 1999, J ABNORM PSYCHOL, V108, P624, DOI 10.1037/0021-843X.108.4.624
+   Zvolensky MJ, 1998, BEHAV THER, V29, P193, DOI 10.1016/S0005-7894(98)80002-6
+NR 90
+TC 48
+Z9 61
+U1 0
+U2 7
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD JUN
+PY 2001
+VL 1
+IS 2
+BP 148
+EP 165
+DI 10.1037//1528-3542.1.2.148
+PG 18
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RG
+UT WOS:000208224100004
+PM 12899194
+DA 2025-05-08
+ER
+
+PT J
+AU Pollak, SD
+   Fries, ABW
+AF Pollak, Seth D.
+   Fries, Alison B. Wismer
+TI Perceptual Asymmetries Reflect Developmental Changes in the
+   Neuropsychological Mechanisms of Emotion Recognition
+SO EMOTION
+LA English
+DT Article
+AB To study how perceptual asymmetries in the recognition of emotion reflect developmental changes in processing affective information, a fused rhyming dichotic word test with positive, negative, and neutral stimuli was administered to adults and children. Results suggested that the hemisphere in which affective information is initially processed affects the strength of perceptual asymmetry and that children's perceptual processing of emotional information is constrained by limited computational resources. Another experiment ruled out effects of volitional shifting of attention to emotional stimuli. These data further confirm that emotional processing involves integration of neural systems across brain regions, including distributed systems that support arousal and recognition. General developmental factors, such as processing capacity, contribute to the coordination of multiple systems responsible for processing emotional information.
+C1 [Pollak, Seth D.; Fries, Alison B. Wismer] Univ Wisconsin, Dept Psychol, Madison, WI 53706 USA.
+C3 University of Wisconsin System; University of Wisconsin Madison
+RP Pollak, SD (corresponding author), Univ Wisconsin, Dept Psychol, 1202 W Johnson St, Madison, WI 53706 USA.
+EM spollak@facstaff.wisc.edu
+RI Pollak, Seth/G-2345-2011
+OI Pollak, Seth/0000-0001-5184-9846
+FU NIMH NIH HHS [R01 MH061285] Funding Source: Medline
+CR [Anonymous], NEUROPSYCHOLOGY
+   [Anonymous], 1993, Neuropsychology, DOI [DOI 10.1037/0894-4105.7.4.476, 10.1037/0894-4105.7.4.476]
+   [Anonymous], SOUNDEDITPRO COMP SO
+   [Anonymous], 1967, Computational analysis of present-day american english
+   Asbjornsen AE, 1996, NEUROPSYCHOLOGIA, V34, P407, DOI 10.1016/0028-3932(95)00127-1
+   Banich M.T., 1995, Hemispheric Communication: Mechanisms and Models, P271
+   BANICH MT, 1990, CORTEX, V26, P77, DOI 10.1016/S0010-9452(13)80076-7
+   BLONDER LX, 1991, BRAIN, V114, P1115, DOI 10.1093/brain/114.3.1115
+   Borod I.C., 1993, NEUROPSYCHOLOGY, V7, P445, DOI DOI 10.1037/0894-4105.7.4.445
+   BOROD JC, 1986, NEUROPSYCHOLOGIA, V24, P169
+   BOROD JC, 1992, NEUROPSYCHOLOGIA, V30, P827, DOI 10.1016/0028-3932(92)90086-2
+   BRUDER GE, 1989, J ABNORM PSYCHOL, V98, P177, DOI 10.1037/0021-843X.98.2.177
+   Bryden M.P., 1988, Brain and lateralization in children: Developmental implications, P509
+   BRYDEN MP, 1991, CORTEX, V27, P229, DOI 10.1016/S0010-9452(13)80127-X
+   Buck R., 1984, COMMUNICATION EMOTIO
+   CHAPMAN LJ, 1988, PSYCHOL BULL, V104, P127, DOI 10.1037/0033-2909.104.1.127
+   CIMINO CR, 1991, BRAIN COGNITION, V15, P106, DOI 10.1016/0278-2626(91)90019-5
+   COHEN L, 1987, PERCEPT MOTOR SKILL, V64, P471, DOI 10.2466/pms.1987.64.2.471
+   Davidson R.J., 1984, APPROACHES EMOTION, P39
+   Davidson Richard J., 1995, P361
+   DAVIDSON RJ, 1992, PSYCHOL SCI, V3, P39, DOI 10.1111/j.1467-9280.1992.tb00254.x
+   DAVIDSON RJ, 1987, BRAIN COGNITION, V6, P403, DOI 10.1016/0278-2626(87)90136-9
+   DEKOSKY ST, 1980, BRAIN LANG, V9, P206, DOI 10.1016/0093-934X(80)90141-8
+   ETCOFF NL, 1984, BRAIN COGNITION, V3, P385, DOI 10.1016/0278-2626(84)90030-7
+   Gainotti G, 1972, Cortex, V8, P41
+   Heilman K.M., 1990, Psychological and Biological Approaches to Emotion, P97
+   HEILMAN KM, 1979, NEUROPSYCHOLOGIA, V17, P315, DOI 10.1016/0028-3932(79)90077-0
+   Heller W., 1990, Psychological and biological approaches to emotion, P167, DOI [10.4324/9780203761588-13, DOI 10.4324/9780203761588-13]
+   Hellige J.B., 1993, Hemispheric asymmetry: What's right and what's left
+   HELLIGE JB, 1988, J EXP PSYCHOL HUMAN, V14, P176, DOI 10.1037/0096-1523.14.2.176
+   HELLIGE JB, 1983, J EXP PSYCHOL GEN, V112, P218, DOI 10.1037/0096-3445.112.2.218
+   HENRIQUES JB, 1990, J ABNORM PSYCHOL, V99, P22, DOI 10.1037/0021-843X.99.1.22
+   Hiscock M., 1988, HDB DICHOTIC LISTENI, P431
+   HUGDAHL K, 1986, CORTEX, V22, P417, DOI 10.1016/S0010-9452(86)80005-3
+   Jacobs RA, 1997, PSYCHON B REV, V4, P299, DOI 10.3758/BF03210788
+   KIMURA D, 1961, CAN J PSYCHOLOGY, V15, P166, DOI 10.1037/h0083219
+   Kinsbourne M., 1978, ASYMMETRICAL FUNCTIO, P3
+   MATHIESON CM, 1990, BRAIN COGNITION, V13, P30, DOI 10.1016/0278-2626(90)90038-P
+   NAVON D, 1979, PSYCHOL REV, V86, P214, DOI 10.1037/0033-295X.86.3.214
+   Obrzut JE, 1997, DEV NEUROPSYCHOL, V13, P97, DOI 10.1080/87565649709540670
+   Oldfield R. C., 1971, NEUROPSYCHOLOGIA, V27, P861
+   PARDO JV, 1991, NATURE, V349, P61, DOI 10.1038/349061a0
+   REPP BH, 1977, J ACOUST SOC AM, V62, P720, DOI 10.1121/1.381584
+   ROBINSON RG, 1984, BRAIN, V107, P81, DOI 10.1093/brain/107.1.81
+   ROSS ED, 1979, ARCH NEUROL-CHICAGO, V36, P144, DOI 10.1001/archneur.1979.00500390062006
+   ROSS ED, 1981, ARCH NEUROL-CHICAGO, V38, P561, DOI 10.1001/archneur.1981.00510090055006
+   SAXBY L, 1984, DEV PSYCHOL, V20, P72, DOI 10.1037/0012-1649.20.1.72
+   SCHRANDT N J, 1989, Neurology, V39, P223
+   SILBERMAN EK, 1986, BRAIN COGNITION, V5, P322, DOI 10.1016/0278-2626(86)90035-7
+   Sprott D. A., 1983, NEUROPSYCHOLOGIA, V19, P571
+   TOMARKEN AJ, 1990, J PERS SOC PSYCHOL, V59, P791, DOI 10.1037/0022-3514.59.4.791
+   TUCKER DM, 1977, NEUROLOGY, V27, P947, DOI 10.1212/WNL.27.10.947
+   TUCKER DM, 1981, PSYCHOL BULL, V89, P19, DOI 10.1037/0033-2909.89.1.19
+   TUCKER DM, 1981, ARCH GEN PSYCHIAT, V38, P169
+   WALE J, 1990, J AFFECT DISORDERS, V18, P1, DOI 10.1016/0165-0327(90)90111-K
+   WEXLER BE, 1983, NEUROPSYCHOLOGIA, V21, P59, DOI 10.1016/0028-3932(83)90100-8
+   ZATORRE RJ, 1989, NEUROPSYCHOLOGIA, V27, P1207, DOI 10.1016/0028-3932(89)90033-X
+NR 57
+TC 7
+Z9 10
+U1 0
+U2 5
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+J9 EMOTION
+JI Emotion
+PD MAR
+PY 2001
+VL 1
+IS 1
+BP 84
+EP 98
+DI 10.1037/1528-3542.1.1.84
+PG 15
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RE
+UT WOS:000208223900008
+PM 12894813
+DA 2025-05-08
+ER
+
+PT J
+AU Kaufman, AS
+   Kaufman, JC
+AF Kaufman, Alan S.
+   Kaufman, James C.
+TI Emotional Intelligence as an Aspect of General Intelligence: What Would
+   David Wechsler Say?
+SO EMOTION
+LA English
+DT Article
+AB R. D. Roberts, M. Zeidner, and G. Matthews (2001) have carefully examined the controversial issue of whether emotional intelligence (EI) should be classified as an intelligence and whether EI's constructs meet the same psychometric standards as general intelligence's constructs. This article casts their efforts into the framework of both historical and modern IQ-testing theory and research. It details David Wechsler's attempts to integrate EI into his tests and how his conception of a good clinician would be that of an emotionally intelligent clinician. Current theories and research on IQ also have a role in EI beyond what Roberts et al. described, including J. L. Horn's (1989) expanded model and A. R. Luria's (1966) neuropsychological research, and better criteria than the Armed Services Vocational Aptitude Battery should be used in future EI studies. The authors look forward to more research being conducted on EI, particularly in future performance-based assessments.
+C1 [Kaufman, James C.] Educ Testing Serv, Princeton, NJ 08541 USA.
+   [Kaufman, Alan S.] Yale Univ, Sch Med, New Haven, CT 06520 USA.
+C3 Educational Testing Service (ETS); Yale University
+RP Kaufman, JC (corresponding author), Educ Testing Serv, Mailstop 16-R,Rosedale Rd, Princeton, NJ 08541 USA.
+EM jkaufman@ets.org
+OI Kaufman, James/0000-0003-0595-2820
+CR Amabile T.M., 1996, Creativity in context: The social psychology of creativity
+   [Anonymous], 1944, The measurement of adult intelligence
+   [Anonymous], 1886, PSYCHOL RAISONNEMENT
+   Camara WJ, 2000, PROF PSYCHOL-RES PR, V31, P141, DOI 10.1037//0735-7028.31.2.141
+   Carroll B J., 1993, Human cognitive abilities: A survey of factor-analytical studies
+   CUNNINGHAM JL, 1995, PSYCHOL REP, V77, P955, DOI 10.2466/pr0.1995.77.3.955
+   Das J., 1994, ASSESSMENT COGNITIVE
+   Davies M, 1998, J PERS SOC PSYCHOL, V75, P989, DOI 10.1037/0022-3514.75.4.989
+   Everson HT, 1998, INSTR SCI, V26, P65, DOI 10.1023/A:1003040130125
+   Flanagan D. P., 2000, WECHSLER INTELLIGENC
+   Guilford J. P., 1959, Personality
+   Hargus M. E., 1993, 1 ANN S PADR ISL INT
+   Horn J., 1997, Contemporary intellectual assessment: Theories, tests, and issues, P53
+   Horn J.L., 1989, Learning and individual differences: Advances in theory and research, P61
+   Kaufman A.S., 1994, INTELLIGENT TESTING
+   Kaufman A.S., 2000, The Cambridge handbook of intelligence, P445, DOI [10.1017/CBO9780511807947.021, DOI 10.1017/CBO9780511807947.021]
+   Kaufman A. S., 1982, CLIN NEUROPSYCHOLOGY, V17, P297
+   Kaufman A.S., 1993, MANUAL KAUFMAN ADOLE
+   Kaufman A.S., 1983, ADM SCORING MANUAL K
+   KAUFMAN NL, 1980, J LEARN DISABIL, V13, P397
+   Luria A.R., 1966, HUMAN BRAIN PSYCHOL
+   Mayer J., 2001, The Mayer - Salovey - Caruso emotional intelligence test
+   Mayer Jack D, 1990, IMAGINATION COGNITIO, V9, P185, DOI DOI 10.2190/DUGG-P24E-52WK-6CDG
+   Mayer JD, 1999, INTELLIGENCE, V27, P267, DOI 10.1016/S0160-2896(99)00016-1
+   McGrew K. S., 2001, ASSESSING ADULT ADOL
+   Naglieri J.A., 2001, Roper Review, V23, P151, DOI DOI 10.1080/02783190109554087
+   Naglieri JA., 1997, Cognitive Assessment System Second Edition: Brief
+   Ree M. J., 1990, 9038 USAF HUM RES LA
+   Roberts RD, 2001, EMOTION, V1, P196, DOI 10.1037//1528-3542.1.3.196
+   Salovey P., 2001, Blackwell Handbook of Social Psychology: Interpersonal Processes, P279
+   SALOVEY P, HDB POSITIV IN PRESS
+   Snow R.E., 1989, Educational Researcher, V18, P8, DOI [10.3102/0013189X018009008, DOI 10.3102/0013189X018009008]
+   Sternberg RJ, 1998, ANNU REV PSYCHOL, V49, P479, DOI 10.1146/annurev.psych.49.1.479
+   Terman Lewis M., 1916, The measurement of intelligence: An explanation of and a complete guide for the use of the Stanford Revision and Extension of the Binet-Simon Intelligence Scale, DOI DOI 10.1037/10014-000
+   WECHSLER D, 1975, AM PSYCHOL, V30, P135, DOI 10.1037/h0076868
+   Wechsler D., 1974, Manual for the Weschsler Intelligence Scale for Children-Revised (WISC-R)
+   Wechsler D., 1979, 87 ANN CONV AM PSYCH
+   Wechsler D., 1949, MANUAL WECHSLER INTE
+   Wechsler D., 1981, MANUAL WECHLSER ADUL
+   Wechsler D, 1950, AM PSYCHOL, V5, P78, DOI 10.1037/h0063112
+   Woodcock R. W., 2001, WOODCOCK JOHNSON TES
+NR 41
+TC 23
+Z9 61
+U1 0
+U2 14
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+J9 EMOTION
+JI Emotion
+PD SEP
+PY 2001
+VL 1
+IS 3
+BP 258
+EP 264
+DI 10.1037//1528-3542.1.3.258
+PG 7
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RH
+UT WOS:000208224200006
+PM 12934685
+DA 2025-05-08
+ER
+
+PT J
+AU Bradley, MM
+   Codispoti, M
+   Sabatinelli, D
+   Lang, PJ
+AF Bradley, Margaret M.
+   Codispoti, Maurizio
+   Sabatinelli, Dean
+   Lang, Peter J.
+TI Emotion and Motivation II: Sex Differences in Picture Processing
+SO EMOTION
+LA English
+DT Article
+ID GENDER; ATTRACTIVENESS; EXPERIENCE
+AB Adhering to the view that emotional reactivity is organized in part by underlying motivational states-defensive and appetitive-we investigated sex differences in motivational activation. Men's and women's affective reactions were measured while participants viewed pictures with varied emotional and neutral content. As expected, highly arousing contents of threat, mutilation, and erotica prompted the largest affective reactions in both men and women. Nonetheless, women showed a broad disposition to respond with greater defensive reactivity to aversive pictures, regardless of specific content, whereas increased appetitive activation was apparent for men only when viewing erotica. Biological and sociocultural factors in shaping sex differences in emotional reactivity are considered as possible mediators of sex differences in emotional response.
+C1 [Bradley, Margaret M.] Univ Florida, Hlth Sci Ctr, Ctr Study Emot & Attent, Gainesville, FL 32610 USA.
+C3 State University System of Florida; University of Florida
+RP Bradley, MM (corresponding author), Univ Florida, Hlth Sci Ctr, Ctr Study Emot & Attent, POB 100165, Gainesville, FL 32610 USA.
+RI ; Codispoti, Maurizio/B-7672-2008
+OI sabatinelli, dean/0000-0001-7409-8504; Codispoti,
+   Maurizio/0000-0002-7285-4342
+FU NIMH NIH HHS [MH37757, P50 MH52384, MH43975] Funding Source: Medline
+CR Alexander M.G., 2000, GENDER EMOTION, P189, DOI [DOI 10.1017/CBO9780511628191.010, https://doi.org/10.1017/CBO9780511628191.010]
+   ALLEN JG, 1976, HUM RELAT, V29, P711, DOI 10.1177/001872677602900801
+   [Anonymous], 1997, VPM Reference Manual (Version 12.5)
+   Bereczkei T, 1997, ETHOLOGY, V103, P681
+   BLANCHARD DC, 1991, NEUROSCI BIOBEHAV R, V15, P461, DOI 10.1016/S0149-7634(05)80132-0
+   Bradley M.M., 1999, PSYCHOLOGY, DOI DOI 10.3758/BF03193031
+   Bradley M. M., 1999, B1 U FLOR CTR RES PS
+   Bradley MM, 2001, EMOTION, V1, P276, DOI 10.1037//1528-3542.1.3.276
+   BRADLEY MM, 1994, J BEHAV THER EXP PSY, V25, P49, DOI 10.1016/0005-7916(94)90063-9
+   Brody L.R., 2000, GENDER EMOTION SOCIA, P24, DOI [DOI 10.1017/CBO9780511628191.003, 10.1017/cbo9780511628191.003]
+   Brody LR, 1996, EMOTION, P139
+   Buck R., 1984, COMMUNICATION EMOTIO
+   Buss DavidM., 1994, The evolution of desire: Strategies of human mating
+   Center for the Study of Emotion and Attention, 1999, INT AFF PICT SYST DI
+   CLARK LA, 1994, J ABNORM PSYCHOL, V103, P103, DOI 10.1037/0021-843X.103.1.103
+   CRABTREE JM, 1973, PHYSIOL BEHAV, V11, P337
+   Cuthbert BN, 1996, PSYCHOPHYSIOLOGY, V33, P103, DOI 10.1111/j.1469-8986.1996.tb02114.x
+   Fischer A.H., 2000, GENDER EMOTION SOCIA, DOI [10.1017/CBO9780511628191.005, DOI 10.1017/CBO9780511628191.005]
+   Globisch J., 1993, Psychophysiology, V30, pS30
+   Gordon MargaretT., 1991, The female fear: The social cost of rape
+   HODES RL, 1985, PSYCHOPHYSIOLOGY, V22, P545, DOI 10.1111/j.1469-8986.1985.tb01649.x
+   Koukounas E, 1997, BEHAV RES THER, V35, P221, DOI 10.1016/S0005-7967(96)00097-6
+   Kring AM, 1998, J PERS SOC PSYCHOL, V74, P686, DOI 10.1037/0022-3514.74.3.686
+   LaFrance M., 2000, GENDER EMOTION SOCIA, P118, DOI DOI 10.1017/CBO9780511628191.007
+   Lafrance M., 1992, REV PERSONALITY SOCI, P178
+   Lang P., 1980, Technology in mental health care delivery systems, V1, P119, DOI DOI 10.1111/J.1469-8986.1993.TB03352.X
+   Lang P.J., 1999, A4 U FLOR CTR RES PS
+   Lang PJ, 1997, ATTENTION AND ORIENTING: SENSORY AND MOTIVATIONAL PROCESSES, P97
+   LANG PJ, 1993, PSYCHOPHYSIOLOGY, V30, P261, DOI 10.1111/j.1469-8986.1993.tb03352.x
+   Manstead A.S. R., 1992, HDB INDIVIDUAL DIFFE, P355
+   Marks I.M., 1969, FEARS PHOBIAS
+   McManis MH, 2001, PSYCHOPHYSIOLOGY, V38, P222, DOI 10.1017/S0048577201991140
+   Murnen SK, 1997, SEX ROLES, V37, P135, DOI 10.1023/A:1025639609402
+   Nolan JM, 2000, SEX ROLES, V42, P39, DOI 10.1023/A:1007080110663
+   NOLENHOEKSEMA S, 1987, PSYCHOL BULL, V101, P259, DOI 10.1037/0033-2909.101.2.259
+   OGORMAN JG, 1983, ORIENTING HABITUATIO
+   Sachs-Ericsson N, 2000, SEX ROLES, V43, P605, DOI 10.1023/A:1007148407005
+   SCHWARTZ GE, 1980, PSYCHOPHYSIOLOGY, V17, P75, DOI 10.1111/j.1469-8986.1980.tb02463.x
+   SHEPHERD JK, 1993, J PSYCHOPHARMACOL, V7, P72, DOI 10.1177/026988119300700111
+   STEINMAN DL, 1981, ARCH SEX BEHAV, V10, P529, DOI 10.1007/BF01541588
+   Stewart S, 2000, J SOC PERS RELAT, V17, P843, DOI 10.1177/0265407500176008
+   Surbey MK, 2000, HUM NATURE-INT BIOS, V11, P367, DOI 10.1007/s12110-000-1008-0
+   TOWNSEND JM, 1990, ARCH SEX BEHAV, V19, P149, DOI 10.1007/BF01542229
+   Zuckerman M., 1979, Skill in nonverbal communication, P171
+NR 44
+TC 606
+Z9 715
+U1 7
+U2 128
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD SEP
+PY 2001
+VL 1
+IS 3
+BP 300
+EP 319
+DI 10.1037//1528-3542.1.3.300
+PG 20
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RH
+UT WOS:000208224200009
+PM 12934688
+DA 2025-05-08
+ER
+
+PT J
+AU Cohen, RA
+   Paul, R
+   Zawacki, TM
+   Moser, DJ
+   Sweet, L
+   Wilkinson, H
+AF Cohen, Ronald A.
+   Paul, Robert
+   Zawacki, Tricia M.
+   Moser, David J.
+   Sweet, Lawrence
+   Wilkinson, Harold
+TI Emotional and Personality Changes Following Cingulotomy
+SO EMOTION
+LA English
+DT Article
+AB The effects of bilateral anterior cingulate cortex (ACC) lesions on emotional and personality functioning were studied. Patients undergoing cingulotomy for chronic intractable pain were assessed on the Minnesota Multiphasic Personality Inventory (MMPI), the Profile of Mood States (POMS), cognitive tests, and pain ratings, pre- and postsurgically. Patients with intractable pain, not treated with cingulotomy, served as controls. Cingulotomy patients experienced reductions in POMS-Tension, POMS-Anger, and MMPI Scale 7 (Psychasthenia) compared with baseline and the controls. POMS-Tension was significantly correlated with attention-intention performance. The results indicate that the ACC modulates emotional experience, related to self-perceived tension, and that there is relationship between the emotional and the attentional effects of cingulotomy.
+C1 [Moser, David J.] Univ Iowa, Dept Psychiat, Sch Med, Iowa City, IA 52242 USA.
+   [Wilkinson, Harold] Univ Massachusetts, Med Ctr, Dept Neurosurg, Amherst, MA 01003 USA.
+   [Cohen, Ronald A.; Paul, Robert; Zawacki, Tricia M.; Sweet, Lawrence] Brown Univ, Dept Psychiat & Human Behav, Sch Med, Providence, RI 02906 USA.
+C3 University of Iowa; University of Massachusetts System; University of
+   Massachusetts Amherst; Brown University
+RP Cohen, RA (corresponding author), Brown Univ, Miriam Hosp, Dept Psychiat & Human Behav, Sch Med, 164 Summit Ave, Providence, RI 02906 USA.
+EM ronald_cohen@brown.edu
+OI Moser, David/0000-0003-4102-5266
+CR ALEXANDER GE, 1986, ANNU REV NEUROSCI, V9, P357, DOI 10.1146/annurev.ne.09.030186.002041
+   [Anonymous], TREATMENT PSYCHIAT P
+   [Anonymous], 1995, Neuropsychological assessment
+   BAER L, 1995, ARCH GEN PSYCHIAT, V52, P384
+   BAILEY HR, 1977, NEUROSURGICAL TREATM
+   BALEYDIER C, 1980, BRAIN, V103, P525, DOI 10.1093/brain/103.3.525
+   BALLANTINE HT, 1967, J NEUROSURG, V26, P488, DOI 10.3171/jns.1967.26.5.0488
+   BARRIS RW, 1953, NEUROLOGY, V3, P44, DOI 10.1212/WNL.3.1.44
+   Botvinick M, 1999, NATURE, V402, P179, DOI 10.1038/46035
+   Bush G, 1998, HUM BRAIN MAPP, V6, P270, DOI 10.1002/(SICI)1097-0193(1998)6:4<270::AID-HBM6>3.0.CO;2-0
+   Bush G, 2000, TRENDS COGN SCI, V4, P215, DOI 10.1016/S1364-6613(00)01483-2
+   Carter CS, 1998, SCIENCE, V280, P747, DOI 10.1126/science.280.5364.747
+   Carter CS, 1999, REV NEUROSCIENCE, V10, P49
+   Carter CS, 2000, P NATL ACAD SCI USA, V97, P1944, DOI 10.1073/pnas.97.4.1944
+   Cassidy W L, 1965, Recent Adv Biol Psychiatry, V8, P269
+   Cohen R.A., 1993, NEUROPSYCHOLOGY ATTE
+   COHEN RA, 1994, NEUROPSYCHOLOGIA, V32, P609, DOI 10.1016/0028-3932(94)90148-1
+   Cohen RA, 1999, J NEUROPSYCH CLIN N, V11, P444, DOI 10.1176/jnp.11.4.444
+   Cohen RA, 1999, NEUROLOGY, V53, P819, DOI 10.1212/WNL.53.4.819
+   COHEN RA, 1993, J CLIN EXP NEUROPSYC, V15, P379
+   Corkin S., 1979, MODERN CONCEPTS PSYC, P253
+   Damasio A.R., 1983, NEUROPSYCHOLOGY HUMA, P85
+   DEGOS JD, 1993, BRAIN, V116, P1541, DOI 10.1093/brain/116.6.1541
+   Derbyshire SWG, 1998, EXP BRAIN RES, V118, P52, DOI 10.1007/s002210050254
+   DEVINSKY O, 1995, BRAIN, V118, P279, DOI 10.1093/brain/118.1.279
+   Drevets WC, 1998, COGNITION EMOTION, V12, P353, DOI 10.1080/026999398379646
+   FEDIO P, 1970, EXP NEUROL, V29, P84, DOI 10.1016/0014-4886(70)90039-7
+   FOLTZ EL, 1962, J NEUROSURG, V19, P89, DOI 10.3171/jns.1962.19.2.0089
+   FRITH CD, 1991, P ROY SOC B-BIOL SCI, V244, P241, DOI 10.1098/rspb.1991.0077
+   Golden C., 1978, STROOP COLOR WORD TE
+   Graham J.R., 1987, The MMPI: A practical guide, V2nd
+   Hathaway S.R., 1951, MINNESOTA MULTIPHASI
+   Heilman K. M., 1983, Localization in Neuropsychology, P471
+   JANER KW, 1991, J COGNITIVE NEUROSCI, V3, P231, DOI 10.1162/jocn.1991.3.3.231
+   JENIKE MA, 1991, ARCH GEN PSYCHIAT, V48, P548
+   JONESGOTMAN M, 1977, NEUROPSYCHOLOGIA, V15, P653, DOI 10.1016/0028-3932(77)90070-7
+   KURLAN R, 1990, MOVEMENT DISORD, V5, P152, DOI 10.1002/mds.870050211
+   Lane RD, 1998, J COGNITIVE NEUROSCI, V10, P525, DOI 10.1162/089892998562924
+   LONG CJ, 1978, J NEUROSURG, V49, P264, DOI 10.3171/jns.1978.49.2.0264
+   LUBAR JF, 1965, J COMP PHYSIOL PSYCH, V60, P46, DOI 10.1037/h0022292
+   Luu P, 2000, J NEUROSCI, V20, P464, DOI 10.1523/JNEUROSCI.20-01-00464.2000
+   MacDonald AW, 2000, SCIENCE, V288, P1835, DOI 10.1126/science.288.5472.1835
+   MARTIN WL, 1977, NEUROSURGICAL TREATM, P381
+   Mayberg HS, 1997, J NEUROPSYCH CLIN N, V9, P471
+   McNair D.M., 1981, EDITS manual: Profile of mood states
+   MESULAM MM, 1981, ANN NEUROL, V10, P309, DOI 10.1002/ana.410100402
+   MUSIL SY, 1988, J COMP NEUROL, V272, P203, DOI 10.1002/cne.902720205
+   Paniagua J. L., 1977, NEUROSURGICAL TREATM, P399
+   PARDO JV, 1990, P NATL ACAD SCI USA, V87, P256, DOI 10.1073/pnas.87.1.256
+   Passingham RE, 1996, ADV NEUROL, V70, P105
+   PAUS T, 1993, J NEUROPHYSIOL, V70, P453, DOI 10.1152/jn.1993.70.2.453
+   Peterson BS, 1999, BIOL PSYCHIAT, V45, P1237, DOI 10.1016/S0006-3223(99)00056-6
+   PETERSON RA, 1984, TEST CRITIQUES, V1
+   POSNER MI, 1990, ANNU REV NEUROSCI, V13, P25, DOI 10.1146/annurev.neuro.13.1.25
+   PRIBRAM K, 1954, BRAIN, V77, P235
+   RAICHLE ME, 1994, CEREB CORTEX, V4, P8, DOI 10.1093/cercor/4.1.8
+   REITAN R. M., 1958, PERCEPT MOT SKILLS, V8, P271
+   ROSVOLD HE, 1956, J CONSULT PSYCHOL, V20, P343, DOI 10.1037/h0043220
+   Seamans JK, 1995, BEHAV NEUROSCI, V109, P1063, DOI 10.1037/0735-7044.109.6.1063
+   Spangler WJ, 1996, NEUROSURGERY, V38, P1071, DOI 10.1227/00006123-199606000-00001
+   Spreen O., 1998, COMPENDIUM NEUROPSYC
+   Turken AU, 1999, NAT NEUROSCI, V2, P920, DOI 10.1038/13224
+   VOGT BA, 1992, CEREB CORTEX, V2, P435, DOI 10.1093/cercor/2.6.435-a
+   Vogt BA, 1996, EUR J NEUROSCI, V8, P1461, DOI 10.1111/j.1460-9568.1996.tb01608.x
+   WARD AA, 1948, J NEUROPHYSIOL, V11, P13, DOI 10.1152/jn.1948.11.1.13
+   Wechsler D., 2008, Wechsler Adult Intelligence Scale-Fourth Edition, DOI DOI 10.1037/T15169-000
+   West R., 1992, Society for Neuroscience Abstracts, V18, P1410
+   Whalen PJ, 1998, BIOL PSYCHIAT, V44, P1219, DOI 10.1016/S0006-3223(98)00251-0
+   Wilkinson HA, 1999, NEUROSURGERY, V45, P1129, DOI 10.1097/00006123-199911000-00023
+   WOODRUFF ML, 1981, EXP NEUROL, V74, P379, DOI 10.1016/0014-4886(81)90177-1
+NR 70
+TC 58
+Z9 71
+U1 1
+U2 9
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD MAR
+PY 2001
+VL 1
+IS 1
+BP 38
+EP 50
+DI 10.1037/1528-3542.1.1.38
+PG 13
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RE
+UT WOS:000208223900005
+PM 12894810
+DA 2025-05-08
+ER
+
+PT J
+AU Roberts, RD
+   Zeidner, M
+   Matthews, G
+AF Roberts, Richard D.
+   Zeidner, Moshe
+   Matthews, Gerald
+TI Does Emotional Intelligence Meet Traditional Standards for an
+   Intelligence? Some New Data and Conclusions
+SO EMOTION
+LA English
+DT Article
+ID VOCATIONAL APTITUDE BATTERY; INVENTORY EQ-I; SELF-REPORT; TESTS;
+   VALIDATION; VALIDITY; SCALE; RELIABILITY; CONSTRUCT; STRESS
+AB Performance-based measures of emotional intelligence (EI) are more likely than measures based on self-report to assess EI as a construct distinct from personality. A multivariate investigation was conducted with the performance-based, Multi-Factor Emotional Intelligence Scale (MEIS; J. D. Mayer, D. Caruso, & P. Salovey, 1999). Participants (N = 704) also completed the Trait Self-Description Inventory (TSDI, a measure of the Big Five personality factors; Christal, 1994; R. D. Roberts et al.), and the Armed Services Vocational Aptitude Battery (ASVAB, a measure of intelligence). Results were equivocal. Although the MEIS showed convergent validity (correlating moderately with the ASVAB) and divergent validity (correlating minimally with the TSDI), different scoring protocols (i.e., expert and consensus) yielded contradictory findings. Analyses of factor structure and subscale reliability identified further measurement problems. Overall, it is questionable whether the MEIS operationalizes EI as a reliable and valid construct.
+C1 [Zeidner, Moshe] Univ Haifa, Ctr Interdisciplinary Res Emot, Dept Psychol, IL-31905 Har Hakarmel, Israel.
+   [Roberts, Richard D.] Univ Sydney, Dept Psychol, Sydney, NSW 2006, Australia.
+   [Matthews, Gerald] Univ Cincinnati, Dept Psychol, Cincinnati, OH 45221 USA.
+C3 University of Haifa; University of Sydney; University System of Ohio;
+   University of Cincinnati
+RP Zeidner, M (corresponding author), Univ Haifa, Ctr Interdisciplinary Res Emot, Dept Psychol, IL-31905 Har Hakarmel, Israel.
+EM zeidner@research.haifa.ac.il
+RI Matthews, G/AAM-2968-2020; Roberts, Richard/CAE-8461-2022
+CR Abraham R, 2000, J PSYCHOL, V134, P169, DOI 10.1080/00223980009600860
+   *ACER, 1989, STAND PROGR MATR AUS
+   *AM PSYCH ASS PUBL, 1997, INT KNOWNS UNKN
+   Anastasi A., 1997, Psychological testing
+   [Anonymous], 1965, MEASUREMENT SOCIAL I
+   [Anonymous], 1998, PSYCHOL TESTING PRIN
+   [Anonymous], 1997, PSYCHOL TESTING PRIN
+   [Anonymous], 2000, HDB INTELLIGENCE
+   [Anonymous], 1997, TORONTO CANADA MULTI, DOI DOI 10.1016/J.NDTEINT.2009.11.003
+   Arbuckle J. L., 1997, Paraview Users Guide Version 5.10.0
+   BAGBY RM, 1994, J PSYCHOSOM RES, V38, P23, DOI 10.1016/0022-3999(94)90005-1
+   Bar-On R, 2000, PERS INDIV DIFFER, V28, P1107, DOI 10.1016/S0191-8869(99)00160-9
+   Bar-On R., 2000, HDB EMOTIONAL INTELL
+   Books B., 1995, Emotional intelligence
+   Brody N., 1992, INTELLIGENCE
+   Burnett M., 2000, SURVIVOR
+   CARRETTA TR, 1995, PERS INDIV DIFFER, V19, P149, DOI 10.1016/0191-8869(95)00031-Z
+   Carretta TR, 1997, PERS INDIV DIFFER, V22, P165, DOI 10.1016/S0191-8869(96)00191-2
+   Carroll B J., 1993, Human cognitive abilities: A survey of factor-analytical studies
+   Carroll JB, 1997, INTELLIGENCE, V24, P25, DOI 10.1016/S0160-2896(97)90012-X
+   Cattell R. B., 1971, Abilities: Their structure, growth, and action
+   Christal R. E., 1994, F3361591D0010 USAF A
+   Ciarrochi J., 2001, EMOTIONAL INTELLIGEN, P25
+   Ciarrochi JV, 2000, PERS INDIV DIFFER, V28, P539, DOI 10.1016/S0191-8869(99)00119-1
+   Cooper R.K., 1997, EXECUTIVE EQ
+   Costa PT., 1992, REVISED NEO PERSONAL
+   Cronbach LJ., 1960, ESSENTIALS PSYCHOL T, V2
+   Davies M, 1998, J PERS SOC PSYCHOL, V75, P989, DOI 10.1037/0022-3514.75.4.989
+   Dawda D, 2000, PERS INDIV DIFFER, V28, P797, DOI 10.1016/S0191-8869(99)00139-7
+   Ekman P., 1999, HDB COGNITION EMOTIO, V98, P16, DOI DOI 10.1002/0470013494.CH3
+   Elias MJ, 2000, J SCHOOL HEALTH, V70, P186, DOI 10.1111/j.1746-1561.2000.tb06470.x
+   Epstein Seymour., 1998, CONSTRUCTIVE THINKIN
+   Fisher CD, 2000, J ORGAN BEHAV, V21, P123, DOI 10.1002/(SICI)1099-1379(200003)21:2<123::AID-JOB33>3.0.CO;2-8
+   FLYNN JR, 1987, PSYCHOL BULL, V101, P171, DOI 10.1037/0033-2909.101.2.171
+   FOLEY P, 1989, TESTING THEORETICAL, P16
+   Fox S, 2000, J ORGAN BEHAV, V21, P203, DOI 10.1002/(SICI)1099-1379(200003)21:2<203::AID-JOB38>3.0.CO;2-Z
+   GARCIA A, 2000, 27 ANN C AUSTR EXPT
+   Gardner H., 1983, Frames of mind: Theory of multiple intelligences
+   Gibbs N., 1995, Time, V146, P60
+   Gregory R.J., 1996, PSYCHOL TESTING HIST, V2nd
+   Guilford J. P., 1959, Personality
+   GUTTMAN L, 1991, INTELLIGENCE, V15, P79, DOI 10.1016/0160-2896(91)90023-7
+   Guttman L., 1965, SCRIPTA HIEROSOLYMIT, V14, P166
+   GUTTMAN L, 1965, P 1964 INV C TEST PR, P53
+   HAMMER D, 1997, USFA OFF SCI RES AFO
+   HAMMER D, 1997, USAF OFF SCI RES AFO
+   Herrnstein R.J., 1994, The Bell Curve: Intelligence and Class Structure in American Life
+   Horn J., 1988, HDB MULTIVARIATE EXP, V2nd, P645
+   Horn J.L., 1992, INTELLECTUAL DEV, P44
+   Horn J.L., 1994, Human In-telligence: Theories of Intelligence, P151
+   HORN JL, 1982, INTELLIGENCE, V6, P165, DOI 10.1016/0160-2896(82)90012-5
+   Hunt E., 1995, WILL WE BE SMART ENO
+   Jensen A. R., 1998, The g factor
+   JENSEN AR, 1985, MEAS EVAL COUNS DEV, V18, P32, DOI 10.1080/07481756.1985.12022786
+   Kihlstrom J.F., 2000, HDB INTELLIGENCE
+   KRAUSE H, TIME MANAGEMEN UNPUB
+   Legree PJ, 1995, INTELLIGENCE, V21, P247, DOI 10.1016/0160-2896(95)90016-0
+   MABE PA, 1982, J APPL PSYCHOL, V67, P280, DOI 10.1037/0021-9010.67.3.280
+   Matthews G., 2000, Handbook of emotional intelligence, P459
+   MATTHEWS G, EMOTIONAL I IN PRESS
+   Mayer J. D., 1997, Emotional development and emotional intelligence: Implications for educators, P3
+   Mayer J.D., 2000, Handbook of intelligence, V2, P396
+   Mayer J.D., 2000, HDB EMOTIONAL INTELL, DOI DOI 10.1017/CBO9780511807947.019
+   Mayer J.D., 2000, HDB EMOTIONAL INTELL, P320
+   Mayer Jack D, 1990, IMAGINATION COGNITIO, V9, P185, DOI DOI 10.2190/DUGG-P24E-52WK-6CDG
+   Mayer JD, 1996, INTELLIGENCE, V22, P89, DOI 10.1016/S0160-2896(96)90011-2
+   Mayer JD, 2000, EDUC PSYCHOL REV, V12, P163, DOI 10.1023/A:1009093231445
+   Mayer JD, 1999, INTELLIGENCE, V27, P267, DOI 10.1016/S0160-2896(99)00016-1
+   MAYER JD, 1990, J PERS ASSESS, V54, P772, DOI 10.1207/s15327752jpa5403&4_29
+   MAYER JD, 1993, INTELLIGENCE, V17, P443
+   McCrae R.R., 2000, HDB EMOTIONAL INTELL, P263
+   MEHRABIAN A, 1972, J PERS, V40, P525, DOI 10.1111/j.1467-6494.1972.tb00078.x
+   Mehrabian A, 2000, GENET SOC GEN PSYCH, V126, P133
+   MOST B, 1995, INT HDB PERSONALITY, P475
+   MURPHY K, 1985, TEST CRITIQUES, V1
+   Nunnally J. C., 1978, PSYCHOMETRIC THEORY, V2nd, DOI DOI 10.1007/978-1-4020-9173-5_8
+   PALLIER G, 2001, ROLE QUESTION UNPUB
+   PAUL AM, 1999, SALON COM
+   Paulhus DL, 1998, J PERS, V66, P525, DOI 10.1111/1467-6494.00023
+   Pavot W, 1998, J PERS ASSESS, V70, P340, DOI 10.1207/s15327752jpa7002_11
+   Petrides KV, 2000, PERS INDIV DIFFER, V29, P313, DOI 10.1016/S0191-8869(99)00195-6
+   Raven John C., 1979, Manual for Raven's Progressive Matrices and Vocabulary Scales
+   REE MJ, 1995, EDUC PSYCHOL MEAS, V55, P268, DOI 10.1177/0013164495055002011
+   REE MJ, 1994, EDUC PSYCHOL MEAS, V54, P457
+   Roberts RD, 1999, PERS INDIV DIFFER, V27, P1123, DOI 10.1016/S0191-8869(99)00054-9
+   Roberts RD, 2000, LEARN INDIVID DIFFER, V12, P81, DOI 10.1016/S1041-6080(00)00035-2
+   ROBERTS RD, INTELLIGENC IN PRESS
+   ROGER D, 1989, PERS INDIV DIFFER, V10, P845, DOI 10.1016/0191-8869(89)90020-2
+   Ryback D., 1998, Putting emotional intelligence to work: Successful leadership is more than IQ
+   Saarni C., 1999, DEV EMOTIONAL COMPET
+   SALOVEY P, 2000, BLACKWELL HDB SOCIAL
+   Salovey Peter John David Mayer., 1995, Emotion, Disclosure, Health, P125, DOI [10.1037/10182-006, DOI 10.1037/10182-006]
+   SCHERER M, 1997, EDUC LEADERSHIP, V54, P4
+   Schutte NS, 1998, PERS INDIV DIFFER, V25, P167, DOI 10.1016/S0191-8869(98)00001-4
+   Spearman C., 1927, ABILITIES MAN
+   Stankov L., 1995, INT HDB PERSONALITY, P15
+   Stauffer JM, 1996, J GEN PSYCHOL, V123, P193, DOI 10.1080/00221309.1996.9921272
+   Sternberg R.J., 1985, Beyond IQ: A Triarchic Theory of Intelligence
+   Sternberg R. J., 2000, Handbook of Intelligence
+   Stober J, 1998, PERS INDIV DIFFER, V24, P887, DOI 10.1016/S0191-8869(97)00232-8
+   Taylor GJ, 2000, CAN J PSYCHIAT, V45, P134, DOI 10.1177/070674370004500203
+   Thorndike E.L., 1921, Journal of Educational Psychology, V12, P123, DOI [DOI 10.1037/H0076078, 10.1037/h0076078]
+   Thorndike EL., 1920, Harpers Mag, V140, P227
+   Thurstone L.L., 1938, Primary Mental Abilities
+   Thurstone LL, 1931, PSYCHOL REV, V38, P406, DOI 10.1037/h0069792
+   U. S. Department of Defense, 1984, TEST MAN ARM SERV VO
+   *US DEP DEF, 1982, PROF AM YOUTH 1980 N
+   WEINBERGER DA, 1979, J ABNORM PSYCHOL, V88, P369, DOI 10.1037/0021-843X.88.4.369
+   Weisinger H., 1998, EMOTIONAL INTELLIGEN
+   ZEIDNER M, 1989, J PSYCHOEDUCATIONAL, V7, P175
+NR 110
+TC 312
+Z9 501
+U1 0
+U2 51
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+J9 EMOTION
+JI Emotion
+PD SEP
+PY 2001
+VL 1
+IS 3
+BP 196
+EP 231
+DI 10.1037//1528-3542.1.3.196
+PG 36
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RH
+UT WOS:000208224200002
+PM 12934681
+DA 2025-05-08
+ER
+
+PT J
+AU Doerksen, S
+   Shimamura, AP
+AF Doerksen, Sharon
+   Shimamura, Arthur P.
+TI Source Memory Enhancement for Emotional Words
+SO EMOTION
+LA English
+DT Article
+AB The influence of emotional stimuli on source memory was investigated by using emotionally valenced words. The words were colored blue or yellow (Experiment 1) or surrounded by a blue or yellow frame (Experiment 2). Participants were asked to associate the words with the colors. In both experiments, emotionally valenced words elicited enhanced free recall compared with nonvalenced words; however, recognition memory was not affected. Source memory for the associated color was also enhanced for emotional words, suggesting that even memory for contextual information is benefited by emotional stimuli. This effect was not due to the ease of semantic clustering of emotional words because semantically related words were not associated with enhanced source memory, despite enhanced recall (Experiment 3). It is suggested that enhancement resulted from facilitated arousal or attention, which may act to increase organization processes important for source memory.
+C1 [Doerksen, Sharon; Shimamura, Arthur P.] Univ Calif Berkeley, Dept Psychol, Berkeley, CA 94720 USA.
+C3 University of California System; University of California Berkeley
+RP Shimamura, AP (corresponding author), Univ Calif Berkeley, Dept Psychol, 3210 Tolman Hall, Berkeley, CA 94720 USA.
+EM aps@socrates.berkeley.edu
+FU NIMH NIH HHS [MH48757] Funding Source: Medline; NINDS NIH HHS [NS17778]
+   Funding Source: Medline
+CR [Anonymous], 1992, SUPERLAB VERS 1 5 5
+   BATCHELDER WH, 1990, PSYCHOL REV, V97, P548, DOI 10.1037/0033-295X.97.4.548
+   BATTIG WF, 1969, J EXPT PSYCHOL MON 2, V80
+   Bayen UJ, 1996, J EXP PSYCHOL LEARN, V22, P197, DOI 10.1037/0278-7393.22.1.197
+   Brewin CR, 1997, BRIT J PSYCHIAT, V170, P388, DOI 10.1192/bjp.170.4.388a
+   BURKE A, 1992, MEM COGNITION, V20, P277, DOI 10.3758/BF03199665
+   Bush G, 2000, TRENDS COGN SCI, V4, P215, DOI 10.1016/S1364-6613(00)01483-2
+   CAHILL L, 1994, NATURE, V371, P702, DOI 10.1038/371702a0
+   Cahill L, 1998, TRENDS NEUROSCI, V21, P294, DOI 10.1016/S0166-2236(97)01214-9
+   CHRISTIANSON SA, 1992, PSYCHOL BULL, V112, P284, DOI 10.1037/0033-2909.112.2.284
+   Dodson CS, 1998, BEHAV RES METH INS C, V30, P517, DOI 10.3758/BF03200685
+   Dodson CS, 2000, J EXP PSYCHOL LEARN, V26, P1023, DOI 10.1037//0278-7393.26.4.1023
+   EASTERBROOK JA, 1959, PSYCHOL REV, V66, P183, DOI 10.1037/h0047707
+   Francis W, 1982, Frequency analysis of English usage: Lexicon and grammar
+   Hamann SB, 1999, NAT NEUROSCI, V2, P289, DOI 10.1038/6404
+   JOHNSON MK, 1993, PSYCHOL BULL, V114, P3, DOI 10.1037/0033-2909.114.1.3
+   Jurica PJ, 1999, MEM COGNITION, V27, P648, DOI 10.3758/BF03211558
+   KIHLSTROM JF, 1995, CONSCIOUS COGN, V4, P63, DOI 10.1006/ccog.1995.1004
+   LaBar KS, 1998, PSYCHOL SCI, V9, P490, DOI 10.1111/1467-9280.00090
+   LeDoux J., 1996, The emotional brain: The mysterious underpinnings of emotional life
+   Maddock RJ, 1999, TRENDS NEUROSCI, V22, P310, DOI 10.1016/S0166-2236(98)01374-5
+   Metcalfe J., 1998, The psychology of learning, P187
+   Nolde SF, 1998, NEUROREPORT, V9, P3509, DOI 10.1097/00001756-199810260-00032
+   Phelps EA, 1997, BRAIN COGNITION, V35, P85, DOI 10.1006/brcg.1997.0929
+   Phelps EA, 1998, NEUROCASE, V4, P527, DOI 10.1093/neucas/4.6.527
+   Posner M.I., 1994, EMOTION CULTURE, P197
+   PRATTO F, 1991, J PERS SOC PSYCHOL, V61, P380, DOI 10.1037/0022-3514.61.3.380
+   Read J.D., 1997, RECOLLECTIONS TRAUMA
+   RUSSELL JA, 1980, J PERS SOC PSYCHOL, V39, P1161, DOI 10.1037/h0077714
+   Safer MA, 1998, APPL COGNITIVE PSYCH, V12, P99, DOI 10.1002/(SICI)1099-0720(199804)12:2<99::AID-ACP509>3.0.CO;2-7
+   Strange BA, 2000, NEUROIMAGE, V12, P425, DOI 10.1006/nimg.2000.0637
+   Vogt BA, 2000, TRENDS NEUROSCI, V23, P195, DOI 10.1016/S0166-2236(00)01579-4
+   Wilding EL, 1997, NEUROPSYCHOLOGIA, V35, P1185, DOI 10.1016/S0028-3932(97)00048-1
+NR 33
+TC 255
+Z9 303
+U1 2
+U2 59
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+EI 1931-1516
+J9 EMOTION
+JI Emotion
+PD MAR
+PY 2001
+VL 1
+IS 1
+BP 5
+EP 11
+DI 10.1037/1528-3542.1.1.5
+PG 7
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RE
+UT WOS:000208223900002
+PM 12894807
+DA 2025-05-08
+ER
+
+PT J
+AU Wood, J
+   Mathews, A
+   Dalgleish, T
+AF Wood, Jacqueline
+   Mathews, Andrew
+   Dalgleish, Tim
+TI Anxiety and Cognitive Inhibition
+SO EMOTION
+LA English
+DT Article
+AB In 3 experiments, the authors investigated whether anxiety proneness is associated with impaired inhibitory processing. Participants made speeded decisions requiring inhibition of threatening or neutral meanings of ambiguous words, which were inappropriate in their current context. In Experiment 1 there were no differences found in inhibitory processing associated with anxiety. However, in Experiment 2, when the capacity for controlled processing was reduced by imposition of a mental load, anxious individuals showed a response pattern consistent with a general impairment of inhibitory processing. In Experiment 3, a group who had experienced a traumatic event also showed evidence of impaired inhibition, despite the absence of additional load. Thus anxiety proneness is associated with a general deficit of inhibitory processing, but this may be revealed only under conditions that limit the availability of controlled processing resources.
+C1 [Wood, Jacqueline; Mathews, Andrew; Dalgleish, Tim] MRC, Cognit & Brain Sci Unit, Cambridge CB2 2EF, England.
+RP Wood, J (corresponding author), Natl Inst Neurol Disorders & Stroke, Cognit Neurosci Sect, Bldg 10,Room 5C205,10 Ctr Dr,Mailstop 1440, Bethesda, MD 20892 USA.
+EM woodj@ninds.nih.gov; andrew.mathews@mrc-cbu.cam.ac.uk
+RI Dalgleish, Tim/E-8341-2010
+OI Dalgleish, Tim/0000-0002-7304-2231
+CR Amir N, 1998, J ABNORM PSYCHOL, V107, P285, DOI 10.1037/0021-843X.107.2.285
+   [Anonymous], 1987, Cognitive Therapy of Depression
+   Azuma T., 1996, BEHAV RES METH INSTR, V28, P106
+   CASSIDAY KL, 1992, COGNITIVE THER RES, V16, P283, DOI 10.1007/BF01183282
+   DALGLEISH T, 1999, HDB COGNITION EMOTIO, P243
+   DEMPSTER FN, 1992, DEV REV, V12, P45, DOI 10.1016/0273-2297(92)90003-K
+   Eysenck Michael.W., 1992, Anxiety: The Cognitive Perspective, DOI 10.4324/9780203775677
+   EYSENCK MW, 1991, J ABNORM PSYCHOL, V100, P144, DOI 10.1037/0021-843X.100.2.144
+   EYSENCK MW, 1992, COGNITION EMOTION, V6, P409, DOI 10.1080/02699939208409696
+   FOX E, 1994, COGNITION EMOTION, V8, P165, DOI 10.1080/02699939408408934
+   FOX E, 1993, BEHAV RES THER, V31, P487, DOI 10.1016/0005-7967(93)90129-I
+   Francis W, 1982, Frequency analysis of English usage: Lexicon and grammar
+   FRENCH CC, 1992, COGNITION EMOTION, V6, P65, DOI 10.1080/02699939208411058
+   GERNSBACHER MA, 1990, J EXP PSYCHOL LEARN, V16, P430, DOI 10.1037/0278-7393.16.3.430
+   HOROWITZ M, 1979, PSYCHOSOM MED, V41, P209, DOI 10.1097/00006842-197905000-00004
+   Howell D.C., 1992, Statistical Methods for Psychology
+   MACLEOD C, 1993, J ABNORM PSYCHOL, V102, P238, DOI 10.1037/0021-843X.102.2.238
+   MACLEOD C, 1992, BEHAV RES THER, V30, P479, DOI 10.1016/0005-7967(92)90032-C
+   MACLEOD C, 1988, Q J EXP PSYCHOL-A, V40, P653, DOI 10.1080/14640748808402292
+   MARTIN M, 1991, BEHAV RES THER, V29, P147, DOI 10.1016/0005-7967(91)90043-3
+   MATHEWS A, 1994, ANNU REV PSYCHOL, V45, P25, DOI 10.1146/annurev.ps.45.020194.000325
+   MATHEWS A, 1990, BEHAV RES THER, V28, P455, DOI 10.1016/0005-7967(90)90132-3
+   Mathews A, 1998, COGNITIVE THER RES, V22, P539, DOI 10.1023/A:1018738019346
+   MATHEWS A, 1990, J ABNORM PSYCHOL, V99, P166, DOI 10.1037/0021-843X.99.2.166
+   NELSON DL, 1980, BEHAV RES METH INSTR, V12, P16, DOI 10.3758/BF03208320
+   Postman L., 1970, NORMS WORD ASS
+   RICHARDS A, 1992, Q J EXP PSYCHOL-A, V45, P503, DOI 10.1080/02724989208250625
+   Rust J., 1992, Wechsler Objective Reading Dimensions
+   Schneider W., 1988, MICROEXPERIMENTAL LA
+   Simpson Greg B., 1994, P359
+   Spielberger C.D., 1968, STATE TRAIT ANXIETY
+   Spitzer R.L., 1994, STRUCTURED CLIN INTE
+   Williams JMG, 1996, PSYCHOL BULL, V120, P3, DOI 10.1037/0033-2909.120.1.3
+   Winer B. J., 1991, Statistical Principles in Experimental Design
+NR 34
+TC 53
+Z9 72
+U1 1
+U2 21
+PU AMER PSYCHOLOGICAL ASSOC
+PI WASHINGTON
+PA 750 FIRST ST NE, WASHINGTON, DC 20002-4242 USA
+SN 1528-3542
+J9 EMOTION
+JI Emotion
+PD JUN
+PY 2001
+VL 1
+IS 2
+BP 166
+EP 181
+DI 10.1037//1528-3542.1.2.166
+PG 16
+WC Psychology, Experimental
+WE Social Science Citation Index (SSCI)
+SC Psychology
+GA V21RG
+UT WOS:000208224100005
+PM 12899195
+DA 2025-05-08
+ER
+
+EF

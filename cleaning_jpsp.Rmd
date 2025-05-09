@@ -1,71 +1,39 @@
 ---
-title: "jpsp"
+title: "data_merge"
 author: "Shiyu Yang"
-date: "2024/8/5"
+date: "2025/5/9"
 output: html_document
 ---
 ```{r setup, include=FALSE}
 library(tidyverse)
 ```
 
-## Read data
+## Read data and merge
 ```{r}
-load("journal_of_personality_and_social_psychology_df1_webofscience.RData") 
+load("JPSP_df1_webofscience.RData") 
+jpsp_raw <- data.frame
+load("affective_science_df1_webofscience.RData") 
+aff_raw <- data.frame
+load("emotion_df1_webofscience.RData")
+emo_raw <- data.frame
+load("motivation_and_emotion_df1_webofscience.RData")
+mot_raw <- data.frame
+rm(data.frame)
+data_raw <- rbind(jpsp_raw, aff_raw, emo_raw, mot_raw)
 ```
 
-## Select columns, change class, and remove articles that published before 2019
+## Data clean
 ```{r}
-data<- data.frame %>% 
-  select(AF, TI, DT, RP,DE,ID, C1,FU, CR, PY, DI, PG) %>% 
+data<- data_raw %>% 
+  select(AF, TI, DT, RP,DE,ID, C1,FU, CR, PY, DI, PG, SO) %>% 
   mutate(publication_year =  as.numeric(PY))%>% 
-  filter(publication_year >= 2009) %>% 
   mutate(article_title = iconv(TI, from = "UTF-8", to = "UTF-8", sub = ""),
          article_title = gsub("<i>|</i>", "", TI))
 
-data_author<- data %>%
+author<- data %>%
   separate_rows(AF, sep = ";") %>%
   mutate(author_full_names = str_trim(AF),
-         document_type = DT,
-         reprint_addresses = RP,
-         funding_orgs = FU,
-         cited_references = CR,
          doi = DI) %>% 
-  select(-TI,-PY,-AF, -DT, -RP,-FU, -CR,-DI)
-
-# Manual clean 
-#data_author <- data_author %>% 
-#    mutate(author_full_names = case_when(
-#    author_full_names == "Abbott, L. F." ~ "Abbott, Liam E.",
-#    TRUE ~ author_full_names
-#  ))
-
-write.csv(data_author, file = "raw_author_data_jpsp.csv", row.names = FALSE)
-```
-
-```{r}
-cleaned_data <- data_author %>%
-  mutate(full_name = author_full_names) %>% 
-  separate(author_full_names, into = c("part1", "part2", "part3"), sep = ",", fill = "right") %>%
-  mutate(part2 = str_replace(part2, "\\s+[A-Z]\\.\\s*", " ")) %>%
-# Remove the second abbreviation
-  mutate(part2 = str_replace(part2, "\\s+[A-Z]\\.\\s*", " ")) %>% 
-# Remove the third abbreviation
-  mutate(part2 = str_replace(part2, "\\s+[A-Z]\\.\\s*", " ")) %>% 
-  mutate(part2 = str_replace(part2, "(?<!-)\\s+-\\s+(?![A-Z])", " ")) %>%
-  mutate(part2 = str_trim(part2)) %>%
-  mutate(last_name = str_trim(part1),
-         first_name = str_trim(part2)) %>%
-  select(full_name, last_name, first_name, article_title, document_type, reprint_addresses, funding_orgs, cited_references, publication_year, doi)
-
-# Manually clean
-#cleaned_data <- cleaned_data %>%
-#  mutate(first_name = case_when(
-#    first_name  == "Dominique J-F" ~ "Dominique",
-#    TRUE ~ first_name  
-#  )) 
-
-cleaned_data %>% 
-  distinct(full_name, first_name, last_name) %>% 
-  write.csv("jpsp_name_list.csv")
+  select(author_full_names, doi)
 ```
 
